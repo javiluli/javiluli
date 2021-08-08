@@ -1,0 +1,43 @@
+name: Update README.md
+
+on:
+  schedule:
+    # Runs at 03.30 IST
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git config user.name javiluli
+        git config user.email javiluli.dev@gmail.com
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+        git push origin master
+  update-stats:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - uses: anmol098/waka-readme-stats@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        LOCALE: "es"
+        SHOW_LINES_OF_CODE: "True"
+        SHOW_LANGUAGE: "True"
+        SHOW_COMMIT: "False"
+        SHOW_DAYS_OF_WEEK: "False"
+        SHOW_OS: "False"
+        SHOW_TIMEZONE: "False"
+        SHOW_SHORT_INFO: "False"
+        SHOW_LOC_CHART: "False"
+        SHOW_EDITORS: "False"
