@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    # Runs at 03.30 IST
+    # Runs at 00:00 UTC / 02:00 EU
     - cron: '0 0 * * *'
   workflow_dispatch:
 
