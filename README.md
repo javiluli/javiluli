@@ -11,7 +11,40 @@ const javiluliDev = {
 ```
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-141-blue)
 
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-469%20Lineas%20de%20c%C3%B3digo-blue)
+
+📊 **Esta semana me dediqué a** 
+
+```text
+💬 Lenguajes: 
+JSX                      3 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.89% 
+YAML                     3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   42.77% 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Smarty                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+
+🐱‍💻 Proyectos: 
+una-galeria-mas          4 hrs 2 mins        █████████████░░░░░░░░░░░░   51.94% 
+javiluli                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.06%
+
+```
+
+**Programo principalmente en Java** 
+
+```text
+Java                     10 repos            ██████████████░░░░░░░░░░░   58.82% 
+SCSS                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
 
 ### Mis ultimos repositorios
