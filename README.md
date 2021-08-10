@@ -1,6 +1,6 @@
 ## Hola, soy Javier Delgado 👋
 
-Este repositorio lleva activo 0 días
+Este repositorio lleva activo 1 días
 
 ```js
 const javiluliDev = {
@@ -11,40 +11,7 @@ const javiluliDev = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-97-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-467%20Lineas%20de%20c%C3%B3digo-blue)
-
-📊 **Esta semana me dediqué a** 
-
-```text
-💬 Lenguajes: 
-YAML                     3 hrs 13 mins       █████████████████████░░░░   85.59% 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-JSX                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
-Smarty                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-
-🐱‍💻 Proyectos: 
-javiluli                 3 hrs 38 mins       ████████████████████████░   96.48% 
-una-galeria-mas          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
-
-```
-
-**Programo principalmente en Java** 
-
-```text
-Java                     10 repos            ██████████████░░░░░░░░░░░   58.82% 
-SCSS                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-
- Last Updated on 09/08/2021
 <!--END_SECTION:waka-->
 
 ### Mis ultimos repositorios
