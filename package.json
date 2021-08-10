@@ -17,12 +17,6 @@
     "url": "https://github.com/javiluli/javiluli/issues"
   },
   "homepage": "https://github.com/javiluli/javiluli#readme",
-  "dependencies": {
-    "ink": "^3.0.9",
-    "node-instagram": "^4.3.0",
-    "react": "^16.14.0",
-    "rss-parser": "^3.12.0"
-  },
   "devDependencies": {
     "node-fetch": "^2.6.1"
   }
