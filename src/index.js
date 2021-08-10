@@ -1,48 +1,81 @@
 const fs = require("fs").promises;
 const fetch = require("node-fetch");
-const { PLACEHOLDERS, API } = require("./constants");
+const { PLACEHOLDERS, API, URL_BASE, STYLE, SHIELDS } = require("./constants");
 
-let latesResposMarkdown = "";
-let latesTimeCreateRepo = "";
-
-// obtener 3 repositorios desde perfil de GitHub
-const repos = async () => {
-  return fetch(API.REPOS_GITHUB)
-    .then((response) => response.json())
-    .then((data) => data);
-};
-
-// obtener data de un repositorio
-const repoData = async () => {
+// Obtener el dia de creacion de un repositorio
+const getCreationDay = async () => {
   return fetch(API.REPO_GITHUB)
     .then((response) => response.json())
-    .then((data) => data.created_at);
+    .then((data) => {
+      return data.created_at;
+    });
 };
 
-(async () => {
-  const markdownTemplate = await fs.readFile("./src/README.md.tpl", { encoding: "utf-8" });
-
-  // obtener 3 repositorios desde perfil de GitHub
-  const REPOS_GITHUB = await repos();
-
-  REPOS_GITHUB.map((item) => {
-    latesResposMarkdown += `
-- [${item.name}](${item.html_url})`;
-  });
-
-  // Tiempoo (en dias) que lleva creado el repositorio
-  const REPO_GITHUB_CREATED_AT = await repoData();
-  // Diferencia entre el dia actual y el dia de creacion del repositorio
+// Calcura la diferencia (en dias) entre dos fechas, con una fecha pasada y una actual (formato YYYY-MM-DDT00:00:00.000Z - ISO-8601 date)
+const getDifferenceInDays = async () => {
+  const REPO_GITHUB_CREATED_AT = await getCreationDay();
   const DATE_TARGET = new Date(REPO_GITHUB_CREATED_AT);
   const MILLISECONDS_OF_A_DAY = 1000 * 60 * 60 * 24;
-
   const NOW = new Date();
   const DURATION = NOW - DATE_TARGET;
-  const REMAINING_DAYS = Math.floor(DURATION / MILLISECONDS_OF_A_DAY);
+  return (REMAINING_DAYS = Math.floor(DURATION / MILLISECONDS_OF_A_DAY));
+};
 
-  latesTimeCreateRepo = `${REMAINING_DAYS} días`;
+// Obtener repositorios desde un perfil de GitHub
+const getRepositoriesData = async () => {
+  const response = await fetch(API.REPOS_GITHUB);
+  const text = await response.text();
+  const data = JSON.parse(text);
+  return data.map((repositori) => {
+    const { name, html_url } = repositori;
+    return { name, html_url };
+  });
+};
 
-  const newMarkdown = markdownTemplate.replace(PLACEHOLDERS.LATEST_REPOS, latesResposMarkdown).replace(PLACEHOLDERS.LONG_AGO_CREATED, latesTimeCreateRepo);
+// Obtener los 'shields.io' de skills y otros
+const getShieldsSkills = async () => {
+  return SHIELDS.map((shield) => {
+    const { message, labelColor, logo, logoColor, link } = shield;
+    return { message, labelColor, logo, logoColor, link };
+  });
+};
+
+// Genera un elemento HTML como parrafo
+const generateDaysParagraphsHTML = (days) => `
+<p> Este repositorio lleva activo ${days} días </p>`;
+
+// Genera un elemento MARKDOWN como elemento de una lista
+const generateListRepositoriesHTML = ({ name, html_url }) => `
+- [${name}](${html_url})`;
+
+// Genera un elemento de Shields.io dentro de un elemento <a> HTML
+const generateShieldsSkillsHTML = ({ message, labelColor, logo, logoColor, link }) => `
+<a href="${link}" target="_blank">
+  <img src="${URL_BASE}/${message}-${labelColor}.svg?style=${STYLE}&logo=${logo}&logoColor=${logoColor}" alt="${message}"/>
+</a>`;
+
+(async () => {
+  const [template, days, skills, repositories] = await Promise.all([
+    fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
+    getDifferenceInDays(),
+    getShieldsSkills(),
+    getRepositoriesData(),
+  ]);
+
+  // crea el parrafo con los dias que leva creado el repositorio
+  const daysParagraph = generateDaysParagraphsHTML(days);
+
+  // crea la lista con los ultimos repositorio
+  const linksRepositories = repositories.map(generateListRepositoriesHTML).join("");
+
+  // crea las insignias de shields.io
+  const linksShildsSkills = skills.map(generateShieldsSkillsHTML).join("");
+
+  // reemplaza los 'PLACEHOLDERS' por los datos obtenidos
+  const newMarkdown = template
+    .replace(PLACEHOLDERS.LATEST_REPOS, linksRepositories)
+    .replace(PLACEHOLDERS.LONG_AGO_CREATED, daysParagraph)
+    .replace(PLACEHOLDERS.SKILLS, linksShildsSkills);
 
   await fs.writeFile("README.md", newMarkdown);
 })();
