@@ -52,19 +52,27 @@ const javiluliDev = {
 
 <table>
   <tr style='vertical-align: bottom'>
-    <td> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=my-online-cv&theme=dark" />
+    <td>
+      <a href="https://github.com/javiluli/my-online-cv" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=my-online-cv&theme=dark" />
+      </a>
     </td>
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+      <a href="https://github.com/javiluli/array-sort-visualizer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=array-sort-visualizer&theme=dark" />
+      </a>
     </td>
   </tr>
   <tr style='vertical-align: bottom'>
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+      <a href="https://github.com/javiluli/una-galeria-mas" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+      </a>
     </td>
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=random-champ-select-lol&theme=dark" />
+      <a href="https://github.com/javiluli/random-champ-select-lol" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=random-champ-select-lol&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>

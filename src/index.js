@@ -27,8 +27,8 @@ const getRepositoriesData = async () => {
   const text = await response.text();
   const data = JSON.parse(text);
   return data.map((repositori) => {
-    const { name } = repositori;
-    return { name };
+    const { name, html_url } = repositori;
+    return { name, html_url };
   });
 };
 
@@ -45,9 +45,11 @@ const generateDaysParagraphsHTML = (days) => `
 <p> Este repositorio lleva activo ${days} días </p>`;
 
 // Genera un elemento MARKDOWN como elemento de una lista
-const generateItemTableRepositoriesHTML = ({ name }) => `
+const generateItemTableRepositoriesHTML = ({ name, html_url }) => `
 <td> 
-  <img src="${API.GITHUB_README_STATS_VERCEL_APP}/?username=javiluli&repo=${name}&theme=dark" />
+  <a href="${html_url}" target="_blank">
+    <img src="${API.GITHUB_README_STATS_VERCEL_APP}/?username=javiluli&repo=${name}&theme=dark" />
+  </a>
 </td>`;
 
 // Genera un elemento de Shields.io dentro de un elemento <a> HTML
