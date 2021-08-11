@@ -13,12 +13,28 @@ const javiluliDev = {
 
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
-</a>
+<table>
+  <tr>
+    <td>
+      <h3> Los lenguajes que más utilizo </h3>
+    </td>
+    <td> 
+      <h3> Mis habilidades y herramientas que he utilizado </h3>
+    </td>
+  </tr>
+  <tr style='vertical-align: top'>
+    <td width= "360px">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
+      </a>
+    </td>
+    <td> %{{skills}}% </td>
+  </tr>
+</table>
 
 ### Mis ultimos repositorios
-<table width="100%">
+
+<table>
   <tr style='vertical-align: bottom'>
     %{{latest_repos}}%
   </tr>
@@ -32,7 +48,25 @@ const javiluliDev = {
 - 💬 Pregúnteme sobre cualquier cosa, ¡¡sera un placer ayudar en lo posible!!
 - 📫 Para cualquier pregunta o cuestion puedes enviarme un correo electrónico.
 
-### Mis habilidades y herramientas
-%{{skills}}%
+### Mis repositorios y proyectos favoritos
+
+<table>
+  <tr style='vertical-align: bottom'>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=my-online-cv&theme=dark" />
+    </td>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+    </td>
+  </tr>
+  <tr style='vertical-align: bottom'>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+    </td>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=random-champ-select-lol&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ### Nos vemos muy pronto, un saludo 👋
