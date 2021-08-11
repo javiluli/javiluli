@@ -23,21 +23,14 @@ jobs:
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
         git push origin master
-  update-stats:
+        
+  update-wata-stats:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     needs: build
     steps:
-    - uses: anmol098/waka-readme-stats@master
+    - uses: athul/waka-readme@master
       with:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        LOCALE: "es"
-        SHOW_LINES_OF_CODE: "True"
-        SHOW_LANGUAGE: "True"
-        SHOW_COMMIT: "False"
-        SHOW_DAYS_OF_WEEK: "False"
-        SHOW_OS: "False"
-        SHOW_TIMEZONE: "False"
-        SHOW_SHORT_INFO: "False"
-        SHOW_LOC_CHART: "False"
-        SHOW_EDITORS: "False"
+        SHOW_TITLE: true
+        BLOCKS: ⣀⣄⣤⣦⣶⣷⣿`

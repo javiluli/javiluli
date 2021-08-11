@@ -13,6 +13,10 @@ const javiluliDev = {
 
 <!--END_SECTION:waka-->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
+</a>
+
 ### Mis ultimos repositorios
 %{{latest_repos}}%
 
@@ -21,7 +25,7 @@ const javiluliDev = {
 - 👨🏽‍💻 Actualmente soy estudiante en el desarrollo de aplicaciones web en mi segundo año.
 - 🤔 Mis intereses son la programación web en la parte del frontend con ReactJs.
 - 💼 Estoy cursando un grado superior en el desarrollo web y base de datos como Oracle y MySql.
-- 💬 Pregúnteme sobre cualquier cosa, !sera un placer ayudar en lo posible¡
+- 💬 Pregúnteme sobre cualquier cosa, ¡¡sera un placer ayudar en lo posible!!
 - 📫 Para cualquier pregunta o cuestion puedes enviarme un correo electrónico.
 
 ### Mis habilidades y herramientas
