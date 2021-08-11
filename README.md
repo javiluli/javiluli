@@ -11,37 +11,25 @@ const javiluliDev = {
 ```
 
 <!--START_SECTION:waka-->
-```text
-Week: 04 August, 2021 - 10 August, 2021
 
-JavaScript   5 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.02 % 
-JSX          3 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.90 % 
-YAML         3 hrs 23 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.61 % 
-Markdown     37 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.18 % 
-JSON         33 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 % 
-```
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
-</a>
-
-### Mis ultimos repositorios
-
-- [javiluli](https://github.com/javiluli/javiluli)
-- [java-from-linux](https://github.com/javiluli/java-from-linux)
-- [basic-c-from-linux](https://github.com/javiluli/basic-c-from-linux)
-
-### Hablemos para conocernos mejor
-
-- 👨🏽‍💻 Actualmente soy estudiante en el desarrollo de aplicaciones web en mi segundo año.
-- 🤔 Mis intereses son la programación web en la parte del frontend con ReactJs.
-- 💼 Estoy cursando un grado superior en el desarrollo web y base de datos como Oracle y MySql.
-- 💬 Pregúnteme sobre cualquier cosa, ¡¡sera un placer ayudar en lo posible!!
-- 📫 Para cualquier pregunta o cuestion puedes enviarme un correo electrónico.
-
-### Mis habilidades y herramientas
-
+<table>
+  <tr>
+    <td>
+      <h3> Los lenguajes que más utilizo </h3>
+    </td>
+    <td> 
+      <h3> Mis habilidades y herramientas que he utilizado </h3>
+    </td>
+  </tr>
+  <tr style='vertical-align: top'>
+    <td width= "360px">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
+      </a>
+    </td>
+    <td> 
 <a href="https://www.java.com/es/" target="_blank">
   <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=ffffff" alt="java"/>
 </a>
@@ -107,6 +95,68 @@ JSON         33 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code"/>
-</a>
+</a> </td>
+  </tr>
+</table>
+
+### Mis ultimos repositorios
+
+<table>
+  <tr style='vertical-align: bottom'>
+    
+<td> 
+  <a href="https://github.com/javiluli/javiluli" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=javiluli&theme=dark" />
+  </a>
+</td>
+<td> 
+  <a href="https://github.com/javiluli/java-from-linux" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-from-linux&theme=dark" />
+  </a>
+</td>
+<td> 
+  <a href="https://github.com/javiluli/basic-c-from-linux" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-c-from-linux&theme=dark" />
+  </a>
+</td>
+  </tr>
+</table>
+
+### Hablemos para conocernos mejor
+
+- 👨🏽‍💻 Actualmente soy estudiante en el desarrollo de aplicaciones web en mi segundo año.
+- 🤔 Mis intereses son la programación web en la parte del frontend con ReactJs.
+- 💼 Estoy cursando un grado superior en el desarrollo web y base de datos como Oracle y MySql.
+- 💬 Pregúnteme sobre cualquier cosa, ¡¡sera un placer ayudar en lo posible!!
+- 📫 Para cualquier pregunta o cuestion puedes enviarme un correo electrónico.
+
+### Mis repositorios y proyectos favoritos
+
+<table>
+  <tr style='vertical-align: bottom'>
+    <td>
+      <a href="https://github.com/javiluli/my-online-cv" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=my-online-cv&theme=dark" />
+      </a>
+    </td>
+    <td> 
+      <a href="https://github.com/javiluli/array-sort-visualizer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=array-sort-visualizer&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr style='vertical-align: bottom'>
+    <td> 
+      <a href="https://github.com/javiluli/una-galeria-mas" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
+      </a>
+    </td>
+    <td> 
+      <a href="https://github.com/javiluli/random-champ-select-lol" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=random-champ-select-lol&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Nos vemos muy pronto, un saludo 👋
