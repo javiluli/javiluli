@@ -18,7 +18,11 @@ const javiluliDev = {
 </a>
 
 ### Mis ultimos repositorios
-%{{latest_repos}}%
+<table width="100%">
+  <tr style='vertical-align: bottom'>
+    %{{latest_repos}}%
+  </tr>
+</table>
 
 ### Hablemos para conocernos mejor
 

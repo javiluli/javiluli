@@ -7,6 +7,7 @@ const PLACEHOLDERS = {
 const API = {
   REPOS_GITHUB: "https://api.github.com/users/javiluli/repos?sort=created&per_page=3",
   REPO_GITHUB: "https://api.github.com/repos/javiluli/javiluli",
+  GITHUB_README_STATS_VERCEL_APP: "https://github-readme-stats.vercel.app/api/pin",
 };
 
 const URL_BASE = "https://img.shields.io/badge";

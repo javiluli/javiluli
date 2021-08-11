@@ -27,8 +27,8 @@ const getRepositoriesData = async () => {
   const text = await response.text();
   const data = JSON.parse(text);
   return data.map((repositori) => {
-    const { name, html_url } = repositori;
-    return { name, html_url };
+    const { name } = repositori;
+    return { name };
   });
 };
 
@@ -45,8 +45,10 @@ const generateDaysParagraphsHTML = (days) => `
 <p> Este repositorio lleva activo ${days} días </p>`;
 
 // Genera un elemento MARKDOWN como elemento de una lista
-const generateListRepositoriesHTML = ({ name, html_url }) => `
-- [${name}](${html_url})`;
+const generateItemTableRepositoriesHTML = ({ name }) => `
+<td> 
+  <img src="${API.GITHUB_README_STATS_VERCEL_APP}/?username=javiluli&repo=${name}&theme=dark" />
+</td>`;
 
 // Genera un elemento de Shields.io dentro de un elemento <a> HTML
 const generateShieldsSkillsHTML = ({ message, labelColor, logo, logoColor, link }) => `
@@ -66,7 +68,7 @@ const generateShieldsSkillsHTML = ({ message, labelColor, logo, logoColor, link 
   const daysParagraph = generateDaysParagraphsHTML(days);
 
   // crea la lista con los ultimos repositorio
-  const linksRepositories = repositories.map(generateListRepositoriesHTML).join("");
+  const linksRepositories = repositories.map(generateItemTableRepositoriesHTML).join("");
 
   // crea las insignias de shields.io
   const linksShildsSkills = skills.map(generateShieldsSkillsHTML).join("");
