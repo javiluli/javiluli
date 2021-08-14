@@ -1,6 +1,6 @@
 ## Hola, soy Javier Delgado 👋
 
-<p> Este repositorio lleva activo 4 días </p> 
+<p> Este repositorio lleva activo 5 días </p> 
 
 ```js
 const javiluliDev = {
@@ -11,15 +11,7 @@ const javiluliDev = {
 ```
 
 <!--START_SECTION:waka-->
-```text
-Week: 06 August, 2021 - 12 August, 2021
 
-JSX          8 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.66 % 
-JavaScript   6 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.86 % 
-YAML         3 hrs 40 mins   ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.56 % 
-Markdown     3 hrs 34 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.15 % 
-CSS          1 hr 22 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.42 % 
-```
 <!--END_SECTION:waka-->
 
 <table>
