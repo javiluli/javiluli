@@ -1,13 +1,13 @@
 const PLACEHOLDERS = {
   LATEST_REPOS: '%{{latest_repos}}%',
-  LONG_AGO_CREATED: '%{{long_ago_created}}%',
-  SKILLS: '%{{skills}}%',
+  SKILLS_SHIELDS: '%{{skills_shields}}%',
+  SKILLS_SHIELDS_ICONS: '%{{skills_shields_icons}}%',
+  SKILLS_SHIELDS_LINKS: '%{{skills_shields_links}}%',
 }
 
 const API = {
-  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=2',
-  REPO_GITHUB: 'https://api.github.com/repos/javiluli/javiluli',
-  GITHUB_README_STATS_VERCEL_APP: 'https://github-readme-stats.vercel.app/api/pin',
+  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=12',
+  GITHUB_README_STATS_VERCEL_APP: 'https://denvercoder1-github-readme-stats.vercel.app/api/pin',
 }
 
 const URL_BASE = 'https://img.shields.io/badge'
@@ -17,7 +17,7 @@ const SHIELDS = [
   {
     message: 'java',
     labelColor: 'ED8B00',
-    logo: 'java',
+    nameIcon: 'java',
     logoColor: 'ffffff',
     link: 'https://www.java.com/es/',
     skillType: 'programmingLanguages',
@@ -25,7 +25,7 @@ const SHIELDS = [
   {
     message: 'JavaScript',
     labelColor: 'F7DF1E',
-    logo: 'javascript',
+    nameIcon: 'javascript',
     logoColor: '000000',
     link: 'https://www.javascript.com/',
     skillType: 'programmingLanguages',
@@ -33,7 +33,7 @@ const SHIELDS = [
   {
     message: 'PHP',
     labelColor: '777BB4',
-    logo: 'php',
+    nameIcon: 'php',
     logoColor: 'ffffff',
     link: 'https://www.php.net/',
     skillType: 'programmingLanguages',
@@ -41,7 +41,7 @@ const SHIELDS = [
   {
     message: 'Python',
     labelColor: '3776AB',
-    logo: 'python',
+    nameIcon: 'python',
     logoColor: 'ffffff',
     link: 'https://www.python.org/',
     skillType: 'programmingLanguages',
@@ -49,23 +49,23 @@ const SHIELDS = [
   {
     message: 'TypeScript',
     labelColor: '007ACC',
-    logo: 'typescript',
+    nameIcon: 'typescript',
     logoColor: 'ffffff',
     link: 'https://www.typescriptlang.org/',
     skillType: 'programmingLanguages',
   },
   {
     message: 'React',
-    labelColor: '20232A',
-    logo: 'react',
-    logoColor: '61DAFB',
+    labelColor: '61DAFB',
+    nameIcon: 'react',
+    logoColor: 'ffffff',
     link: 'https://es.reactjs.org/',
     skillType: 'frontendDevelopment',
   },
   {
     message: 'Bootstrap',
     labelColor: '563D7C',
-    logo: 'bootstrap',
+    nameIcon: 'bootstrap',
     logoColor: 'ffffff',
     link: 'https://getbootstrap.com/',
     skillType: 'frontendDevelopment',
@@ -73,7 +73,7 @@ const SHIELDS = [
   {
     message: 'CSS3',
     labelColor: '1572B6',
-    logo: 'css3',
+    nameIcon: 'css3',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/CSS',
     skillType: 'frontendDevelopment',
@@ -81,7 +81,7 @@ const SHIELDS = [
   {
     message: 'HTML5',
     labelColor: 'E34F26',
-    logo: 'html5',
+    nameIcon: 'html5',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/HTML',
     skillType: 'frontendDevelopment',
@@ -89,7 +89,7 @@ const SHIELDS = [
   {
     message: 'Pug',
     labelColor: 'A86454',
-    logo: 'pug',
+    nameIcon: 'pug',
     logoColor: 'ffffff',
     link: 'https://pugjs.org/api/getting-started.html',
     skillType: 'frontendDevelopment',
@@ -97,7 +97,7 @@ const SHIELDS = [
   {
     message: 'Gulp',
     labelColor: 'CF4647',
-    logo: 'gulp',
+    nameIcon: 'gulp',
     logoColor: 'ffffff',
     link: 'https://gulpjs.com/',
     skillType: 'frontendDevelopment',
@@ -105,7 +105,7 @@ const SHIELDS = [
   {
     message: 'Sass',
     labelColor: 'CC6699',
-    logo: 'sass',
+    nameIcon: 'sass',
     logoColor: 'ffffff',
     link: 'https://sass-lang.com/',
     skillType: 'frontendDevelopment',
@@ -113,7 +113,7 @@ const SHIELDS = [
   {
     message: 'Webpack',
     labelColor: '8DD6F9',
-    logo: 'webpack',
+    nameIcon: 'webpack',
     logoColor: 'ffffff',
     link: 'https://webpack.js.org/',
     skillType: 'frontendDevelopment',
@@ -121,7 +121,7 @@ const SHIELDS = [
   {
     message: 'Node.js',
     labelColor: '43853D',
-    logo: 'node.js',
+    nameIcon: 'node.js',
     logoColor: 'ffffff',
     link: 'https://nodejs.org/es/',
     skillType: 'backendDevelopment',
@@ -129,15 +129,15 @@ const SHIELDS = [
   {
     message: 'Oracle',
     labelColor: 'F80000',
-    logo: 'oracle',
+    nameIcon: 'oracle',
     logoColor: 'ffffff',
     link: 'https://www.oracle.com/es/index.html',
     skillType: 'database',
   },
   {
     message: 'MySQL',
-    labelColor: '00000F',
-    logo: 'mysql',
+    labelColor: '4479A1',
+    nameIcon: 'mysql',
     logoColor: 'ffffff',
     link: 'https://www.mysql.com/',
     skillType: 'database',
@@ -145,7 +145,7 @@ const SHIELDS = [
   {
     message: 'Illustrator',
     labelColor: 'FF9A00',
-    logo: 'adobeillustrator',
+    nameIcon: 'adobeillustrator',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/illustrator.html',
     skillType: 'software',
@@ -153,7 +153,7 @@ const SHIELDS = [
   {
     message: 'Photoshop',
     labelColor: '31A8FF',
-    logo: 'adobephotoshop',
+    nameIcon: 'adobephotoshop',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/photoshop.html',
     skillType: 'software',
@@ -162,7 +162,7 @@ const SHIELDS = [
   {
     message: 'Linux',
     labelColor: 'FCC624',
-    logo: 'linux',
+    nameIcon: 'linux',
     logoColor: 'ffffff',
     link: 'https://www.linux.org/',
     skillType: 'other',
@@ -170,23 +170,31 @@ const SHIELDS = [
   {
     message: 'Git',
     labelColor: 'F05032',
-    logo: 'git',
+    nameIcon: 'git',
     logoColor: 'ffffff',
     link: 'https://git-scm.com/',
     skillType: 'other',
   },
   {
     message: 'GitHub',
-    labelColor: '100000',
-    logo: 'github',
+    labelColor: '181717',
+    nameIcon: 'github',
     logoColor: 'ffffff',
     link: 'https://github.com/',
     skillType: 'other',
   },
   {
-    message: 'VS Code',
+    message: 'CodePen',
+    labelColor: '000000',
+    nameIcon: 'codepen',
+    logoColor: 'ffffff',
+    link: 'https://codepen.io/',
+    skillType: 'other',
+  },
+  {
+    message: 'VSCode',
     labelColor: '007ACC',
-    logo: 'visualstudiocode',
+    nameIcon: 'visualstudiocode',
     skillType: 'other',
     link: 'https://code.visualstudio.com/',
     logoColor: 'ffffff',
