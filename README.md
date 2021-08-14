@@ -34,7 +34,7 @@ CSS          1 hr 22 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr style='vertical-align: top'>
     <td width= "360px">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&theme=dark&layout=compact" />
       </a>
     </td>
     <td> 
@@ -110,7 +110,7 @@ CSS          1 hr 22 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### Mis ultimos repositorios
 
 <table>
-  <tr style='vertical-align: bottom'>
+  <tr>
     
 <td> 
   <a href="https://github.com/javiluli/javiluli" target="_blank">
@@ -141,7 +141,7 @@ CSS          1 hr 22 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### Mis repositorios y proyectos favoritos
 
 <table>
-  <tr style='vertical-align: bottom'>
+  <tr>
     <td>
       <a href="https://github.com/javiluli/my-online-cv" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=my-online-cv&theme=dark" />
@@ -153,7 +153,7 @@ CSS          1 hr 22 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </td>
   </tr>
-  <tr style='vertical-align: bottom'>
+  <tr>
     <td> 
       <a href="https://github.com/javiluli/una-galeria-mas" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark" />
