@@ -5,7 +5,7 @@ const PLACEHOLDERS = {
 }
 
 const API = {
-  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=3',
+  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=2',
   REPO_GITHUB: 'https://api.github.com/repos/javiluli/javiluli',
   GITHUB_README_STATS_VERCEL_APP: 'https://github-readme-stats.vercel.app/api/pin',
 }
