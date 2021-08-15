@@ -19,8 +19,9 @@
 </p>
 
 <br />
+
 <p align="center">
-  Hola, me llamo <a href='https://javiluli.github.io/my-online-cv/'>Javier Delgado</a>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el Desarrollo de Aplicaciones Web. Me encanta la programación y uno de los lenguajes que más domino es Java, pero también me encanta utilizar y aprender JavaScript y React.js.
+  Hola, me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier Delgado</a></b>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el <b>Desarrollo de Aplicaciones Web</b>. Me encanta la programación y uno de los lenguajes que más domino es <b>Java</b>, pero también me encanta aprender y utilizar <b>JavaScript y React.js</b>.
 </p>
 
 <br />
@@ -38,8 +39,9 @@
 <hr />
 
 ## 🛠️ Que utilizo para codificar
-<br />
-%{{skills_shields}}% 
+
+%{{skills_shields}}%
+
 <hr />
 
 ## 📊 Estadísticas de perfil de GitHub
@@ -56,6 +58,7 @@
 <a href="https://github.com/javiluli/javiluli">
   <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
 </a>
+
 <hr />
 
 ## 📘 Mis repositorios
