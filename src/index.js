@@ -1,25 +1,8 @@
+'use strict'
+
 const fs = require('fs').promises
-const fetch = require('node-fetch')
-const { PLACEHOLDERS, API, URL_BASE, STYLE, SHIELDS } = require('./constants')
-
-// Obtener repositorios desde un perfil de GitHub
-const getRepositoriesData = async () => {
-  const response = await fetch(API.REPOS_GITHUB)
-  const text = await response.text()
-  const data = JSON.parse(text)
-  return data.map((repositori) => {
-    const { name, html_url } = repositori
-    return { name, html_url }
-  })
-}
-
-// Obtener los 'shields.io' de skills y otros
-const getShieldsSkills = async () => {
-  return SHIELDS.map((shield) => {
-    const { message, labelColor, nameIcon, logoColor, link } = shield
-    return { message, labelColor, nameIcon, logoColor, link }
-  })
-}
+const { PLACEHOLDERS, API, URL_BASE, STYLE } = require('./constants')
+const { getRepositoriesData, getShieldsSkills } = require('./services/getData')
 
 // Genera un elemento MARKDOWN como elemento de una lista
 const generateItemTableRepositoriesHTML = ({ name, html_url }) => `
@@ -52,7 +35,7 @@ const generateSkillsShileds = ({ message, nameIcon }) => `
     getRepositoriesData(),
   ])
 
-  // crea la lista con los ultimos repositorio
+  // crea la lista con los ultimos repositorios
   const linksRepositories = repositories.map(generateItemTableRepositoriesHTML).join('')
 
   // crea las insignias de shields.io
