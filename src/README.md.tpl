@@ -38,7 +38,7 @@
 
 <hr />
 
-## 🛠️ Que utilizo para codificar
+## 🛠️ Que utilizo para programar y diseñar
 %{{skills_shields}}%
 
 <hr />
