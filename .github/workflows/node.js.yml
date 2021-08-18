@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: update-wata-stats
     steps:
+    - uses: actions/checkout@v2
     - run: |
         git config user.name javiluli
         git config user.email javiluli.dev@gmail.com
