@@ -39,7 +39,6 @@
 <hr />
 
 ## 🛠️ Que utilizo para codificar
-
 %{{skills_shields}}%
 
 <hr />
