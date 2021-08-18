@@ -38,10 +38,10 @@
 
 <hr />
 
-## 🛠️ Que utilizo para codificar
-
+## 🛠️ Que utilizo para programar y diseñar
 
 [![java][java_shield]][java_link]
+[![JUnit5][junit5_shield]][junit5_link]
 [![JavaScript][javascript_shield]][javascript_link]
 [![PHP][php_shield]][php_link]
 [![Python][python_shield]][python_link]
@@ -49,13 +49,17 @@
 [![React][react_shield]][react_link]
 [![Bootstrap][bootstrap_shield]][bootstrap_link]
 [![CSS3][css3_shield]][css3_link]
+[![Markdown][markdown_shield]][markdown_link]
 [![HTML5][html5_shield]][html5_link]
 [![Pug][pug_shield]][pug_link]
 [![Gulp][gulp_shield]][gulp_link]
 [![Sass][sass_shield]][sass_link]
 [![Webpack][webpack_shield]][webpack_link]
+[![GithubActions][github-actions_shield]][github-actions_link]
+[![WordPress][wordpress_shield]][wordpress_link]
 [![Node.js][node.js_shield]][node.js_link]
 [![Oracle][oracle_shield]][oracle_link]
+[![SQL][amazon-dynamodb_shield]][amazon-dynamodb_link]
 [![MySQL][mysql_shield]][mysql_link]
 [![Illustrator][adobeillustrator_shield]][adobeillustrator_link]
 [![Photoshop][adobephotoshop_shield]][adobephotoshop_link]
@@ -64,19 +68,27 @@
 [![GitHub][github_shield]][github_link]
 [![CodePen][codepen_shield]][codepen_link]
 [![VSCode][visualstudiocode_shield]][visualstudiocode_link]
+[![EclipseIDE][eclipseide_shield]][eclipseide_link]
+[![Figma][figma_shield]][figma_link]
+[![NPM][npm_shield]][npm_link]
+[![Prettier][prettier_shield]][prettier_link]
+[![ESLint][eslint_shield]][eslint_link]
+[![SVG][svg_shield]][svg_link]
+[![Heroku][heroku_shield]][heroku_link]
+[![StackOverflow][Stackoverflow_shield]][Stackoverflow_link]
 
 <hr />
 
 ## 📊 Estadísticas de perfil de GitHub
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: DD MM, YYYY - DD MM, YYYY
 
-JSX          9 hrs 5 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.30 % 
-Markdown     7 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.47 % 
-JavaScript   4 hrs 34 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.25 % 
-Smarty       2 hrs 54 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.33 % 
-CSS          2 hrs 8 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.59 % 
+-            0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+-            0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+-            0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+-            0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+-            0 hrs 0 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -135,21 +147,26 @@ CSS          2 hrs 8 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
 
-[java_shield]: https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=ffffff
+[java_shield]: https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=ffffff
+[junit5_shield]: https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=ffffff
 [javascript_shield]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000
 [php_shield]: https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=ffffff
 [python_shield]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff
-[typescript_shield]: https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=ffffff
+[typescript_shield]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff
 [react_shield]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff
-[bootstrap_shield]: https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff
+[bootstrap_shield]: https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff
 [css3_shield]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff
+[markdown_shield]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=ffffff
 [html5_shield]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff
 [pug_shield]: https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=pug&logoColor=ffffff
 [gulp_shield]: https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=ffffff
 [sass_shield]: https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=ffffff
 [webpack_shield]: https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=ffffff
-[node.js_shield]: https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=ffffff
+[github-actions_shield]: https://img.shields.io/badge/GithubActions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=ffffff
+[wordpress_shield]: https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=ffffff
+[node.js_shield]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=ffffff
 [oracle_shield]: https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=ffffff
+[amazon-dynamodb_shield]: https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff
 [mysql_shield]: https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff
 [adobeillustrator_shield]: https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff
 [adobephotoshop_shield]: https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff
@@ -158,10 +175,19 @@ CSS          2 hrs 8 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [github_shield]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=ffffff
 [codepen_shield]: https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=ffffff
 [visualstudiocode_shield]: https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff
+[eclipseide_shield]: https://img.shields.io/badge/EclipseIDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=ffffff
+[figma_shield]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff
+[npm_shield]: https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff
+[prettier_shield]: https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=ffffff
+[eslint_shield]: https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=ffffff
+[svg_shield]: https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=ffffff
+[heroku_shield]: https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=ffffff
+[Stackoverflow_shield]: https://img.shields.io/badge/StackOverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff
 
 <!-- Enlaces asociados a las insignias a sus sitios de informacion -->
 
 [java_link]: https://www.java.com/es/
+[junit5_link]: https://junit.org/
 [javascript_link]: https://www.javascript.com/
 [php_link]: https://www.php.net/
 [python_link]: https://www.python.org/
@@ -169,13 +195,17 @@ CSS          2 hrs 8 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [react_link]: https://es.reactjs.org/
 [bootstrap_link]: https://getbootstrap.com/
 [css3_link]: https://developer.mozilla.org/es/docs/Web/CSS
+[markdown_link]: https://markdown.es/
 [html5_link]: https://developer.mozilla.org/es/docs/Web/HTML
 [pug_link]: https://pugjs.org/api/getting-started.html
 [gulp_link]: https://gulpjs.com/
 [sass_link]: https://sass-lang.com/
 [webpack_link]: https://webpack.js.org/
+[github-actions_link]: https://github.com/features/actions
+[wordpress_link]: https://wordpress.com/es/
 [node.js_link]: https://nodejs.org/es/
 [oracle_link]: https://www.oracle.com/es/index.html
+[amazon-dynamodb_link]: https://www.w3schools.com/sql/
 [mysql_link]: https://www.mysql.com/
 [adobeillustrator_link]: https://www.adobe.com/es/products/illustrator.html
 [adobephotoshop_link]: https://www.adobe.com/es/products/photoshop.html
@@ -184,3 +214,11 @@ CSS          2 hrs 8 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [github_link]: https://github.com/
 [codepen_link]: https://codepen.io/
 [visualstudiocode_link]: https://code.visualstudio.com/
+[eclipseide_link]: https://www.eclipse.org/ide/
+[figma_link]: https://www.figma.com/
+[npm_link]: https://www.npmjs.com/
+[prettier_link]: https://www.npmjs.com/
+[eslint_link]: https://www.npmjs.com/
+[svg_link]: https://www.flaticon.es/
+[heroku_link]: https://id.heroku.com/login
+[Stackoverflow_link]: https://id.heroku.com/login
