@@ -10,14 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/javiluli/javiluli.git"
   },
-  "keywords": [],
+  "keywords": [
+    "readme",
+    "github",
+    "github profile",
+    "github readme",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/javiluli/javiluli/issues"
   },
   "homepage": "https://github.com/javiluli/javiluli#readme",
-  "devDependencies": {
-    "node-fetch": "^2.6.1"
+  "dependencies": {
+    "node-fetch": "2.6.1"
   }
 }
