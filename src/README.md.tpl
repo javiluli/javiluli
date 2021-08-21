@@ -58,6 +58,8 @@
   <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
 </a>
 
+![Snake animation](https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg)
+
 <hr />
 
 ## 📘 Mis repositorios
