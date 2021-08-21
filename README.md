@@ -81,15 +81,7 @@
 
 ## 📊 Estadísticas de perfil de GitHub
 <!--START_SECTION:waka-->
-```text
-Week: 14 August, 2021 - 20 August, 2021
 
-JavaScript   7 hrs 59 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.93 % 
-Markdown     4 hrs 49 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.69 % 
-JSX          4 hrs 44 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.34 % 
-Smarty       3 hrs 13 mins   ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-YAML         2 hrs 18 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.90 % 
-```
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -105,7 +97,7 @@ YAML         2 hrs 18 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Snake animation](https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
-  <img src="https://github.com/javiluli/javiluli/blob/main/images/stat.svg" alt="javiluli WakaTime Activity"/>
+  <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
 </a>
 <hr />
 
