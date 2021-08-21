@@ -60,6 +60,9 @@
 
 ![Snake animation](https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://github.com/avinal/Profile-Readme-WakaTime">
+  <img src="https://github.com/javiluli/javiluli/blob/main/images/stat.svg" alt="javiluli WakaTime Activity"/>
+</a>
 <hr />
 
 ## 📘 Mis repositorios
