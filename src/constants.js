@@ -6,7 +6,7 @@ const PLACEHOLDERS = {
 }
 
 const API = {
-  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=12',
+  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=6',
   GITHUB_README_STATS_VERCEL_APP: 'https://denvercoder1-github-readme-stats.vercel.app/api/pin',
 }
 
@@ -55,7 +55,7 @@ const SHIELDS = [
     skillType: 'software',
   },
   {
-    message: 'StackOverflow',
+    message: 'Stack_Overflow',
     labelColor: 'F58025',
     nameIcon: 'Stackoverflow',
     skillType: 'other',
@@ -79,7 +79,7 @@ const SHIELDS = [
     skillType: 'other',
   },
   {
-    message: 'HTML5',
+    message: 'HTML_5',
     labelColor: 'E34F26',
     nameIcon: 'html5',
     logoColor: 'ffffff',
@@ -143,7 +143,7 @@ const SHIELDS = [
     logoColor: 'ffffff',
   },
   {
-    message: 'EclipseIDE',
+    message: 'Eclipse_IDE',
     labelColor: '2C2255',
     nameIcon: 'eclipseide',
     skillType: 'other',
@@ -167,7 +167,7 @@ const SHIELDS = [
     skillType: 'programmingLanguages',
   },
   {
-    message: 'VSCode',
+    message: 'VS_Code',
     labelColor: '007ACC',
     nameIcon: 'visualstudiocode',
     skillType: 'other',
@@ -175,7 +175,7 @@ const SHIELDS = [
     logoColor: 'ffffff',
   },
   {
-    message: 'CSS3',
+    message: 'CSS_3',
     labelColor: '1572B6',
     nameIcon: 'css3',
     logoColor: 'ffffff',
@@ -191,7 +191,7 @@ const SHIELDS = [
     skillType: 'programmingLanguages',
   },
   {
-    message: 'GithubActions',
+    message: 'Github_Actions',
     labelColor: '2088FF',
     nameIcon: 'github-actions',
     logoColor: 'ffffff',
@@ -231,7 +231,7 @@ const SHIELDS = [
     skillType: 'programmingLanguages',
   },
   {
-    message: 'MySQL',
+    message: 'My_SQL',
     labelColor: '4479A1',
     nameIcon: 'mysql',
     logoColor: 'ffffff',
@@ -239,7 +239,7 @@ const SHIELDS = [
     skillType: 'database',
   },
   {
-    message: 'WordPress',
+    message: 'Word_Press',
     labelColor: '21759B',
     nameIcon: 'wordpress',
     logoColor: 'ffffff',

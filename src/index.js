@@ -7,7 +7,7 @@ const { getRepositoriesData, getShieldsSkills } = require('./services/getData')
 // Genera un elemento MARKDOWN como elemento de una lista
 const generateItemTableRepositoriesHTML = ({ name, html_url }) => `
 <a href="${html_url}" target="_blank">
-  <img src="${API.GITHUB_README_STATS_VERCEL_APP}/?username=javiluli&repo=${name}&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="${name}"/>
+  <img src="${API.GITHUB_README_STATS_VERCEL_APP}/?username=javiluli&repo=${name}&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="${name}"/>
 </a>`
 
 /**
@@ -15,7 +15,7 @@ const generateItemTableRepositoriesHTML = ({ name, html_url }) => `
  */
 // Genera un elemento con una referencia de valor, Ej: [javascript_link]: https://www.javascript.com/
 const generateSkillsShiledsIcons = ({ message, labelColor, nameIcon, logoColor }) => `
-[${nameIcon}_shield]: ${URL_BASE}/${message}-${labelColor}.svg?style=${STYLE}&logo=${nameIcon}&logoColor=${logoColor}`
+[${nameIcon}_img]: ${URL_BASE}/${message}-${labelColor}.svg?style=${STYLE}&logo=${nameIcon}&logoColor=${logoColor}`
 
 // Genera un elemento con una referencia de valor, Ej: [javascript_shield]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000
 const generateSkillsShiledsLinks = ({ nameIcon, link }) => `
@@ -23,7 +23,7 @@ const generateSkillsShiledsLinks = ({ nameIcon, link }) => `
 
 // Genera un elemento MARKDOWN de link con un elemento interno imagen, ambos utilizando referencias de diversos elementos
 const generateSkillsShileds = ({ message, nameIcon }) => `
-[![${message}][${nameIcon}_shield]][${nameIcon}_link]`
+[![${message}][${nameIcon}_img]][${nameIcon}_link]`
 
 // Ej. final: [![JavaScript][javascript_shield]][javascript_link]
 // ==============================================================

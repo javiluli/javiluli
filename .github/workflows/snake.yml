@@ -1,17 +1,17 @@
-name: Generate Datas - snake
+name: Update Snake Game
 
 on:
   push:
     branches:
     - master
-
   schedule:
-    - cron: "0 */1 * * *" 
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: "0 0 * * *" 
   workflow_dispatch:
   
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update snake
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
