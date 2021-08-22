@@ -1,6 +1,4 @@
-<p align="center">
-   <h1 align="center">¡Hola, soy Javiluli 👋!</h1>
-</p>
+<h1 align="center">¡Hola, soy Javiluli! <img src="./gifs/waving_hand.gif" alt="👋"/> </h1>
 
 <!-- Mis redes sociales -->
 <p align="center">
@@ -38,156 +36,129 @@
 
 <hr />
 
-## 🛠️ Que utilizo para programar y diseñar
+## ☕ Que utilizo para programar y diseñar
 
-[![JavaScript][javascript_shield]][javascript_link]
-[![Linux][linux_shield]][linux_link]
-[![Prettier][prettier_shield]][prettier_link]
-[![SVG][svg_shield]][svg_link]
-[![Illustrator][adobeillustrator_shield]][adobeillustrator_link]
-[![StackOverflow][Stackoverflow_shield]][Stackoverflow_link]
-[![Pug][pug_shield]][pug_link]
-[![Git][git_shield]][git_link]
-[![HTML5][html5_shield]][html5_link]
-[![Figma][figma_shield]][figma_link]
-[![Oracle][oracle_shield]][oracle_link]
-[![NPM][npm_shield]][npm_link]
-[![Gulp][gulp_shield]][gulp_link]
-[![Sass][sass_shield]][sass_link]
-[![Bootstrap][bootstrap_shield]][bootstrap_link]
-[![Heroku][heroku_shield]][heroku_link]
-[![EclipseIDE][eclipseide_shield]][eclipseide_link]
-[![ESLint][eslint_shield]][eslint_link]
-[![PHP][php_shield]][php_link]
-[![VSCode][visualstudiocode_shield]][visualstudiocode_link]
-[![CSS3][css3_shield]][css3_link]
-[![TypeScript][typescript_shield]][typescript_link]
-[![GithubActions][github-actions_shield]][github-actions_link]
-[![Photoshop][adobephotoshop_shield]][adobephotoshop_link]
-[![React][react_shield]][react_link]
-[![Webpack][webpack_shield]][webpack_link]
-[![Python][python_shield]][python_link]
-[![MySQL][mysql_shield]][mysql_link]
-[![WordPress][wordpress_shield]][wordpress_link]
-[![java][java_shield]][java_link]
-[![SQL][amazon-dynamodb_shield]][amazon-dynamodb_link]
-[![Node.js][node.js_shield]][node.js_link]
-[![JUnit5][junit5_shield]][junit5_link]
-[![GitHub][github_shield]][github_link]
-[![Markdown][markdown_shield]][markdown_link]
-[![CodePen][codepen_shield]][codepen_link]
+[![JavaScript][javascript_img]][javascript_link]
+[![Linux][linux_img]][linux_link]
+[![Prettier][prettier_img]][prettier_link]
+[![SVG][svg_img]][svg_link]
+[![Illustrator][adobeillustrator_img]][adobeillustrator_link]
+[![Stack_Overflow][Stackoverflow_img]][Stackoverflow_link]
+[![Pug][pug_img]][pug_link]
+[![Git][git_img]][git_link]
+[![HTML_5][html5_img]][html5_link]
+[![Figma][figma_img]][figma_link]
+[![Oracle][oracle_img]][oracle_link]
+[![NPM][npm_img]][npm_link]
+[![Gulp][gulp_img]][gulp_link]
+[![Sass][sass_img]][sass_link]
+[![Bootstrap][bootstrap_img]][bootstrap_link]
+[![Heroku][heroku_img]][heroku_link]
+[![Eclipse_IDE][eclipseide_img]][eclipseide_link]
+[![ESLint][eslint_img]][eslint_link]
+[![PHP][php_img]][php_link]
+[![VS_Code][visualstudiocode_img]][visualstudiocode_link]
+[![CSS_3][css3_img]][css3_link]
+[![TypeScript][typescript_img]][typescript_link]
+[![Github_Actions][github-actions_img]][github-actions_link]
+[![Photoshop][adobephotoshop_img]][adobephotoshop_link]
+[![React][react_img]][react_link]
+[![Webpack][webpack_img]][webpack_link]
+[![Python][python_img]][python_link]
+[![My_SQL][mysql_img]][mysql_link]
+[![Word_Press][wordpress_img]][wordpress_link]
+[![java][java_img]][java_link]
+[![SQL][amazon-dynamodb_img]][amazon-dynamodb_link]
+[![Node.js][node.js_img]][node.js_link]
+[![JUnit5][junit5_img]][junit5_link]
+[![GitHub][github_img]][github_link]
+[![Markdown][markdown_img]][markdown_link]
+[![CodePen][codepen_img]][codepen_link]
 
 <hr />
 
 ## 📊 Estadísticas de perfil de GitHub
-<!--START_SECTION:waka-->
-```text
-Week: 15 August, 2021 - 21 August, 2021
-
-JavaScript   7 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.28 % 
-JSX          4 hrs 44 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.41 % 
-Markdown     3 hrs 40 mins   ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.34 % 
-YAML         2 hrs 55 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.80 % 
-Smarty       1 hr 20 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.36 % 
-```
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Estadísticas de Github de Javiluli" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=javiluli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=64b0f7&icon_color=fff098" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Principales idiomas de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=64b0f7" height="192px"/>
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=1F222E&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
-</a>
-
-![Snake animation](https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Estadísticas de Github de Javiluli" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=javiluli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7&icon_color=fff098" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Principales idiomas de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7" height="192px"/>
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
+</a>
+
+<a href="https://github.com/Platane/snk">
+  <img alt="Snake animation" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg"/>
+</a>
+
 <hr />
 
 ## 📘 Mis repositorios
 
 <a href="https://github.com/javiluli/javiluli" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=javiluli&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="javiluli"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=javiluli&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="javiluli"/>
 </a>
 <a href="https://github.com/javiluli/java-from-linux" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-from-linux&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-from-linux"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-from-linux&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-from-linux"/>
 </a>
 <a href="https://github.com/javiluli/basic-c-from-linux" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-c-from-linux&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-c-from-linux"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-c-from-linux&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-c-from-linux"/>
 </a>
 <a href="https://github.com/javiluli/basic-junit" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-junit&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-junit"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-junit&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-junit"/>
 </a>
 <a href="https://github.com/javiluli/basic-figure-editor" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-figure-editor&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-figure-editor"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-figure-editor&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-figure-editor"/>
 </a>
 <a href="https://github.com/javiluli/mini-instituto" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=mini-instituto&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="mini-instituto"/>
-</a>
-<a href="https://github.com/javiluli/basic-array-sort-visualizer" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=basic-array-sort-visualizer&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="basic-array-sort-visualizer"/>
-</a>
-<a href="https://github.com/javiluli/una-galeria-mas" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=una-galeria-mas&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="una-galeria-mas"/>
-</a>
-<a href="https://github.com/javiluli/error-control-pages" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=error-control-pages&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="error-control-pages"/>
-</a>
-<a href="https://github.com/javiluli/array-sort-visualizer" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=array-sort-visualizer&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="array-sort-visualizer"/>
-</a>
-<a href="https://github.com/javiluli/java-biblioteca-ObjectIOStream" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-biblioteca-ObjectIOStream&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-biblioteca-ObjectIOStream"/>
-</a>
-<a href="https://github.com/javiluli/Dragones-y-Mazmorras" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=Dragones-y-Mazmorras&theme=dark&bg_color=1F222E&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="Dragones-y-Mazmorras"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=mini-instituto&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="mini-instituto"/>
 </a>
 
 ## Nos vemos muy pronto, un saludo 👋
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
 
-[javascript_shield]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000
-[linux_shield]: https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=ffffff
-[prettier_shield]: https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=ffffff
-[svg_shield]: https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=ffffff
-[adobeillustrator_shield]: https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff
-[Stackoverflow_shield]: https://img.shields.io/badge/StackOverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff
-[pug_shield]: https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=pug&logoColor=ffffff
-[git_shield]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff
-[html5_shield]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff
-[figma_shield]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff
-[oracle_shield]: https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=ffffff
-[npm_shield]: https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff
-[gulp_shield]: https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=ffffff
-[sass_shield]: https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=ffffff
-[bootstrap_shield]: https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff
-[heroku_shield]: https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=ffffff
-[eclipseide_shield]: https://img.shields.io/badge/EclipseIDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=ffffff
-[eslint_shield]: https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=ffffff
-[php_shield]: https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=ffffff
-[visualstudiocode_shield]: https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff
-[css3_shield]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff
-[typescript_shield]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff
-[github-actions_shield]: https://img.shields.io/badge/GithubActions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=ffffff
-[adobephotoshop_shield]: https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff
-[react_shield]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff
-[webpack_shield]: https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=ffffff
-[python_shield]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff
-[mysql_shield]: https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff
-[wordpress_shield]: https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=ffffff
-[java_shield]: https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=ffffff
-[amazon-dynamodb_shield]: https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff
-[node.js_shield]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=ffffff
-[junit5_shield]: https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=ffffff
-[github_shield]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=ffffff
-[markdown_shield]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=ffffff
-[codepen_shield]: https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=ffffff
+[javascript_img]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000
+[linux_img]: https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=ffffff
+[prettier_img]: https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=ffffff
+[svg_img]: https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=ffffff
+[adobeillustrator_img]: https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff
+[Stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff
+[pug_img]: https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=pug&logoColor=ffffff
+[git_img]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff
+[html5_img]: https://img.shields.io/badge/HTML_5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff
+[figma_img]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff
+[oracle_img]: https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=ffffff
+[npm_img]: https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff
+[gulp_img]: https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=ffffff
+[sass_img]: https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=ffffff
+[bootstrap_img]: https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff
+[heroku_img]: https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=ffffff
+[eclipseide_img]: https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=ffffff
+[eslint_img]: https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=ffffff
+[php_img]: https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=ffffff
+[visualstudiocode_img]: https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff
+[css3_img]: https://img.shields.io/badge/CSS_3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff
+[typescript_img]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff
+[github-actions_img]: https://img.shields.io/badge/Github_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=ffffff
+[adobephotoshop_img]: https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff
+[react_img]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff
+[webpack_img]: https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=ffffff
+[python_img]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff
+[mysql_img]: https://img.shields.io/badge/My_SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff
+[wordpress_img]: https://img.shields.io/badge/Word_Press-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=ffffff
+[java_img]: https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=ffffff
+[amazon-dynamodb_img]: https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff
+[node.js_img]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=ffffff
+[junit5_img]: https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=ffffff
+[github_img]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=ffffff
+[markdown_img]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=ffffff
+[codepen_img]: https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=ffffff
 
 <!-- Enlaces asociados a las insignias a sus sitios de informacion -->
 
