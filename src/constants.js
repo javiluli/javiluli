@@ -20,7 +20,6 @@ const SHIELDS = [
     nameIcon: 'javascript',
     logoColor: '000000',
     link: 'https://www.javascript.com/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'Linux',
@@ -28,23 +27,20 @@ const SHIELDS = [
     nameIcon: 'linux',
     logoColor: 'ffffff',
     link: 'https://www.linux.org/',
-    skillType: 'other',
   },
   {
     message: 'Prettier',
     labelColor: 'F7B93E',
     nameIcon: 'prettier',
-    skillType: 'other',
-    link: 'https://www.npmjs.com/',
     logoColor: 'ffffff',
+    link: 'https://www.npmjs.com/',
   },
   {
     message: 'SVG',
     labelColor: 'FFB13B',
     nameIcon: 'svg',
-    skillType: 'other',
-    link: 'https://www.flaticon.es/',
     logoColor: 'ffffff',
+    link: 'https://www.flaticon.es/',
   },
   {
     message: 'Illustrator',
@@ -52,15 +48,13 @@ const SHIELDS = [
     nameIcon: 'adobeillustrator',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/illustrator.html',
-    skillType: 'software',
   },
   {
     message: 'Stack_Overflow',
     labelColor: 'F58025',
     nameIcon: 'Stackoverflow',
-    skillType: 'other',
-    link: 'https://id.heroku.com/login',
     logoColor: 'ffffff',
+    link: 'https://id.heroku.com/login',
   },
   {
     message: 'Pug',
@@ -68,7 +62,6 @@ const SHIELDS = [
     nameIcon: 'pug',
     logoColor: 'ffffff',
     link: 'https://pugjs.org/api/getting-started.html',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Git',
@@ -76,7 +69,6 @@ const SHIELDS = [
     nameIcon: 'git',
     logoColor: 'ffffff',
     link: 'https://git-scm.com/',
-    skillType: 'other',
   },
   {
     message: 'HTML_5',
@@ -84,13 +76,11 @@ const SHIELDS = [
     nameIcon: 'html5',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/HTML',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Figma',
     labelColor: 'F24E1E',
     nameIcon: 'figma',
-    skillType: 'other',
     link: 'https://www.figma.com/',
     logoColor: 'ffffff',
   },
@@ -100,15 +90,13 @@ const SHIELDS = [
     nameIcon: 'oracle',
     logoColor: 'ffffff',
     link: 'https://www.oracle.com/es/index.html',
-    skillType: 'database',
   },
   {
     message: 'NPM',
     labelColor: 'CB3837',
     nameIcon: 'npm',
-    skillType: 'other',
-    link: 'https://www.npmjs.com/',
     logoColor: 'ffffff',
+    link: 'https://www.npmjs.com/',
   },
   {
     message: 'Gulp',
@@ -116,7 +104,6 @@ const SHIELDS = [
     nameIcon: 'gulp',
     logoColor: 'ffffff',
     link: 'https://gulpjs.com/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Sass',
@@ -124,7 +111,6 @@ const SHIELDS = [
     nameIcon: 'sass',
     logoColor: 'ffffff',
     link: 'https://sass-lang.com/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Bootstrap',
@@ -132,31 +118,27 @@ const SHIELDS = [
     nameIcon: 'bootstrap',
     logoColor: 'ffffff',
     link: 'https://getbootstrap.com/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Heroku',
     labelColor: '430098',
     nameIcon: 'heroku',
-    skillType: 'other',
-    link: 'https://id.heroku.com/login',
     logoColor: 'ffffff',
+    link: 'https://id.heroku.com/login',
   },
   {
     message: 'Eclipse_IDE',
     labelColor: '2C2255',
     nameIcon: 'eclipseide',
-    skillType: 'other',
-    link: 'https://www.eclipse.org/ide/',
     logoColor: 'ffffff',
+    link: 'https://www.eclipse.org/ide/',
   },
   {
     message: 'ESLint',
     labelColor: '4B32C3',
     nameIcon: 'eslint',
-    skillType: 'other',
-    link: 'https://www.npmjs.com/',
     logoColor: 'ffffff',
+    link: 'https://www.npmjs.com/',
   },
   {
     message: 'PHP',
@@ -164,15 +146,13 @@ const SHIELDS = [
     nameIcon: 'php',
     logoColor: 'ffffff',
     link: 'https://www.php.net/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'VS_Code',
     labelColor: '007ACC',
     nameIcon: 'visualstudiocode',
-    skillType: 'other',
-    link: 'https://code.visualstudio.com/',
     logoColor: 'ffffff',
+    link: 'https://code.visualstudio.com/',
   },
   {
     message: 'CSS_3',
@@ -180,7 +160,6 @@ const SHIELDS = [
     nameIcon: 'css3',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/CSS',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'TypeScript',
@@ -188,7 +167,6 @@ const SHIELDS = [
     nameIcon: 'typescript',
     logoColor: 'ffffff',
     link: 'https://www.typescriptlang.org/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'Github_Actions',
@@ -196,7 +174,6 @@ const SHIELDS = [
     nameIcon: 'github-actions',
     logoColor: 'ffffff',
     link: 'https://github.com/features/actions',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Photoshop',
@@ -204,7 +181,6 @@ const SHIELDS = [
     nameIcon: 'adobephotoshop',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/photoshop.html',
-    skillType: 'software',
   },
   {
     message: 'React',
@@ -212,7 +188,6 @@ const SHIELDS = [
     nameIcon: 'react',
     logoColor: 'ffffff',
     link: 'https://es.reactjs.org/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Webpack',
@@ -220,7 +195,6 @@ const SHIELDS = [
     nameIcon: 'webpack',
     logoColor: 'ffffff',
     link: 'https://webpack.js.org/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'Python',
@@ -228,7 +202,6 @@ const SHIELDS = [
     nameIcon: 'python',
     logoColor: 'ffffff',
     link: 'https://www.python.org/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'My_SQL',
@@ -236,7 +209,6 @@ const SHIELDS = [
     nameIcon: 'mysql',
     logoColor: 'ffffff',
     link: 'https://www.mysql.com/',
-    skillType: 'database',
   },
   {
     message: 'Word_Press',
@@ -244,7 +216,6 @@ const SHIELDS = [
     nameIcon: 'wordpress',
     logoColor: 'ffffff',
     link: 'https://wordpress.com/es/',
-    skillType: 'frontendDevelopment',
   },
   {
     message: 'java',
@@ -252,7 +223,6 @@ const SHIELDS = [
     nameIcon: 'java',
     logoColor: 'ffffff',
     link: 'https://www.java.com/es/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'SQL',
@@ -260,7 +230,6 @@ const SHIELDS = [
     nameIcon: 'amazon-dynamodb',
     logoColor: 'ffffff',
     link: 'https://www.w3schools.com/sql/',
-    skillType: 'database',
   },
   {
     message: 'Node.js',
@@ -268,7 +237,6 @@ const SHIELDS = [
     nameIcon: 'node.js',
     logoColor: 'ffffff',
     link: 'https://nodejs.org/es/',
-    skillType: 'backendDevelopment',
   },
   {
     message: 'JUnit5',
@@ -276,7 +244,6 @@ const SHIELDS = [
     nameIcon: 'junit5',
     logoColor: 'ffffff',
     link: 'https://junit.org/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'GitHub',
@@ -284,7 +251,6 @@ const SHIELDS = [
     nameIcon: 'github',
     logoColor: 'ffffff',
     link: 'https://github.com/',
-    skillType: 'other',
   },
   {
     message: 'Markdown',
@@ -292,7 +258,6 @@ const SHIELDS = [
     nameIcon: 'markdown',
     logoColor: 'ffffff',
     link: 'https://markdown.es/',
-    skillType: 'programmingLanguages',
   },
   {
     message: 'CodePen',
@@ -300,7 +265,6 @@ const SHIELDS = [
     nameIcon: 'codepen',
     logoColor: 'ffffff',
     link: 'https://codepen.io/',
-    skillType: 'other',
   },
 ]
 
