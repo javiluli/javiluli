@@ -65,8 +65,6 @@
 ## 📘 Mis repositorios
 %{{latest_repos}}%
 
-## Nos vemos muy pronto, un saludo 👋
-
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
 %{{skills_shields_icons}}%
 
