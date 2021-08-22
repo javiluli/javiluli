@@ -62,7 +62,7 @@
 
 <hr />
 
-## 📘 Mis repositorios
+## 📘 Mis ultimos repositorios creados
 %{{latest_repos}}%
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
