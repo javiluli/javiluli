@@ -172,12 +172,12 @@
 
 [javascript_link]: https://www.javascript.com/
 [linux_link]: https://www.linux.org/
-[prettier_link]: https://www.npmjs.com/
+[prettier_link]: https://prettier.io/
 [svg_link]: https://www.flaticon.es/
 [adobeillustrator_link]: https://www.adobe.com/es/products/illustrator.html
-[Stackoverflow_link]: https://id.heroku.com/login
-[xampp_link]: https://codepen.io/
-[ubuntu_link]: https://codepen.io/
+[Stackoverflow_link]: https://stackoverflow.com/
+[xampp_link]: https://www.apachefriends.org/es/index.html
+[ubuntu_link]: https://ubuntu.com/download
 [figma_link]: https://www.figma.com/
 [html5_link]: https://developer.mozilla.org/es/docs/Web/HTML
 [pug_link]: https://pugjs.org/api/getting-started.html
@@ -189,7 +189,7 @@
 [bootstrap_link]: https://getbootstrap.com/
 [heroku_link]: https://id.heroku.com/login
 [eclipseide_link]: https://www.eclipse.org/ide/
-[eslint_link]: https://www.npmjs.com/
+[eslint_link]: https://eslint.org/
 [php_link]: https://www.php.net/
 [visualstudiocode_link]: https://code.visualstudio.com/
 [css3_link]: https://developer.mozilla.org/es/docs/Web/CSS
@@ -202,12 +202,12 @@
 [mysql_link]: https://www.mysql.com/
 [wordpress_link]: https://wordpress.com/es/
 [java_link]: https://www.java.com/es/
-[virtualbox_link]: https://codepen.io/
+[virtualbox_link]: https://www.virtualbox.org/
 [amazon-dynamodb_link]: https://www.w3schools.com/sql/
 [node.js_link]: https://nodejs.org/es/
 [junit5_link]: https://junit.org/
-[vmware_link]: https://codepen.io/
-[windowsterminal_link]: https://codepen.io/
+[vmware_link]: https://www.vmware.com/es.html
+[windowsterminal_link]: https://www.microsoft.com/es-es/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab
 [github_link]: https://github.com/
 [markdown_link]: https://markdown.es/
 [codepen_link]: https://codepen.io/
