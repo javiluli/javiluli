@@ -36,7 +36,7 @@
 
 <hr />
 
-## ☕ Que utilizo para programar y diseñar
+## ☕ Mis experiencias y habilidades
 
 [![JavaScript][javascript_img]][javascript_link]
 [![Linux][linux_img]][linux_link]
@@ -44,10 +44,12 @@
 [![SVG][svg_img]][svg_link]
 [![Illustrator][adobeillustrator_img]][adobeillustrator_link]
 [![Stack_Overflow][Stackoverflow_img]][Stackoverflow_link]
+[![XAMPP][xampp_img]][xampp_link]
+[![Ubuntu][ubuntu_img]][ubuntu_link]
+[![Figma][figma_img]][figma_link]
+[![HTML_5][html5_img]][html5_link]
 [![Pug][pug_img]][pug_link]
 [![Git][git_img]][git_link]
-[![HTML_5][html5_img]][html5_link]
-[![Figma][figma_img]][figma_link]
 [![Oracle][oracle_img]][oracle_link]
 [![NPM][npm_img]][npm_link]
 [![Gulp][gulp_img]][gulp_link]
@@ -68,9 +70,12 @@
 [![My_SQL][mysql_img]][mysql_link]
 [![Word_Press][wordpress_img]][wordpress_link]
 [![java][java_img]][java_link]
+[![VirtualBox][virtualbox_img]][virtualbox_link]
 [![SQL][amazon-dynamodb_img]][amazon-dynamodb_link]
 [![Node.js][node.js_img]][node.js_link]
 [![JUnit5][junit5_img]][junit5_link]
+[![VMware][vmware_img]][vmware_link]
+[![Windows_Terminal][windowsterminal_img]][windowsterminal_link]
 [![GitHub][github_img]][github_link]
 [![Markdown][markdown_img]][markdown_link]
 [![CodePen][codepen_img]][codepen_link]
@@ -127,10 +132,12 @@
 [svg_img]: https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=ffffff
 [adobeillustrator_img]: https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff
 [Stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=ffffff
+[xampp_img]: https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=ffffff
+[ubuntu_img]: https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=ffffff
+[figma_img]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff
+[html5_img]: https://img.shields.io/badge/HTML_5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff
 [pug_img]: https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=pug&logoColor=ffffff
 [git_img]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=ffffff
-[html5_img]: https://img.shields.io/badge/HTML_5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff
-[figma_img]: https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff
 [oracle_img]: https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=ffffff
 [npm_img]: https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=ffffff
 [gulp_img]: https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=ffffff
@@ -151,9 +158,12 @@
 [mysql_img]: https://img.shields.io/badge/My_SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff
 [wordpress_img]: https://img.shields.io/badge/Word_Press-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=ffffff
 [java_img]: https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=ffffff
+[virtualbox_img]: https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=ffffff
 [amazon-dynamodb_img]: https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff
 [node.js_img]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=ffffff
 [junit5_img]: https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=ffffff
+[vmware_img]: https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=ffffff
+[windowsterminal_img]: https://img.shields.io/badge/Windows_Terminal-4D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=ffffff
 [github_img]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=ffffff
 [markdown_img]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=ffffff
 [codepen_img]: https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=ffffff
@@ -166,10 +176,12 @@
 [svg_link]: https://www.flaticon.es/
 [adobeillustrator_link]: https://www.adobe.com/es/products/illustrator.html
 [Stackoverflow_link]: https://id.heroku.com/login
+[xampp_link]: https://codepen.io/
+[ubuntu_link]: https://codepen.io/
+[figma_link]: https://www.figma.com/
+[html5_link]: https://developer.mozilla.org/es/docs/Web/HTML
 [pug_link]: https://pugjs.org/api/getting-started.html
 [git_link]: https://git-scm.com/
-[html5_link]: https://developer.mozilla.org/es/docs/Web/HTML
-[figma_link]: https://www.figma.com/
 [oracle_link]: https://www.oracle.com/es/index.html
 [npm_link]: https://www.npmjs.com/
 [gulp_link]: https://gulpjs.com/
@@ -190,9 +202,12 @@
 [mysql_link]: https://www.mysql.com/
 [wordpress_link]: https://wordpress.com/es/
 [java_link]: https://www.java.com/es/
+[virtualbox_link]: https://codepen.io/
 [amazon-dynamodb_link]: https://www.w3schools.com/sql/
 [node.js_link]: https://nodejs.org/es/
 [junit5_link]: https://junit.org/
+[vmware_link]: https://codepen.io/
+[windowsterminal_link]: https://codepen.io/
 [github_link]: https://github.com/
 [markdown_link]: https://markdown.es/
 [codepen_link]: https://codepen.io/
