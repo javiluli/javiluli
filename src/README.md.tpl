@@ -36,7 +36,7 @@
 
 <hr />
 
-## ☕ Que utilizo para programar y diseñar
+## ☕ Mis experiencias y habilidades
 %{{skills_shields}}%
 
 <hr />
