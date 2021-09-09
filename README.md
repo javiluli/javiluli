@@ -1,5 +1,9 @@
 <h1 align="center">¡Hola, soy Javiluli! <img src="./gifs/waving_hand.gif" alt="👋"/> </h1>
 
+<p align="center">
+  Hola, me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el <b>Desarrollo de Aplicaciones Web</b>. Me encanta la programación y uno de los lenguajes que más domino es <b>Java</b>, pero también me encanta aprender y utilizar <b>JavaScript y React.js</b>.
+</p>
+
 <!-- Mis redes sociales -->
 <p align="center">
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
@@ -18,25 +22,7 @@
 
 <br />
 
-<p align="center">
-  Hola, me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier Delgado</a></b>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el <b>Desarrollo de Aplicaciones Web</b>. Me encanta la programación y uno de los lenguajes que más domino es <b>Java</b>, pero también me encanta aprender y utilizar <b>JavaScript y React.js</b>.
-</p>
-
-<br />
-
-<!-- Informacion sobre el repositorio -->
-<p align="center">
-  <a href="https://shields.io/" target="_blank">
-    <img src="https://img.shields.io/date/1628445604?style=for-the-badge&color=64b0f7&label=Online+for"/>
-  </a>
-  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=javiluli.javiluli&label=PROFILE+VIEW&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=64b0f7&style=for-the-badge"/>
-  </a>
-</p>
-
-<hr />
-
-## ☕ Mis experiencias y habilidades
+## ☕ Mis habilidades y experiencias
 
 [![JavaScript][javascript_img]][javascript_link]
 [![Linux][linux_img]][linux_link]
@@ -80,9 +66,7 @@
 [![Markdown][markdown_img]][markdown_link]
 [![CodePen][codepen_img]][codepen_link]
 
-<hr />
-
-## 📊 Estadísticas de perfil de GitHub
+## 📊 Mis estadísticas en GitHub
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
@@ -91,7 +75,7 @@
   <img alt="Estadísticas de Github de Javiluli" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=javiluli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7&icon_color=fff098" height="192px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Principales idiomas de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7" height="192px"/>
+  <img alt="Principales lenguajes de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7" height="192px"/>
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
@@ -101,7 +85,7 @@
   <img alt="Snake animation" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg"/>
 </a>
 
-<hr />
+<br />
 
 ## 📘 Mis ultimos repositorios creados
 
