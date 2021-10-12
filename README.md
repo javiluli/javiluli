@@ -9,7 +9,7 @@
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="gmail"/>
   </a>
-  <a href="https://discord.gg/66CFeqD4AY" target="_blank">
+  <a href="https://discord.gg/PVRaGyKukU" target="_blank">
     <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff" alt="discord"/>
   </a>
   <a href="https://www.instagram.com/javi3r_gg/" target="_blank">
