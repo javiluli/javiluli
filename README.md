@@ -89,6 +89,9 @@
 
 ## 📘 Mis ultimos repositorios creados
 
+<a href="https://github.com/javiluli/revealjs-musicin" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-musicin&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-musicin"/>
+</a>
 <a href="https://github.com/javiluli/bootstrap-taller" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=bootstrap-taller&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="bootstrap-taller"/>
 </a>
@@ -103,9 +106,6 @@
 </a>
 <a href="https://github.com/javiluli/dc-bot-salu2" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=dc-bot-salu2&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="dc-bot-salu2"/>
-</a>
-<a href="https://github.com/javiluli/php-error-page-control" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=php-error-page-control&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="php-error-page-control"/>
 </a>
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
