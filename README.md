@@ -89,6 +89,9 @@
 
 ## 📘 Mis ultimos repositorios creados
 
+<a href="https://github.com/javiluli/revealjs-twitch" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-twitch&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-twitch"/>
+</a>
 <a href="https://github.com/javiluli/java-web-dinamica-clientes" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-web-dinamica-clientes&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-web-dinamica-clientes"/>
 </a>
@@ -103,9 +106,6 @@
 </a>
 <a href="https://github.com/javiluli/plsql-cursores" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=plsql-cursores&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="plsql-cursores"/>
-</a>
-<a href="https://github.com/javiluli/ts-validar-formulario" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=ts-validar-formulario&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="ts-validar-formulario"/>
 </a>
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
