@@ -89,8 +89,8 @@
 
 ## 📘 Mis ultimos repositorios creados
 
-<a href="https://github.com/javiluli/revealjs-twitch" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-twitch&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-twitch"/>
+<a href="https://github.com/javiluli/revealjs-what-is-computer-science" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-what-is-computer-science&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-what-is-computer-science"/>
 </a>
 <a href="https://github.com/javiluli/java-web-dinamica-clientes" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-web-dinamica-clientes&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-web-dinamica-clientes"/>
