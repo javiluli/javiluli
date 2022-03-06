@@ -89,6 +89,9 @@
 
 ## 📘 Mis ultimos repositorios creados
 
+<a href="https://github.com/javiluli/tfc-aeropuerto-frontend" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=tfc-aeropuerto-frontend&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="tfc-aeropuerto-frontend"/>
+</a>
 <a href="https://github.com/javiluli/revealjs-what-is-computer-science" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-what-is-computer-science&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-what-is-computer-science"/>
 </a>
@@ -103,9 +106,6 @@
 </a>
 <a href="https://github.com/javiluli/js-crud-panaderia" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=js-crud-panaderia&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="js-crud-panaderia"/>
-</a>
-<a href="https://github.com/javiluli/plsql-cursores" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=plsql-cursores&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="plsql-cursores"/>
 </a>
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
