@@ -1,12 +1,13 @@
 const PLACEHOLDERS = {
   LATEST_REPOS: '%{{latest_repos}}%',
-  SKILLS_SHIELDS: '%{{skills_shields}}%',
+  PRIMARY_SKILLS_SHIELDS: '%{{primary_skills_shields}}%',
+  SECONDAY_SKILLS_SHIELDS: '%{{seconday_skills_shields}}%',
   SKILLS_SHIELDS_ICONS: '%{{skills_shields_icons}}%',
   SKILLS_SHIELDS_LINKS: '%{{skills_shields_links}}%',
 }
 
 const API = {
-  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=6',
+  REPOS_GITHUB: 'https://api.github.com/users/javiluli/repos?sort=created&per_page=3',
   GITHUB_README_STATS_VERCEL_APP: 'https://denvercoder1-github-readme-stats.vercel.app/api/pin',
 }
 
@@ -20,6 +21,7 @@ const SHIELDS = [
     nameIcon: 'javascript',
     logoColor: '000000',
     link: 'https://www.javascript.com/',
+    priority: 1,
   },
   {
     message: 'Linux',
@@ -27,6 +29,7 @@ const SHIELDS = [
     nameIcon: 'linux',
     logoColor: 'ffffff',
     link: 'https://www.linux.org/',
+    priority: 2,
   },
   {
     message: 'Prettier',
@@ -34,6 +37,7 @@ const SHIELDS = [
     nameIcon: 'prettier',
     logoColor: 'ffffff',
     link: 'https://prettier.io/',
+    priority: 2,
   },
   {
     message: 'SVG',
@@ -41,6 +45,7 @@ const SHIELDS = [
     nameIcon: 'svg',
     logoColor: 'ffffff',
     link: 'https://www.flaticon.es/',
+    priority: 2,
   },
   {
     message: 'Illustrator',
@@ -48,6 +53,7 @@ const SHIELDS = [
     nameIcon: 'adobeillustrator',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/illustrator.html',
+    priority: 2,
   },
   {
     message: 'Stack_Overflow',
@@ -55,6 +61,7 @@ const SHIELDS = [
     nameIcon: 'Stackoverflow',
     logoColor: 'ffffff',
     link: 'https://stackoverflow.com/',
+    priority: 2,
   },
   {
     message: 'XAMPP',
@@ -62,6 +69,7 @@ const SHIELDS = [
     nameIcon: 'xampp',
     logoColor: 'ffffff',
     link: 'https://www.apachefriends.org/es/index.html',
+    priority: 2,
   },
   {
     message: 'Ubuntu',
@@ -69,6 +77,7 @@ const SHIELDS = [
     nameIcon: 'ubuntu',
     logoColor: 'ffffff',
     link: 'https://ubuntu.com/download',
+    priority: 2,
   },
   {
     message: 'Figma',
@@ -76,6 +85,7 @@ const SHIELDS = [
     nameIcon: 'figma',
     logoColor: 'ffffff',
     link: 'https://www.figma.com/',
+    priority: 1,
   },
   {
     message: 'HTML_5',
@@ -83,6 +93,7 @@ const SHIELDS = [
     nameIcon: 'html5',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/HTML',
+    priority: 1,
   },
   {
     message: 'Pug',
@@ -90,6 +101,7 @@ const SHIELDS = [
     nameIcon: 'pug',
     logoColor: 'ffffff',
     link: 'https://pugjs.org/api/getting-started.html',
+    priority: 2,
   },
   {
     message: 'Git',
@@ -97,6 +109,7 @@ const SHIELDS = [
     nameIcon: 'git',
     logoColor: 'ffffff',
     link: 'https://git-scm.com/',
+    priority: 1,
   },
   {
     message: 'Oracle',
@@ -104,6 +117,7 @@ const SHIELDS = [
     nameIcon: 'oracle',
     logoColor: 'ffffff',
     link: 'https://www.oracle.com/es/index.html',
+    priority: 2,
   },
   {
     message: 'NPM',
@@ -111,6 +125,7 @@ const SHIELDS = [
     nameIcon: 'npm',
     logoColor: 'ffffff',
     link: 'https://www.npmjs.com/',
+    priority: 1,
   },
   {
     message: 'Gulp',
@@ -118,6 +133,7 @@ const SHIELDS = [
     nameIcon: 'gulp',
     logoColor: 'ffffff',
     link: 'https://gulpjs.com/',
+    priority: 2,
   },
   {
     message: 'Sass',
@@ -125,6 +141,7 @@ const SHIELDS = [
     nameIcon: 'sass',
     logoColor: 'ffffff',
     link: 'https://sass-lang.com/',
+    priority: 1,
   },
   {
     message: 'Bootstrap',
@@ -132,6 +149,7 @@ const SHIELDS = [
     nameIcon: 'bootstrap',
     logoColor: 'ffffff',
     link: 'https://getbootstrap.com/',
+    priority: 2,
   },
   {
     message: 'Heroku',
@@ -139,6 +157,7 @@ const SHIELDS = [
     nameIcon: 'heroku',
     logoColor: 'ffffff',
     link: 'https://id.heroku.com/login',
+    priority: 2,
   },
   {
     message: 'Eclipse_IDE',
@@ -146,6 +165,7 @@ const SHIELDS = [
     nameIcon: 'eclipseide',
     logoColor: 'ffffff',
     link: 'https://www.eclipse.org/ide/',
+    priority: 1,
   },
   {
     message: 'ESLint',
@@ -153,6 +173,7 @@ const SHIELDS = [
     nameIcon: 'eslint',
     logoColor: 'ffffff',
     link: 'https://eslint.org/',
+    priority: 1,
   },
   {
     message: 'PHP',
@@ -160,6 +181,7 @@ const SHIELDS = [
     nameIcon: 'php',
     logoColor: 'ffffff',
     link: 'https://www.php.net/',
+    priority: 2,
   },
   {
     message: 'VS_Code',
@@ -167,6 +189,7 @@ const SHIELDS = [
     nameIcon: 'visualstudiocode',
     logoColor: 'ffffff',
     link: 'https://code.visualstudio.com/',
+    priority: 1,
   },
   {
     message: 'CSS_3',
@@ -174,6 +197,7 @@ const SHIELDS = [
     nameIcon: 'css3',
     logoColor: 'ffffff',
     link: 'https://developer.mozilla.org/es/docs/Web/CSS',
+    priority: 2,
   },
   {
     message: 'TypeScript',
@@ -181,6 +205,7 @@ const SHIELDS = [
     nameIcon: 'typescript',
     logoColor: 'ffffff',
     link: 'https://www.typescriptlang.org/',
+    priority: 2,
   },
   {
     message: 'Github_Actions',
@@ -188,6 +213,7 @@ const SHIELDS = [
     nameIcon: 'github-actions',
     logoColor: 'ffffff',
     link: 'https://github.com/features/actions',
+    priority: 2,
   },
   {
     message: 'Photoshop',
@@ -195,13 +221,15 @@ const SHIELDS = [
     nameIcon: 'adobephotoshop',
     logoColor: 'ffffff',
     link: 'https://www.adobe.com/es/products/photoshop.html',
+    priority: 2,
   },
   {
     message: 'React',
-    labelColor: '61DAFB',
+    labelColor: '20232A',
     nameIcon: 'react',
-    logoColor: 'ffffff',
+    logoColor: '61DAFB',
     link: 'https://es.reactjs.org/',
+    priority: 1,
   },
   {
     message: 'Webpack',
@@ -209,6 +237,7 @@ const SHIELDS = [
     nameIcon: 'webpack',
     logoColor: 'ffffff',
     link: 'https://webpack.js.org/',
+    priority: 2,
   },
   {
     message: 'Python',
@@ -216,6 +245,7 @@ const SHIELDS = [
     nameIcon: 'python',
     logoColor: 'ffffff',
     link: 'https://www.python.org/',
+    priority: 2,
   },
   {
     message: 'My_SQL',
@@ -223,6 +253,7 @@ const SHIELDS = [
     nameIcon: 'mysql',
     logoColor: 'ffffff',
     link: 'https://www.mysql.com/',
+    priority: 1,
   },
   {
     message: 'Word_Press',
@@ -230,6 +261,7 @@ const SHIELDS = [
     nameIcon: 'wordpress',
     logoColor: 'ffffff',
     link: 'https://wordpress.com/es/',
+    priority: 2,
   },
   {
     message: 'java',
@@ -237,6 +269,7 @@ const SHIELDS = [
     nameIcon: 'java',
     logoColor: 'ffffff',
     link: 'https://www.java.com/es/',
+    priority: 1,
   },
   {
     message: 'VirtualBox',
@@ -244,6 +277,7 @@ const SHIELDS = [
     nameIcon: 'virtualbox',
     logoColor: 'ffffff',
     link: 'https://www.virtualbox.org/',
+    priority: 2,
   },
   {
     message: 'SQL',
@@ -251,6 +285,7 @@ const SHIELDS = [
     nameIcon: 'amazon-dynamodb',
     logoColor: 'ffffff',
     link: 'https://www.w3schools.com/sql/',
+    priority: 1,
   },
   {
     message: 'Node.js',
@@ -258,6 +293,7 @@ const SHIELDS = [
     nameIcon: 'node.js',
     logoColor: 'ffffff',
     link: 'https://nodejs.org/es/',
+    priority: 2,
   },
   {
     message: 'JUnit5',
@@ -265,6 +301,7 @@ const SHIELDS = [
     nameIcon: 'junit5',
     logoColor: 'ffffff',
     link: 'https://junit.org/',
+    priority: 2,
   },
   {
     message: 'VMware',
@@ -272,6 +309,7 @@ const SHIELDS = [
     nameIcon: 'vmware',
     logoColor: 'ffffff',
     link: 'https://www.vmware.com/es.html',
+    priority: 2,
   },
   {
     message: 'Windows_Terminal',
@@ -279,6 +317,7 @@ const SHIELDS = [
     nameIcon: 'windowsterminal',
     logoColor: 'ffffff',
     link: 'https://www.microsoft.com/es-es/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab',
+    priority: 2,
   },
   {
     message: 'GitHub',
@@ -286,6 +325,7 @@ const SHIELDS = [
     nameIcon: 'github',
     logoColor: 'ffffff',
     link: 'https://github.com/',
+    priority: 1,
   },
   {
     message: 'Markdown',
@@ -293,6 +333,7 @@ const SHIELDS = [
     nameIcon: 'markdown',
     logoColor: 'ffffff',
     link: 'https://markdown.es/',
+    priority: 2,
   },
   {
     message: 'CodePen',
@@ -300,6 +341,7 @@ const SHIELDS = [
     nameIcon: 'codepen',
     logoColor: 'ffffff',
     link: 'https://codepen.io/',
+    priority: 2,
   },
 ]
 

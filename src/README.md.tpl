@@ -1,10 +1,10 @@
-<h1 align="center">¡Hola, soy Javiluli! <img src="./gifs/waving_hand.gif" alt="👋"/> </h1>
+<h2 align="center">¡Hola, soy Javi! <img src="./gifs/waving_hand.gif" alt="👋"/> </h2>
 
 <p align="center">
-  Hola, me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el <b>Desarrollo de Aplicaciones Web</b>. Me encanta la programación y uno de los lenguajes que más domino es <b>Java</b>, pero también me encanta aprender y utilizar <b>JavaScript y React.js</b>.
+  Hola, soy <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b> y soy programador junior para el <b>desarrollo de aplicaciones web</b>.
 </p>
 
-<!-- Mis redes sociales -->
+<!-- redes sociales -->
 <p align="center">
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="gmail"/>
@@ -23,7 +23,13 @@
 <br />
 
 ## ☕ Mis habilidades y experiencias
-%{{skills_shields}}%
+%{{primary_skills_shields}}%
+
+
+<details>
+  <summary> 💻 Tambien tengo expericnecia con </summary>
+  %{{seconday_skills_shields}}%
+</details>
 
 ## 📊 Mis estadísticas en GitHub
 

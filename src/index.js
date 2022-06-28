@@ -39,14 +39,19 @@ const generateSkillsShileds = ({ message, nameIcon }) => `
   const linksRepositories = repositories.map(generateItemTableRepositoriesHTML).join('')
 
   // crea las insignias de shields.io
-  const elementSkillShileds = skills.map(generateSkillsShileds).join('')
+  const primarySkills = skills.filter((skill) => skill.priority === 1)
+  const secondarySkills = skills.filter((skill) => skill.priority === 2)
+
+  const elementPrimarySkillShileds = primarySkills.map(generateSkillsShileds).join('')
+  const elementSecondaySkillShileds = secondarySkills.map(generateSkillsShileds).join('')
   const elementSkillShiledsIcons = skills.map(generateSkillsShiledsIcons).join('')
   const elementSkillShiledsLinks = skills.map(generateSkillsShiledsLinks).join('')
 
   // reemplaza los 'PLACEHOLDERS' por los datos obtenidos
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_REPOS, linksRepositories)
-    .replace(PLACEHOLDERS.SKILLS_SHIELDS, elementSkillShileds)
+    .replace(PLACEHOLDERS.PRIMARY_SKILLS_SHIELDS, elementPrimarySkillShileds)
+    .replace(PLACEHOLDERS.SECONDAY_SKILLS_SHIELDS, elementSecondaySkillShileds)
     .replace(PLACEHOLDERS.SKILLS_SHIELDS_ICONS, elementSkillShiledsIcons)
     .replace(PLACEHOLDERS.SKILLS_SHIELDS_LINKS, elementSkillShiledsLinks)
 

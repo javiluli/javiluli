@@ -15,8 +15,8 @@ const getRepositoriesData = async () => {
 // Obtener los 'shields.io' de skills y otros
 const getShieldsSkills = async () => {
   return SHIELDS.map((shield) => {
-    const { message, labelColor, nameIcon, logoColor, link } = shield
-    return { message, labelColor, nameIcon, logoColor, link }
+    const { message, labelColor, nameIcon, logoColor, link, priority } = shield
+    return { message, labelColor, nameIcon, logoColor, link, priority }
   })
 }
 
