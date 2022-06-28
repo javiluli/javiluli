@@ -1,10 +1,10 @@
-<h1 align="center">¡Hola, soy Javiluli! <img src="./gifs/waving_hand.gif" alt="👋"/> </h1>
+<h2 align="center">¡Hola, soy Javi! <img src="./gifs/waving_hand.gif" alt="👋"/> </h2>
 
 <p align="center">
-  Hola, me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b>, soy de Madrid y a día de hoy soy estudiante, en segundo año de grado superior, para el <b>Desarrollo de Aplicaciones Web</b>. Me encanta la programación y uno de los lenguajes que más domino es <b>Java</b>, pero también me encanta aprender y utilizar <b>JavaScript y React.js</b>.
+  Hola, soy <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b> y soy programador junior para el <b>desarrollo de aplicaciones web</b>.
 </p>
 
-<!-- Mis redes sociales -->
+<!-- redes sociales -->
 <p align="center">
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="gmail"/>
@@ -25,6 +25,24 @@
 ## ☕ Mis habilidades y experiencias
 
 [![JavaScript][javascript_img]][javascript_link]
+[![Figma][figma_img]][figma_link]
+[![HTML_5][html5_img]][html5_link]
+[![Git][git_img]][git_link]
+[![NPM][npm_img]][npm_link]
+[![Sass][sass_img]][sass_link]
+[![Eclipse_IDE][eclipseide_img]][eclipseide_link]
+[![ESLint][eslint_img]][eslint_link]
+[![VS_Code][visualstudiocode_img]][visualstudiocode_link]
+[![React][react_img]][react_link]
+[![My_SQL][mysql_img]][mysql_link]
+[![java][java_img]][java_link]
+[![SQL][amazon-dynamodb_img]][amazon-dynamodb_link]
+[![GitHub][github_img]][github_link]
+
+
+<details>
+  <summary> 💻 Tambien tengo expericnecia con </summary>
+  
 [![Linux][linux_img]][linux_link]
 [![Prettier][prettier_img]][prettier_link]
 [![SVG][svg_img]][svg_link]
@@ -32,39 +50,27 @@
 [![Stack_Overflow][Stackoverflow_img]][Stackoverflow_link]
 [![XAMPP][xampp_img]][xampp_link]
 [![Ubuntu][ubuntu_img]][ubuntu_link]
-[![Figma][figma_img]][figma_link]
-[![HTML_5][html5_img]][html5_link]
 [![Pug][pug_img]][pug_link]
-[![Git][git_img]][git_link]
 [![Oracle][oracle_img]][oracle_link]
-[![NPM][npm_img]][npm_link]
 [![Gulp][gulp_img]][gulp_link]
-[![Sass][sass_img]][sass_link]
 [![Bootstrap][bootstrap_img]][bootstrap_link]
 [![Heroku][heroku_img]][heroku_link]
-[![Eclipse_IDE][eclipseide_img]][eclipseide_link]
-[![ESLint][eslint_img]][eslint_link]
 [![PHP][php_img]][php_link]
-[![VS_Code][visualstudiocode_img]][visualstudiocode_link]
 [![CSS_3][css3_img]][css3_link]
 [![TypeScript][typescript_img]][typescript_link]
 [![Github_Actions][github-actions_img]][github-actions_link]
 [![Photoshop][adobephotoshop_img]][adobephotoshop_link]
-[![React][react_img]][react_link]
 [![Webpack][webpack_img]][webpack_link]
 [![Python][python_img]][python_link]
-[![My_SQL][mysql_img]][mysql_link]
 [![Word_Press][wordpress_img]][wordpress_link]
-[![java][java_img]][java_link]
 [![VirtualBox][virtualbox_img]][virtualbox_link]
-[![SQL][amazon-dynamodb_img]][amazon-dynamodb_link]
 [![Node.js][node.js_img]][node.js_link]
 [![JUnit5][junit5_img]][junit5_link]
 [![VMware][vmware_img]][vmware_link]
 [![Windows_Terminal][windowsterminal_img]][windowsterminal_link]
-[![GitHub][github_img]][github_link]
 [![Markdown][markdown_img]][markdown_link]
 [![CodePen][codepen_img]][codepen_link]
+</details>
 
 ## 📊 Mis estadísticas en GitHub
 
@@ -98,15 +104,6 @@
 <a href="https://github.com/javiluli/revealjs-what-is-computer-science" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-what-is-computer-science&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-what-is-computer-science"/>
 </a>
-<a href="https://github.com/javiluli/java-web-dinamica-clientes" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=java-web-dinamica-clientes&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="java-web-dinamica-clientes"/>
-</a>
-<a href="https://github.com/javiluli/revealjs-musicin" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=revealjs-musicin&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="revealjs-musicin"/>
-</a>
-<a href="https://github.com/javiluli/bootstrap-design-taller" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=bootstrap-design-taller&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="282" alt="bootstrap-design-taller"/>
-</a>
 
 <!-- Enlaces asociados a los iconoes de las insignias para las skills -->
 
@@ -136,7 +133,7 @@
 [typescript_img]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=ffffff
 [github-actions_img]: https://img.shields.io/badge/Github_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=ffffff
 [adobephotoshop_img]: https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff
-[react_img]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=ffffff
+[react_img]: https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB
 [webpack_img]: https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=ffffff
 [python_img]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff
 [mysql_img]: https://img.shields.io/badge/My_SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff
