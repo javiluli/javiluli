@@ -1,10 +1,10 @@
 import fetch from 'node-fetch'
 
-import { API } from '../constants.js'
+import { APIS } from '../constants.js'
 
 // Obtener repositorios desde un perfil de GitHub
 export const getRepositoriesData = async () => {
-  const response = await fetch(API.REPOS_GITHUB)
+  const response = await fetch(APIS.REPOS_GITHUB)
   const text = await response.text()
   const data = JSON.parse(text)
   return data.map((repositori) => {
