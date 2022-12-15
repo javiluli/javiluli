@@ -97,7 +97,7 @@
   <img alt="Principales lenguajes de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7" height="192px"/>
 </a>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://activity-graph.herokuapp.com/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
+  <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://github-readme-activity-graph.cyclic.app/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
 </a>
 
 <a href="https://github.com/Platane/snk">
