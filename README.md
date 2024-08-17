@@ -108,12 +108,12 @@
 
 ## 📘 Mis ultimos repositorios
 
-<a href="https://github.com/javiluli/ChatGPT3-password-generator" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=ChatGPT3-password-generator&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="ChatGPT3-password-generator"/>
-</a>
-<a href="https://github.com/javiluli/chat-io" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=chat-io&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="chat-io"/>
-</a>
 <a href="https://github.com/javiluli/resolved-frontendmentor-challenges" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=resolved-frontendmentor-challenges&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="resolved-frontendmentor-challenges"/>
+</a>
+<a href="https://github.com/javiluli/javiluli" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=javiluli&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="javiluli"/>
+</a>
+<a href="https://github.com/javiluli/bootstrap-design-taller" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=bootstrap-design-taller&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="bootstrap-design-taller"/>
 </a>
