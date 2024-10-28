@@ -104,6 +104,10 @@
   <img alt="Snake animation" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg"/>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <br />
 
 ## 📘 Mis ultimos repositorios
