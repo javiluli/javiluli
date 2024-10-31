@@ -9,12 +9,6 @@
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
   </a>
-  <a href="https://discord.gg/PVRaGyKukU" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
-  </a>
-  <a href="https://codepen.io/javiluli_dev" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
-  </a>
 </p>
 
 <br />
