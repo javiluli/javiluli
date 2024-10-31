@@ -1,48 +1,51 @@
-<h1 align="center">
-  <img src="./gifs/waving_hand.gif" alt="👋"/> 
-  ¡¡Holaa!! 
-  <img src="./gifs/waving_hand.gif" alt="👋"/> 
-</h1>
 
-<h3 align="center">
-  Me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b> y soy <b> programador junior</b>.
-</h3>
+<h2 align="center">
+  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+</h2>
+
 
 <!-- redes sociales -->
 <p align="center">
   <a href="mailto:javiluli.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
   </a>
+  <a href="https://discord.gg/PVRaGyKukU" target="_blank">
+    <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
+  </a>
+  <a href="https://codepen.io/javiluli_dev" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
+  </a>
 </p>
 
 <br />
 
-## ☕✨ Mis principales habilidades y aptitudes
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 %{{primary_skills_shields}}%
 
-### 💻💪🏼 Otras competencias que entreno y practico
-%{{seconday_skills_shields}}%
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno y practico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> </summary>
+  %{{seconday_skills_shields}}%
+</details>
 
 <details>
-  <summary> 🎈🎉 Otras aptitudes </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> Otras aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> </summary>
   %{{others_skills_shields}}%
 </details>
 
 <details>
-  <summary> 🎯 Mis objetivos y proyectos personales </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> Mis objetivos y proyectos personales <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> </summary>
 
 - [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
 - [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas) [:page_facing_up:](./details.md#01)
-- [ ] Crear una aplicación que utilice [GraphQL](https://graphql.org/) y [spacex](https://api.spacex.land/graphql/)
-- [ ] Rehacer el programa de [java-array-sort-visualizer](https://github.com/javiluli/java-array-sort-visualizer) con [JavaFX](https://openjfx.io/)
+- [ ] Rehacer el programa de [java-array-sort-visualizer](https://github.com/javiluli/java-array-sort-visualizer)
 - [ ] Customizar el CSS de mi perfil de [CodePen](https://codepen.io/javiluli_dev)
-- [ ] Rehacer mi [CV web](https://javiluli.github.io/my-online-cv/) como porfolio.
-- [ ] Bot de Discord que, dando un fragmento de código, se debe adivinar que lenguaje es.
-- [ ] Probar de crear una aplicación que utilice [Socket.IO](https://socket.io/)
+- [ ] Rehacer mi [CV web](https://javiluli.github.io/my-online-cv/) como porfolio con `Astro`.
+- [ ] Crear un Bot con `Discord.js`.
+- [ ] Crear una aplicación que utilice [Socket.IO](https://socket.io/)
 
 </details>
 
-## 📊 Mis estadísticas en GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
@@ -54,5 +57,5 @@
 
 <br />
 
-## 📘 Mis ultimos repositorios
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
 %{{latest_repos}}%

@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="./gifs/waving_hand.gif" alt="👋"/> 
-  ¡¡Holaa!! 
-  <img src="./gifs/waving_hand.gif" alt="👋"/> 
-</h1>
 
-<h3 align="center">
-  Me llamo <b><a href='https://javiluli.github.io/my-online-cv/'>Javier</a></b> y soy <b> programador junior</b>.
-</h3>
+<h2 align="center">
+  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />!
+  Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+</h2>
 
 <!-- redes sociales -->
 <p align="center">
@@ -23,7 +19,7 @@
 
 <br />
 
-## ☕✨ Mis principales habilidades y aptitudes
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
 [![java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=FFFFFF)](https://www.java.com/es/)
@@ -37,8 +33,9 @@
 [![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF)](https://www.eclipse.org/ide/)
 [![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
 
-### 💻💪🏼 Otras competencias que entreno y practico
-
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno y practico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> </summary>
+  
 [![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://vitejs.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF)](https://es.reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
@@ -54,9 +51,10 @@
 [![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=000000)](https://www.flaticon.es/)
 [![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=FFFFFF)](https://www.framer.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
+</details>
 
 <details>
-  <summary> 🎈🎉 Otras aptitudes </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> Otras aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> </summary>
   
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![My_SQL](https://img.shields.io/badge/My_SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
@@ -72,45 +70,31 @@
 </details>
 
 <details>
-  <summary> 🎯 Mis objetivos y proyectos personales </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> Mis objetivos y proyectos personales <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> </summary>
 
 - [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
 - [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas) [:page_facing_up:](./details.md#01)
-- [ ] Crear una aplicación que utilice [GraphQL](https://graphql.org/) y [spacex](https://api.spacex.land/graphql/)
-- [ ] Rehacer el programa de [java-array-sort-visualizer](https://github.com/javiluli/java-array-sort-visualizer) con [JavaFX](https://openjfx.io/)
+- [ ] Rehacer el programa de [java-array-sort-visualizer](https://github.com/javiluli/java-array-sort-visualizer)
 - [ ] Customizar el CSS de mi perfil de [CodePen](https://codepen.io/javiluli_dev)
-- [ ] Rehacer mi [CV web](https://javiluli.github.io/my-online-cv/) como porfolio.
-- [ ] Bot de Discord que, dando un fragmento de código, se debe adivinar que lenguaje es.
-- [ ] Probar de crear una aplicación que utilice [Socket.IO](https://socket.io/)
+- [ ] Rehacer mi [CV web](https://javiluli.github.io/my-online-cv/) como porfolio con `Astro`.
+- [ ] Crear un Bot con `Discord.js`.
+- [ ] Crear una aplicación que utilice [Socket.IO](https://socket.io/)
 
 </details>
 
-## 📊 Mis estadísticas en GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Estadísticas de Github de Javiluli" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=javiluli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7&icon_color=fff098" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Principales lenguajes de Javiluli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiluli&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64b0f7" height="192px"/>
-</a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img  height="295px" alt="Gráfico de actividad de github de Javiluli" src="https://github-readme-activity-graph.cyclic.app/graph?username=javiluli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&point=fff098&line=64b0f7&area_color=64b0f7"/>
-</a>
-
-<a href="https://github.com/Platane/snk">
-  <img alt="Snake animation" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake.svg"/>
-</a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br />
 
-## 📘 Mis ultimos repositorios
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
 
 <a href="https://github.com/javiluli/resolved-frontendmentor-challenges" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=resolved-frontendmentor-challenges&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="resolved-frontendmentor-challenges"/>
