@@ -1,8 +1,7 @@
 
-<h2 align="center">
+<h1 align="center">
   ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
-</h2>
-
+</h1>
 
 <!-- redes sociales -->
 <p align="center">
@@ -16,8 +15,6 @@
     <img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
   </a>
 </p>
-
-<br />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
