@@ -1,6 +1,10 @@
 
 <h1 align="center">
+<<<<<<< HEAD
   ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+=======
+  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+>>>>>>> 193b20672aeb37eba2a4765c8a68ed13860271ae
 </h1>
 
 <!-- redes sociales -->
@@ -16,9 +20,13 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 <hr />
 
 <img style="float: right" src="https://b.thumbs.redditmedia.com/VP9YYBcbatBlhgSjcKo7-PYQff1--lQpdY616l9rRPo.jpg" />
+=======
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
+>>>>>>> 193b20672aeb37eba2a4765c8a68ed13860271ae
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
