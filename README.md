@@ -1,3 +1,4 @@
+
 <h1 align="center">
   ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
@@ -48,11 +49,6 @@
 [![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=svg&logoColor=000000)](undefined)
 [![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=flat-square&logo=framer&logoColor=FFFFFF)](undefined)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF)](undefined)
-<<<<<<< HEAD
-
-# </details>
-
-> > > > > > > 4bc99e38ec7833500e6569017e31965ace4047f8
 
 <hr />
 
