@@ -4,7 +4,7 @@
 </h1>
 
 <!-- redes sociales -->
-<span align="center">
+<p align="center">
 <a href="mailto:javiluli.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
 </a>
@@ -14,7 +14,7 @@
 <a href="https://codepen.io/javiluli_dev" target="_blank">
 <img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
 </a>
-</span>
+</p>
 
 <hr />
 
@@ -78,7 +78,9 @@
 </td>
 
 <td valign="top" width="50%">
+
 #### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
+
 <picture>
 <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
