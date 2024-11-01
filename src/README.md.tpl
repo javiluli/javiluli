@@ -51,12 +51,12 @@
 </picture>
 </td>
 
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
+### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día <img src="./images/clown_face.png" alt="🤡" width="25" height="25" />
 
 <picture>
-<img alt="Meme del dia" src="%{{reddit_meme}}%"  width="50%" />
+<img src="%{{reddit_meme}}%" alt="Meme del dia" width="50%" />
 </picture>
 </td>
 </tr>
