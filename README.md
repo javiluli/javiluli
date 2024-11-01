@@ -82,7 +82,7 @@
 #### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
 
 <picture>
-<img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://i.redd.it/v7agj4sch6yd1.jpeg" alt="Meme del dia"  width="50%" />
 </picture>
 </td>
 </tr>

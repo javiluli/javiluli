@@ -21,12 +21,13 @@ export const getShieldsSkills = async (shields) => {
 }
 
 // Obtener
-const getMemeReource = async () => {
+export const getMemeReource = async () => {
   const RUL_API = 'https://www.reddit.com/r/memes/top/.json?limit=1&t=day'
 
   const response = await fetch(RUL_API)
   const res = await response.text()
   const jsonResult = JSON.parse(res)
+  const { url } = jsonResult?.data?.children[0]?.data
 
-  return jsonResult?.data?.children[0]?.data?.url
+  return { url }
 }

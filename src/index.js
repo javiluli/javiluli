@@ -10,7 +10,7 @@ import {
   SECONDARY_SHIELDS,
   OTHERS_SHIELDS,
 } from './constants.js'
-import { getRepositoriesData, getShieldsSkills } from './services/data.js'
+import { getRepositoriesData, getShieldsSkills, getMemeReource } from './services/data.js'
 
 // Genera un elemento MARKDOWN como elemento de una lista
 const generateItemTableRepositoriesHTML = ({ name, html_url }) => `
@@ -24,21 +24,26 @@ const generateSkillsShileds = ({ message, iconName, colorlabel, colorlogo, link 
 
 // ### Funcion pinciapl ###
 ;(async () => {
-  const [template, primarySkills, secondarySkills, othersSkills, repositories] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getShieldsSkills(PRIMARY_SHIELDS),
-    getShieldsSkills(SECONDARY_SHIELDS),
-    getShieldsSkills(OTHERS_SHIELDS),
-    getRepositoriesData(),
-  ])
-
-  // crea la lista con los ultimos repositorios
-  const linksRepositories = repositories.map(generateItemTableRepositoriesHTML).join('')
+  const [template, primarySkills, secondarySkills, othersSkills, redditMeme, repositories] =
+    await Promise.all([
+      fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+      getShieldsSkills(PRIMARY_SHIELDS),
+      getShieldsSkills(SECONDARY_SHIELDS),
+      getShieldsSkills(OTHERS_SHIELDS),
+      getMemeReource(),
+      getRepositoriesData(),
+    ])
 
   // crea las insignias de shields.io
   const elementPrimarySkillShileds = primarySkills.map(generateSkillsShileds).join('')
   const elementSecondaySkillShileds = secondarySkills.map(generateSkillsShileds).join('')
   const elementOthersSkillShileds = othersSkills.map(generateSkillsShileds).join('')
+
+  // creo la imagen con el meme/broma de reddit
+  const imageRedditMeme = redditMeme
+
+  // crea la lista con los ultimos repositorios
+  const linksRepositories = repositories.map(generateItemTableRepositoriesHTML).join('')
 
   // reemplaza los 'PLACEHOLDERS' por los datos obtenidos
   const newMarkdown = template
@@ -46,6 +51,7 @@ const generateSkillsShileds = ({ message, iconName, colorlabel, colorlogo, link 
     .replace(PLACEHOLDERS.PRIMARY_SKILLS_SHIELDS, elementPrimarySkillShileds)
     .replace(PLACEHOLDERS.SECONDAY_SKILLS_SHIELDS, elementSecondaySkillShileds)
     .replace(PLACEHOLDERS.OTHERS_SKILLS_SHIELDS, elementOthersSkillShileds)
+    .replace(PLACEHOLDERS.REDDIT_MEME, imageRedditMeme.url)
 
   await fs.writeFile('README.md', newMarkdown)
 })()

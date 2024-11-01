@@ -3,6 +3,7 @@ export const PLACEHOLDERS = {
   PRIMARY_SKILLS_SHIELDS: '%{{primary_skills_shields}}%',
   SECONDAY_SKILLS_SHIELDS: '%{{seconday_skills_shields}}%',
   OTHERS_SKILLS_SHIELDS: '%{{others_skills_shields}}%',
+  REDDIT_MEME: '%{{reddit_meme}}%',
 }
 
 export const APIS = {
