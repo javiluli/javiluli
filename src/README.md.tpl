@@ -41,13 +41,23 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime">
-  <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg" alt="javiluli WakaTime Activity"/>
-</a>
+<table width="960px">
+<tr>
+  <td valign="top" width="50%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
+      <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
+    </picture>
+  </td>
 
-<picture>
-  <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+  <td valign="top" width="50%">
+    <picture>
+      <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+    </picture>
+  </td>
+</tr>
+</table>
 
 <br />
 
