@@ -4,17 +4,17 @@
 </h1>
 
 <!-- redes sociales -->
-<p align="center">
-  <a href="mailto:javiluli.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
-  </a>
-  <a href="https://discord.gg/PVRaGyKukU" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
-  </a>
-  <a href="https://codepen.io/javiluli_dev" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
-  </a>
-</p>
+<span align="center">
+<a href="mailto:javiluli.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
+</a>
+<a href="https://discord.gg/PVRaGyKukU" target="_blank">
+<img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
+</a>
+<a href="https://codepen.io/javiluli_dev" target="_blank">
+<img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
+</a>
+</span>
 
 <hr />
 
@@ -69,25 +69,25 @@
 
 <table width="960px">
 <tr>
-  <td valign="top" width="50%">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
-      <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
-    </picture>
-  </td>
+<td valign="top" width="50%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
+<img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
+</picture>
+</td>
 
-  <td valign="top" width="50%">
-    #### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
-    <picture>
-      <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
-    </picture>
-  </td>
+<td valign="top" width="50%">
+#### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
+<picture>
+<img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</td>
 </tr>
 </table>
 
 <picture>
-  <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br />
