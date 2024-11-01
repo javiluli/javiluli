@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
+  ¡Buenas<img src="./images/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/beaming_face_with_smiling_eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
 
 <!-- redes sociales -->
@@ -18,16 +18,16 @@
 
 <hr />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
+## <img src="./images/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="./images/star.png" alt="🌟" width="25" height="25" />
 %{{primary_skills_shields}}%
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" />
+### <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
 %{{seconday_skills_shields}}%
 
 <hr />
 
 <details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> </summary>
+  <summary> <img src="./images/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="./images/bullseye.png" alt="🎯" width="25" height="25" /> </summary>
 
 - [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
 - [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas) [:page_facing_up:](./details.md#01)
@@ -39,7 +39,7 @@
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
+## <img src="./images/bar_chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
 <table width="960px">
 <tr>
@@ -59,7 +59,11 @@
 </tr>
 </table>
 
+<picture>
+  <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
+## <img src="./images/bullseye.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
 %{{latest_repos}}%
