@@ -1,8 +1,7 @@
 
-<h2 align="center">
-  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
-</h2>
-
+<h1 align="center">
+  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+</h1>
 
 <!-- redes sociales -->
 <p align="center">
@@ -17,60 +16,46 @@
   </a>
 </p>
 
-<br />
+<hr />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
+<img style="float: right" src="https://b.thumbs.redditmedia.com/VP9YYBcbatBlhgSjcKo7-PYQff1--lQpdY616l9rRPo.jpg" />
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
-[![java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=FFFFFF)](https://www.java.com/es/)
-[![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=FFFFFF)](https://www.w3schools.com/sql/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF)](https://spring.io/projects/spring-boot)
-[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
-[![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=FFFFFF)](https://junit.org/)
-[![HTML_5](https://img.shields.io/badge/HTML_5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS_3](https://img.shields.io/badge/CSS_3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/)
-[![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF)](https://www.eclipse.org/ide/)
-[![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
-<details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno y practico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> </summary>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000000)](undefined)
+[![java](https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=FFFFFF)](undefined)
+[![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=amazon-dynamodb&logoColor=FFFFFF)](undefined)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=FFFFFF)](undefined)
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=FFFFFF)](undefined)
+[![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=flat-square&logo=junit5&logoColor=FFFFFF)](undefined)
+[![HTML_5](https://img.shields.io/badge/HTML_5-E34F26.svg?style=flat-square&logo=html5&logoColor=FFFFFF)](undefined)
+[![CSS_3](https://img.shields.io/badge/CSS_3-1572B6.svg?style=flat-square&logo=css3&logoColor=FFFFFF)](undefined)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=FFFFFF)](undefined)
+[![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=FFFFFF)](undefined)
+[![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)](undefined)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" />
   
-[![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://vitejs.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF)](https://es.reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
-[![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=FFFFFF)](https://mui.com/)
-[![PNPM](https://img.shields.io/badge/PNPM-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=000000)](https://www.npmjs.com/)
-[![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=FFFFFF)](https://www.npmjs.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=FFFFFF)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=000000)](https://prettier.io/)
-[![Github_Actions](https://img.shields.io/badge/Github_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)](https://github.com/features/actions)
-[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://markdown.es/)
-[![SASS](https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com/)
-[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
-[![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=for-the-badge&logo=svg&logoColor=000000)](https://www.flaticon.es/)
-[![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=FFFFFF)](https://www.framer.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
-</details>
+[![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)](undefined)
+[![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=FFFFFF)](undefined)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=FFFFFF)](undefined)
+[![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=flat-square&logo=mui&logoColor=FFFFFF)](undefined)
+[![PNPM](https://img.shields.io/badge/PNPM-F69220.svg?style=flat-square&logo=pnpm&logoColor=000000)](undefined)
+[![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=FFFFFF)](undefined)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=eslint&logoColor=FFFFFF)](undefined)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=prettier&logoColor=000000)](undefined)
+[![Github_Actions](https://img.shields.io/badge/Github_Actions-2088FF.svg?style=flat-square&logo=github-actions&logoColor=FFFFFF)](undefined)
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=FFFFFF)](undefined)
+[![SASS](https://img.shields.io/badge/SASS-CC6699.svg?style=flat-square&logo=sass&logoColor=FFFFFF)](undefined)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)](undefined)
+[![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=svg&logoColor=000000)](undefined)
+[![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=flat-square&logo=framer&logoColor=FFFFFF)](undefined)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF)](undefined)
+
+<hr />
 
 <details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> Otras aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="🎈" width="25" height="25" /> </summary>
-  
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
-[![My_SQL](https://img.shields.io/badge/My_SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=FFFFFF)](https://www.oracle.com/es/index.html)
-[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/es/)
-[![Gulp](https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=FFFFFF)](https://gulpjs.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.php.net/)
-[![Pug](https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=pug&logoColor=FFFFFF)](https://pugjs.org/api/getting-started.html)
-[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://www.linux.org/)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/es/products/illustrator.html)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)](https://www.adobe.com/es/products/photoshop.html)
-[![Word_Press](https://img.shields.io/badge/Word_Press-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)](https://wordpress.com/es/)
-</details>
-
-<details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> Mis objetivos y proyectos personales <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="🎯" width="25" height="25" /> </summary>
 
 - [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
 - [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas) [:page_facing_up:](./details.md#01)
@@ -84,9 +69,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime">
+<picture>
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
-</a>
+</picture>
 
 <picture>
   <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />

@@ -1,0 +1,158 @@
+{
+  "1-1": [
+    {
+      "evento": "Año Nuevo",
+      "emojis": [
+        {
+          "title": "Party Popper",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png"
+        },
+        {
+          "title": "Sparkles",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png"
+        }
+      ]
+    }
+  ],
+
+  "1-6": [
+    {
+      "evento": "Día de Reyes",
+      "emojis": [
+        {
+          "title": "Crown",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png"
+        },
+        {
+          "title": "Wrapped Gift",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Wrapped%20Gift.png"
+        }
+      ]
+    }
+  ],
+
+  "1-26": [
+    {
+      "evento": "Día de Australia",
+      "emojis": [
+        {
+          "title": "Kangaroo",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Kangaroo.png"
+        }
+      ]
+    }
+  ],
+
+  "2-2": [
+    {
+      "evento": "Día de la Candelaria",
+      "emojis": [
+        {
+          "title": "Sparkler",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png"
+        },
+        {
+          "title": "Sparkles",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png"
+        }
+      ]
+    }
+  ],
+
+  "2-14": [
+    {
+      "evento": "Día de San Valentín",
+      "emojis": [
+        {
+          "title": "Red Heart",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png"
+        },
+        {
+          "title": "Love Letter",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
+        }
+      ]
+    }
+  ],
+
+  "2-20": [
+    {
+      "evento": "Día Mundial de la Justicia Social",
+      "emojis": [
+        {
+          "title": "Balance Scale",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png"
+        },
+        {
+          "title": "Globe with Meridians",
+          "url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png"
+        }
+      ]
+    }
+  ],
+
+  "2-21": [{ "evento": "Día Internacional de la Lengua Materna", "emojis": "🗣️🌍" }],
+  "3-3": [{ "evento": "Día Mundial de la Vida Silvestre", "emojis": "🐆🐢" }],
+  "3-8": [{ "evento": "Día Internacional de la Mujer", "emojis": "👩‍⚕️♀️" }],
+  "3-17": [{ "evento": "Día de San Patricio", "emojis": "🍀💚" }],
+  "3-20": [{ "evento": "Día Internacional de la Felicidad", "emojis": "😊🌞" }],
+  "3-21": [
+    { "evento": "Equinoccio de Primavera", "emojis": "🌸🌞" },
+    {
+      "evento": "Día Internacional de la Eliminación de la Discriminación Racial",
+      "emojis": "🤝🌍"
+    }
+  ],
+  "3-22": [{ "evento": "Día Mundial del Agua", "emojis": "💧🌎" }],
+  "4-2": [{ "evento": "Día Mundial de Concienciación sobre el Autismo", "emojis": "🧩🧠" }],
+  "4-7": [{ "evento": "Día Mundial de la Salud", "emojis": "🌱💊" }],
+  "4-22": [{ "evento": "Día de la Tierra", "emojis": "🌍🌱" }],
+  "4-23": [{ "evento": "Día Mundial del Libro y del Derecho de Autor", "emojis": "📖🌹" }],
+  "4-30": [{ "evento": "Día Internacional del Jazz", "emojis": "🎺🎼" }],
+  "5-1": [{ "evento": "Día del Trabajador", "emojis": "🛠️👷" }],
+  "5-5": [{ "evento": "Cinco de Mayo", "emojis": "🇲🇽🎉" }],
+  "5-10": [{ "evento": "Día de la Madre", "emojis": "💐👩‍👧" }],
+  "5-15": [{ "evento": "Día Internacional de la Familia", "emojis": "👪👨‍👩‍👧" }],
+  "5-17": [{ "evento": "Día Mundial de las Telecomunicaciones", "emojis": "📶🌐" }],
+  "5-20": [{ "evento": "Día Mundial de las Abejas", "emojis": "🐝🍯" }],
+  "5-22": [{ "evento": "Día Internacional de la Diversidad Biológica", "emojis": "🌿🦋" }],
+  "6-5": [{ "evento": "Día Mundial del Medio Ambiente", "emojis": "🌍💚" }],
+  "6-12": [{ "evento": "Día Mundial contra el Trabajo Infantil", "emojis": "🚸🛑" }],
+  "6-21": [
+    { "evento": "Solsticio de Verano", "emojis": "🌞🌸" },
+    { "evento": "Día Internacional del Yoga", "emojis": "🧘‍♂️🌅" }
+  ],
+  "7-3": [{ "evento": "Día Internacional Libre de Bolsas de Plástico", "emojis": "🛍️🚫" }],
+  "7-4": [{ "evento": "Día de la Independencia de EE. UU.", "emojis": "🎆🇺🇸" }],
+  "7-7": [{ "evento": "Día Mundial del Chocolate", "emojis": "🍫🤎" }],
+  "7-17": [{ "evento": "Día de la Justicia Internacional", "emojis": "⚖️🌐" }],
+  "7-18": [{ "evento": "Día Internacional de Nelson Mandela", "emojis": "🌞🌍" }],
+  "7-30": [{ "evento": "Día Internacional de la Amistad", "emojis": "🌐🤝" }],
+  "8-9": [{ "evento": "Día Internacional de los Pueblos Indígenas", "emojis": "🌎🌿" }],
+  "8-12": [{ "evento": "Día Internacional de la Juventud", "emojis": "🎒🌏" }],
+  "8-15": [{ "evento": "Asunción de la Virgen", "emojis": "🌸🙏" }],
+  "8-19": [{ "evento": "Día Mundial de la Fotografía", "emojis": "📷🌄" }],
+  "8-26": [{ "evento": "Día Internacional del Perro", "emojis": "🐾❤️" }],
+  "9-8": [{ "evento": "Día Internacional de la Alfabetización", "emojis": "📚🌐" }],
+  "9-15": [{ "evento": "Día Internacional de la Democracia", "emojis": "🌍🗳️" }],
+  "9-16": [{ "evento": "Día de la Independencia de México", "emojis": "🇲🇽🎉" }],
+  "9-21": [{ "evento": "Día Internacional de la Paz", "emojis": "🕊️🌎" }],
+  "9-27": [{ "evento": "Día Mundial del Turismo", "emojis": "🏞️🌿" }],
+  "10-4": [{ "evento": "Día Mundial de los Animales", "emojis": "🦁🌲" }],
+  "10-5": [{ "evento": "Día Mundial de los Docentes", "emojis": "👩‍🏫📚" }],
+  "10-10": [{ "evento": "Día Mundial de la Salud Mental", "emojis": "🧠❤️" }],
+  "10-11": [{ "evento": "Día Internacional de la Niña", "emojis": "👧🌏" }],
+  "10-16": [{ "evento": "Día Mundial de la Alimentación", "emojis": "🌾🥖" }],
+  "10-31": [{ "evento": "Halloween", "emojis": "🎃👻" }],
+  "11-1": [{ "evento": "Día de Todos los Santos", "emojis": "🕊️🌹" }],
+  "11-2": [{ "evento": "Día de los Muertos", "emojis": "💀🕯️" }],
+  "11-3": [{ "evento": "Día Internacional de la Libertad de Prensa", "emojis": "📰🖊️" }],
+  "11-19": [{ "evento": "Día Internacional del Hombre", "emojis": "👨‍🦱⚖️" }],
+  "11-25": [{ "evento": "Día Internacional contra la Violencia hacia la Mujer", "emojis": "🌌🕯️" }],
+  "11-30": [{ "evento": "Día de la Seguridad Informática", "emojis": "🛡️💻" }],
+  "12-1": [{ "evento": "Día Mundial del SIDA", "emojis": "🩺🎗️" }],
+  "12-8": [{ "evento": "Inmaculada Concepción", "emojis": "🌸🙏" }],
+  "12-10": [{ "evento": "Día de los Derechos Humanos", "emojis": "🌍✊" }],
+  "12-25": [{ "evento": "Navidad", "emojis": "🎄✨" }],
+  "12-31": [{ "evento": "Nochevieja", "emojis": "🎆🍾" }]
+}
