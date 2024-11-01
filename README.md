@@ -78,6 +78,7 @@
   </td>
 
   <td valign="top" width="50%">
+    #### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
     <picture>
       <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
     </picture>
