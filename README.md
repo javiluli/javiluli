@@ -1,4 +1,3 @@
-
 <h1 align="center">
   ¡Buenas<img src="./images/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/beaming_face_with_smiling_eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
@@ -82,7 +81,7 @@
 #### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
 
 <picture>
-<img alt="github-snake" src="https://i.redd.it/v7agj4sch6yd1.jpeg" alt="Meme del dia"  width="50%" />
+<img alt="github-snake" src="https://i.redd.it/v7agj4sch6yd1.jpeg" width="100%" />
 </picture>
 </td>
 </tr>
