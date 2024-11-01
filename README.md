@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
 
 <!-- redes sociales -->
@@ -18,7 +18,7 @@
 
 <hr />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000000)](undefined)
 [![java](https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=FFFFFF)](undefined)
@@ -32,9 +32,8 @@
 [![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=FFFFFF)](undefined)
 [![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)](undefined)
 
-<details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno y practico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> </summary>
-  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" />
+
 [![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)](undefined)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=FFFFFF)](undefined)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=FFFFFF)](undefined)
@@ -50,9 +49,6 @@
 [![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=svg&logoColor=000000)](undefined)
 [![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=flat-square&logo=framer&logoColor=FFFFFF)](undefined)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF)](undefined)
-</details>
-
-
 
 <hr />
 
@@ -72,7 +68,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
 <a href="https://github.com/avinal/Profile-Readme-WakaTime">
-  <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg" alt="javiluli WakaTime Activity"/>
+  <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
 </a>
 
 <picture>
