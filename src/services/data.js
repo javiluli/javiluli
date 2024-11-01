@@ -1,33 +1,23 @@
 import fetch from 'node-fetch'
 import { APIS } from '../constants.js'
 
-// Obtener repositorios desde un perfil de GitHub
 export const getRepositoriesData = async () => {
   const response = await fetch(APIS.REPOS_GITHUB)
-  const text = await response.text()
-  const data = JSON.parse(text)
-  return data.map((repositori) => {
-    const { name, html_url } = repositori
-    return { name, html_url }
-  })
+  const data = await response.json()
+  return data.map(({ name, html_url }) => ({ name, html_url }))
 }
 
-// Obtener los 'shields.io' de skills y otros
-export const getShieldsSkills = async (shields) => {
-  return shields.map((shield) => {
-    const { message, iconName, colorlabel, colorlogo, link } = shield
-    return { message, iconName, colorlabel, colorlogo, link }
-  })
-}
+export const getShieldsSkills = (shields) =>
+  shields.map(({ message, iconName, colorlabel, colorlogo, link }) => ({
+    message,
+    iconName,
+    colorlabel,
+    colorlogo,
+    link,
+  }))
 
-// Obtener
-export const getMemeReource = async () => {
-  const RUL_API = 'https://www.reddit.com/r/memes/top/.json?limit=1&t=day'
-
-  const response = await fetch(RUL_API)
-  const res = await response.text()
-  const jsonResult = JSON.parse(res)
-  const { url } = jsonResult?.data?.children[0]?.data
-
-  return { url }
+export const getMemeResource = async () => {
+  const response = await fetch('https://www.reddit.com/r/memes/top/.json?limit=1&t=day')
+  const { data } = await response.json()
+  return { url: data.children[0]?.data?.url }
 }

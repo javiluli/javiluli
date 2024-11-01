@@ -1,3 +1,4 @@
+
 <h1 align="center">
   ¡Buenas<img src="./images/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/beaming_face_with_smiling_eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
@@ -31,7 +32,7 @@
 [![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=FFFFFF)](undefined)
 [![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)](undefined)
 
-### <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
+## <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
 
 [![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)](undefined)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=FFFFFF)](undefined)
@@ -78,10 +79,10 @@
 
 <td valign="top" width="50%">
 
-#### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
+### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
 
 <picture>
-<img alt="github-snake" src="https://i.redd.it/v7agj4sch6yd1.jpeg" width="100%" />
+<img alt="Meme del dia" src="https://i.redd.it/v7agj4sch6yd1.jpeg"  width="50%" />
 </picture>
 </td>
 </tr>

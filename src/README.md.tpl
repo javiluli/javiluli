@@ -21,7 +21,7 @@
 ## <img src="./images/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="./images/star.png" alt="🌟" width="25" height="25" />
 %{{primary_skills_shields}}%
 
-### <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
+## <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
 %{{seconday_skills_shields}}%
 
 <hr />
@@ -53,7 +53,7 @@
 
 <td valign="top" width="50%">
 
-#### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
+### <img src="./images/clown_face.png" alt="🤡" width="25" height="25" /> Meme del día
 
 <picture>
 <img alt="Meme del dia" src="%{{reddit_meme}}%"  width="50%" />
