@@ -1,10 +1,6 @@
 
 <h1 align="center">
-<<<<<<< HEAD
   ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-=======
-  ¡Buenas<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
->>>>>>> 193b20672aeb37eba2a4765c8a68ed13860271ae
 </h1>
 
 <!-- redes sociales -->
@@ -20,15 +16,9 @@
   </a>
 </p>
 
-<<<<<<< HEAD
 <hr />
 
-<img style="float: right" src="https://b.thumbs.redditmedia.com/VP9YYBcbatBlhgSjcKo7-PYQff1--lQpdY616l9rRPo.jpg" />
-=======
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
->>>>>>> 193b20672aeb37eba2a4765c8a68ed13860271ae
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="🌟" width="25" height="25" />
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000000)](undefined)
 [![java](https://img.shields.io/badge/java-007396.svg?style=flat-square&logo=java&logoColor=FFFFFF)](undefined)
@@ -42,7 +32,8 @@
 [![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=FFFFFF)](undefined)
 [![VS_Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)](undefined)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" />
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno y practico <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="🏋️‍♂️" width="25" height="25" /> </summary>
   
 [![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)](undefined)
 [![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat-square&logo=vite&logoColor=FFFFFF)](undefined)
@@ -59,6 +50,9 @@
 [![SVG](https://img.shields.io/badge/SVG-FFB13B.svg?style=flat-square&logo=svg&logoColor=000000)](undefined)
 [![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=flat-square&logo=framer&logoColor=FFFFFF)](undefined)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF)](undefined)
+</details>
+
+
 
 <hr />
 
@@ -77,9 +71,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
-<picture>
+<a href="https://github.com/avinal/Profile-Readme-WakaTime">
   <img src="https://github.com/javiluli/javiluli/blob/master/images/stat.svg" alt="javiluli WakaTime Activity"/>
-</picture>
+</a>
 
 <picture>
   <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -89,12 +83,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
 
+<a href="https://github.com/javiluli/pixel-war-reddit-clone" target="_blank">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=pixel-war-reddit-clone&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="pixel-war-reddit-clone"/>
+</a>
 <a href="https://github.com/javiluli/resolved-frontendmentor-challenges" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=resolved-frontendmentor-challenges&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="resolved-frontendmentor-challenges"/>
 </a>
 <a href="https://github.com/javiluli/javiluli" target="_blank">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=javiluli&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="javiluli"/>
-</a>
-<a href="https://github.com/javiluli/bootstrap-design-taller" target="_blank">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=javiluli&repo=bootstrap-design-taller&theme=dark&bg_color=0D1117&title_color=64b0f7&icon_color=fff098&hide_border=true&show_icons=false" width="278" alt="bootstrap-design-taller"/>
 </a>
