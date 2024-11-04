@@ -21,13 +21,13 @@ const generateBadgeBySkills = ({ message, iconName, labelColor, logoColor }) => 
 [![${message}](https://img.shields.io/badge/${message}-${labelColor}.svg?style=flat-square&logo=${iconName}&logoColor=${logoColor})](#)`
 
 const generateRedditMemeSecctions = ({ title, url, author }) => `
-<h3 align="center">
+<h3 align="center" style="margin-top: none">
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
 ![${title}](${url})
 
-<h4 align="right">${author}<i> - ${title}</i> - </h4>
+<p align="right">${author}<i> - ${title}</i> - </p>
 `
 
 const generateDateHolidays = () => {
