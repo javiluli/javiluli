@@ -1,9 +1,9 @@
 
 <h1 align="center">
-¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/emojis/beaming_face_with_smiling_eyes.png" alt="😬" width="25" height="25" />
+¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier
 </h1>
 
-## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" />
+## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=FFFFFF)](#)
@@ -21,7 +21,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=FFFFFF)](#)
 [![Eclipse_IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=FFFFFF)](#)
 
-## <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
+## <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno
 
 [![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=flat-square&logo=npm&logoColor=FFFFFF)](#)
 [![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=prettier&logoColor=000000)](#)
@@ -40,7 +40,7 @@
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=flat-square&logo=Socket.io&logoColor=FFFFFF)](#)
 
 <details>
-  <summary> <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> </summary>
+  <summary> <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales </summary>
 
 - [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
 - [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas)
@@ -55,15 +55,15 @@
 ## <img src="./images/emojis/bar_chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
 
 <table width="960px">
-<tr>
-<td valign="top" width="50%">
+<tr style="border: none;">
+<td valign="top" width="50%" style="border: none">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
 <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
 </picture>
 
-#### <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios
+<h4> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h4>
 
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
@@ -83,15 +83,15 @@
 [![my-online-cv](https://img.shields.io/badge/my_online_cv-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/my-online-cv)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none">
 
-<h3 align="center">
+<h3 align="center" style="margin-top: none">
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
-![Cons of having famous parents I guess. ](https://i.redd.it/3d6inq7vhqyd1.gif)
+![Not that hard ](https://i.redd.it/chi1xuwtktyd1.gif)
 
-<h4 align="right">JohnAdams4620<i> - Cons of having famous parents I guess. </i> - </h4>
+<p align="right">Anurag2199<i> - Not that hard </i> - </p>
 
 </td>
 </tr> 
@@ -103,18 +103,17 @@
 
 <hr />
 
-<table width="960px">
-  <tr>
-    <td valign="top" width="50%">
-      <p><i> Lunes, 4 de noviembre </i></p>
-    </td>
-    <td valign="top" width="50%">
-      <p align="right">
-        <a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-        <a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
-        <a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
-        <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+
+<h2>
+<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" /> Donde encontrarme
+</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
+<a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
+<a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
+</p>
+
+<p><i> Lunes, 4 de noviembre </i></p>
