@@ -106,9 +106,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
-![Beware...](https://i.redd.it/r0v61d3spryd1.png)
+![Why... just why](https://i.redd.it/64lae0ty0jyd1.gif)
 
-<h4 align="right"> - YakintoR<i>, Beware...</i> - </h4>
+<h4 align="right"> - Mat_Av<i>, Why... just why</i> - </h4>
 
 </td>
 </tr> 
@@ -121,5 +121,5 @@
 <hr />
 
 <h4 align="center">
-  <i> 3/11/2024 - Día Internacional de la Libertad de Prensa 📰🖊️ </i>
+  <i> 4/11/2024 </i>
 </h4>
