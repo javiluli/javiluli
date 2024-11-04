@@ -3,21 +3,6 @@
 ¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/emojis/beaming_face_with_smiling_eyes.png" alt="😬" width="25" height="25" />
 </h1>
 
-<!-- redes sociales -->
-<p align="center">
-<a href="mailto:javiluli.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
-</a>
-<a href="https://discord.gg/PVRaGyKukU" target="_blank">
-<img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
-</a>
-<a href="https://codepen.io/javiluli_dev" target="_blank">
-<img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
-</a>
-</p>
-
-<hr />
-
 ## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" />
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF)](#)
@@ -53,8 +38,6 @@
 [![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=FFFFFF)](#)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=flat-square&logo=Socket.io&logoColor=FFFFFF)](#)
-
-<hr />
 
 <details>
   <summary> <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> </summary>
@@ -106,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
-![Why... just why](https://i.redd.it/64lae0ty0jyd1.gif)
+![Cons of having famous parents I guess. ](https://i.redd.it/3d6inq7vhqyd1.gif)
 
-<h4 align="right"> - Mat_Av<i>, Why... just why</i> - </h4>
+<h4 align="right">JohnAdams4620<i> - Cons of having famous parents I guess. </i> - </h4>
 
 </td>
 </tr> 
@@ -120,6 +103,18 @@
 
 <hr />
 
-<h4 align="center">
-  <i> 4/11/2024 </i>
-</h4>
+<table width="960px">
+  <tr>
+    <td valign="top" width="50%">
+      <p><i> Lunes, 4 de noviembre </i></p>
+    </td>
+    <td valign="top" width="50%">
+      <p align="right">
+        <a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+        <a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
+        <a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
+        <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
