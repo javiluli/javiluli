@@ -3,28 +3,11 @@
 ¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/emojis/beaming_face_with_smiling_eyes.png" alt="😬" width="25" height="25" />
 </h1>
 
-<!-- redes sociales -->
-<p align="center">
-<a href="mailto:javiluli.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
-</a>
-<a href="https://discord.gg/PVRaGyKukU" target="_blank">
-<img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/>
-</a>
-<a href="https://codepen.io/javiluli_dev" target="_blank">
-<img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/>
-</a>
-</p>
-
-<hr />
-
 ## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" />
 %{{main_skills_badge}}%
 
 ## <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" />
 %{{competences_train_badge}}%
-
-<hr />
 
 <details>
   <summary> <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> </summary>
@@ -66,6 +49,18 @@
 
 <hr />
 
-<h4 align="center">
-  <i> %{{date}}% </i>
-</h4>
+<table width="960px">
+  <tr>
+    <td valign="top" width="50%">
+      <p><i> %{{date}}% </i></p>
+    </td>
+    <td valign="top" width="50%">
+      <p align="right">
+        <a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+        <a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
+        <a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
+        <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
+      </p>
+    </td>
+  </tr>
+</table>

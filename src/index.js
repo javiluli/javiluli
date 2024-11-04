@@ -27,11 +27,10 @@ const generateRedditMemeSecctions = ({ title, url, author }) => `
 
 ![${title}](${url})
 
-<h4 align="right"> - ${author}<i>, ${title}</i> - </h4>
+<h4 align="right">${author}<i> - ${title}</i> - </h4>
 `
 
 const generateDateHolidays = () => {
-  const date = time(HOLIDAYS)
   return time(HOLIDAYS)
 }
 
