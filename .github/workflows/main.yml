@@ -1,0 +1,28 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+      - run: npm install
+      - run: npm run update-readme
+      - run: |
+          git config user.name javiluli
+          git config user.email javiluli.dev@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m ":robot: Update README with latest info"
+          git push origin master
