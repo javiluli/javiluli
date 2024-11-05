@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
-![Not that hard ](https://i.redd.it/chi1xuwtktyd1.gif)
+![We are living in matrix](https://i.redd.it/bjvhgn8g0yyd1.png)
 
-<p align="right">Anurag2199<i> - Not that hard </i> - </p>
+<p align="right">Healthy_Direction_47<i> - We are living in matrix</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
 </p>
 
-<p><i> Lunes, 4 de noviembre </i></p>
+<p><i> Martes, 5 de noviembre </i></p>
