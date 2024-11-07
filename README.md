@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al dia, desde r/memes <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" />
 </h3>
 
-![Dung beetle appreciation post](https://i.redd.it/cp8ystq143zd1.png)
+![bro a pet and still lost, that's just sad](https://i.redd.it/8rhsv7zn32zd1.png)
 
-<p align="right">hir0shima_1945<i> - Dung beetle appreciation post</i> - </p>
+<p align="right">Khantlerpartesar<i> - bro a pet and still lost, that's just sad</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
 </p>
 
-<p><i> Miércoles, 6 de noviembre </i></p>
+<p><i> Jueves, 7 de noviembre </i></p>
