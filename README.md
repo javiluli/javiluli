@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![the eat-all-you-can buffet is achievable now](https://i.redd.it/h13f452gmnzd1.png)
+![I hope it's for ](https://i.redd.it/ov1ada7r4mzd1.png)
 
-<p align="right">Khantlerpartesar<i> - the eat-all-you-can buffet is achievable now</i> - </p>
+<p align="right">Tasty-Weight3893<i> - I hope it's for </i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de noviembre, 13:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de noviembre, 15:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
