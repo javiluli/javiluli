@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I subscribed to him... ](https://i.redd.it/e576u10nbmzd1.gif)
+![the eat-all-you-can buffet is achievable now](https://i.redd.it/h13f452gmnzd1.png)
 
-<p align="right">TalonEye53<i> - I subscribed to him... </i> - </p>
+<p align="right">Khantlerpartesar<i> - the eat-all-you-can buffet is achievable now</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de noviembre, 13:52 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de noviembre, 13:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
