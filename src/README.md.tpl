@@ -1,6 +1,6 @@
 
 <h1 align="center">
-¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier
+¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/emojis/beaming_face_with_smiling_eyes.png" alt="👋" width="25" height="25" />
 </h1>
 
 ## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes
@@ -22,22 +22,22 @@
 
 </details>
 
-## <img src="./images/emojis/bar_chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub
-
 <table width="960px">
-<tr style="border: none;">
-<td valign="top" width="50%" style="border: none">
+<tr>
+<td valign="top" width="50%">
+<h2> <img src="./images/emojis/bar_chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub </h2>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
 <img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
 </picture>
 
-<h4> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h4>
+<h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 %{{latest_repos}}%
 
 </td>
-<td valign="top" width="50%" style="border: none">
+<td valign="top" width="50%">
 %{{reddit_meme}}%
 </td>
 </tr> 
@@ -47,19 +47,18 @@
 <img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<hr />
-
-
-
 <h2>
-<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" /> Donde encontrarme
+<img src="./images/emojis/globe_with_meridians.png" alt="🌐" width="25" height="25" /> Donde encontrarme
 </h2>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
 <a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
 <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
 </p>
 
-<p><i> %{{date}}% </i></p>
+------------
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: %{{date}}% </p>
+
+<p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>

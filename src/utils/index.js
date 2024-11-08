@@ -11,8 +11,8 @@ export function time(eventos) {
 
   if (eventosEspeciales.length > 0) {
     const eventosTexto = eventosEspeciales.map((evento) => `${evento.evento} ${evento.emojis}`).join(', ')
-    return `${fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)} - ${eventosTexto}`
+    return `${fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)}, ${fecha.getHours()}:${fecha.getMinutes()} CET - ${eventosTexto}`
   } else {
-    return fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)
+    return `${fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)}, ${fecha.getHours()}:${fecha.getMinutes()} CET`
   }
 }
