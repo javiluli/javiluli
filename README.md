@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I hope it's for ](https://i.redd.it/ov1ada7r4mzd1.png)
+![Hurts man..](https://i.redd.it/fv8meedgbnzd1.png)
 
-<p align="right">Tasty-Weight3893<i> - I hope it's for </i> - </p>
+<p align="right">silksongenjoyer<i> - Hurts man..</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de noviembre, 15:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 9 de noviembre, 01:53 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
