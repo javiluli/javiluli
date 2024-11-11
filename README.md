@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Living the high fidelity life](https://i.redd.it/osgxdtmkcvzd1.png)
+![Dicaprio be making those early investments.](https://i.redd.it/6gdq00g0250e1.png)
 
-<p align="right">A_Mature_Wanker<i> - Living the high fidelity life</i> - </p>
+<p align="right">Lev_Callahan<i> - Dicaprio be making those early investments.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 10 de noviembre, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 11 de noviembre, 01:56 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
