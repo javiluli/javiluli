@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Dicaprio be making those early investments.](https://i.redd.it/6gdq00g0250e1.png)
+![The kid inside me](https://i.redd.it/h0qyc4wyhc0e1.gif)
 
-<p align="right">Lev_Callahan<i> - Dicaprio be making those early investments.</i> - </p>
+<p align="right">WinterLake8056<i> - The kid inside me</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 11 de noviembre, 01:56 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 12 de noviembre, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
