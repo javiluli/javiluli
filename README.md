@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![One good thing to come out of Disney buying everyone and everything ](https://i.redd.it/3xpfejp2ix0e1.png)
+![Surprised it took him this long to finally find out](https://i.redd.it/sr9kztdmm21e1.png)
 
-<p align="right">emoyerwilkes63<i> - One good thing to come out of Disney buying everyone and everything </i> - </p>
+<p align="right">-This-cant-be-real-<i> - Surprised it took him this long to finally find out</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 15 de noviembre, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 16 de noviembre, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
