@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Surprised it took him this long to finally find out](https://i.redd.it/sr9kztdmm21e1.png)
+![Netflix is trash.](https://i.redd.it/9pdt20z9u61e1.png)
 
-<p align="right">-This-cant-be-real-<i> - Surprised it took him this long to finally find out</i> - </p>
+<p align="right">SJMCubs16<i> - Netflix is trash.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 16 de noviembre, 01:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 17 de noviembre, 02:01 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
