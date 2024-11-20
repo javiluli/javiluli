@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Both are cool](https://i.redd.it/d03f7izl5p1e1.png)
+![you def know these people](https://i.redd.it/7vawkqf48v1e1.png)
 
-<p align="right">SorcererWithGuns<i> - Both are cool</i> - </p>
+<p align="right">Tristor1471<i> - you def know these people</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 19 de noviembre, 01:58 CET - Día Internacional del Hombre 👨‍🦱⚖️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 20 de noviembre, 01:58 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
