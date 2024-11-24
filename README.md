@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Is this reality or just a fantasy ](https://i.redd.it/4ygzvkd3cf2e1.png)
+![Literally me](https://i.redd.it/dho5a9fpqp2e1.png)
 
-<p align="right">Loose_Journalist9879<i> - Is this reality or just a fantasy </i> - </p>
+<p align="right">belinasaroh<i> - Literally me</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 23 de noviembre, 01:56 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 24 de noviembre, 02:02 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
