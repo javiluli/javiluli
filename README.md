@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Literally me](https://i.redd.it/dho5a9fpqp2e1.png)
+![What's open now?](https://i.redd.it/8zqrs9d7jx2e1.png)
 
-<p align="right">belinasaroh<i> - Literally me</i> - </p>
+<p align="right">Van_Hofenhaim<i> - What's open now?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 24 de noviembre, 02:02 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 25 de noviembre, 01:59 CET - Día Internacional contra la Violencia hacia la Mujer 🌌🕯️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
