@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Chill far away from us please!](https://i.redd.it/feut82ee0h3e1.png)
+![Thanks, I feel much better now!](https://i.redd.it/ruokub2csp3e1.png)
 
-<p align="right">MrmemeMasterman<i> - Chill far away from us please!</i> - </p>
+<p align="right">JudgmentalOwl<i> - Thanks, I feel much better now!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 28 de noviembre, 01:59 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 29 de noviembre, 01:59 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
