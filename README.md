@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's fine. 15 minutes and this place would be spotless ](https://i.redd.it/pw6p9ozi6u3e1.gif)
+![Who’s in?](https://i.redd.it/29u2hu4r144e1.gif)
 
-<p align="right">Rambling-Rooster<i> - It's fine. 15 minutes and this place would be spotless </i> - </p>
+<p align="right">smartvolcano<i> - Who’s in?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 30 de noviembre, 01:58 CET - Día de la Seguridad Informática 🛡️💻 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de diciembre, 02:09 CET - Día Mundial del SIDA 🩺🎗️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
