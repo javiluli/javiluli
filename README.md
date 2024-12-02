@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Who’s in?](https://i.redd.it/29u2hu4r144e1.gif)
+![nigahiga, when the world needed him the most, he vanished](https://i.redd.it/eofkck5nc84e1.png)
 
-<p align="right">smartvolcano<i> - Who’s in?</i> - </p>
+<p align="right">ar_torres<i> - nigahiga, when the world needed him the most, he vanished</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de diciembre, 02:09 CET - Día Mundial del SIDA 🩺🎗️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de diciembre, 02:02 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
