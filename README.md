@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Say my name-](https://i.redd.it/25azr0cedf4e1.png)
+![What do you think he's snoozing to?](https://i.redd.it/6qr87kf9wv4e1.png)
 
-<p align="right">cocoreupload<i> - Say my name-</i> - </p>
+<p align="right">Zedarinho<i> - What do you think he's snoozing to?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de diciembre, 02:01 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de diciembre, 02:01 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
