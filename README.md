@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What do you think he's snoozing to?](https://i.redd.it/6qr87kf9wv4e1.png)
+![How people talk about funko pops vs anime figures ](https://i.redd.it/r4ano8huuu4e1.png)
 
-<p align="right">Zedarinho<i> - What do you think he's snoozing to?</i> - </p>
+<p align="right">andr3wsmemez69<i> - How people talk about funko pops vs anime figures </i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de diciembre, 02:01 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de diciembre, 02:00 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
