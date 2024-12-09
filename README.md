@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![【Life】 "Dementia" Ending Speedrun ](https://i.redd.it/q2o1y2f3yg5e1.png)
+![Santa Claims](https://i.redd.it/hmsrn6vnto5e1.png)
 
-<p align="right">binhan123ad<i> - 【Life】 "Dementia" Ending Speedrun </i> - </p>
+<p align="right">Emtahl<i> - Santa Claims</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de diciembre, 02:05 CET - Inmaculada Concepción 🌸🙏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de diciembre, 02:02 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
