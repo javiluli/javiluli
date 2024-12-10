@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Santa Claims](https://i.redd.it/hmsrn6vnto5e1.png)
+![I'm Poor.](https://i.redd.it/87ruxzjfrm5e1.png)
 
-<p align="right">Emtahl<i> - Santa Claims</i> - </p>
+<p align="right">Topgun-Patty<i> - I'm Poor.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de diciembre, 02:02 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de diciembre, 02:02 CET - Día de los Derechos Humanos 🌍✊ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
