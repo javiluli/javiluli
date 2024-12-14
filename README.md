@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Never again](https://i.redd.it/4egndaiecg6e1.gif)
+![Met her dad today.](https://i.redd.it/uks8a272jm6e1.png)
 
-<p align="right">NapoleoneBonoacarte<i> - Never again</i> - </p>
+<p align="right">Affectionate-Push758<i> - Met her dad today.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de diciembre, 02:01 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de diciembre, 01:59 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
