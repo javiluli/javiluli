@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Everytime](https://i.redd.it/nxhn1y62b77e1.png)
+![The Password is working hard](https://i.redd.it/0cu476m6u57e1.png)
 
-<p align="right">BolainasR3<i> - Everytime</i> - </p>
+<p align="right">toothbrush_mast3r<i> - The Password is working hard</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de diciembre, 02:01 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de diciembre, 01:58 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
