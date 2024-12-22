@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I was just being a good neighbour](https://i.redd.it/cmcdg5syf08e1.gif)
+![Beep Boop, did you just touch me multiple times?](https://i.redd.it/sfzjdgv0i98e1.gif)
 
-<p align="right">scknnd<i> - I was just being a good neighbour</i> - </p>
+<p align="right">hector-the-dragon<i> - Beep Boop, did you just touch me multiple times?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de diciembre, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de diciembre, 02:00 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
