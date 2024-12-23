@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Beep Boop, did you just touch me multiple times?](https://i.redd.it/sfzjdgv0i98e1.gif)
+![1990 was a wild time for pizza prices](https://i.redd.it/oo6e11uujf8e1.gif)
 
-<p align="right">hector-the-dragon<i> - Beep Boop, did you just touch me multiple times?</i> - </p>
+<p align="right">TheRealOcsiban<i> - 1990 was a wild time for pizza prices</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de diciembre, 02:00 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de diciembre, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
