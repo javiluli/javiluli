@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![1990 was a wild time for pizza prices](https://i.redd.it/oo6e11uujf8e1.gif)
+![What's wrong? Isn't this what you wanted?](https://i.redd.it/ewbq4v0dze8e1.gif)
 
-<p align="right">TheRealOcsiban<i> - 1990 was a wild time for pizza prices</i> - </p>
+<p align="right">Cayennesan<i> - What's wrong? Isn't this what you wanted?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de diciembre, 01:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 24 de diciembre, 01:55 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
