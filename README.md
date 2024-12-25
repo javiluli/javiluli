@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What's wrong? Isn't this what you wanted?](https://i.redd.it/ewbq4v0dze8e1.gif)
+![I'm sorry, fuck you.](https://i.redd.it/rjakankq6v8e1.png)
 
-<p align="right">Cayennesan<i> - What's wrong? Isn't this what you wanted?</i> - </p>
+<p align="right">Responsible-Cut-2863<i> - I'm sorry, fuck you.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 24 de diciembre, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de diciembre, 01:55 CET - Navidad 🎄✨ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
