@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I'm sorry, fuck you.](https://i.redd.it/rjakankq6v8e1.png)
+![Why not use this format](https://i.redd.it/pu88lbx1d19e1.png)
 
-<p align="right">Responsible-Cut-2863<i> - I'm sorry, fuck you.</i> - </p>
+<p align="right">RingingPhone<i> - Why not use this format</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de diciembre, 01:55 CET - Navidad 🎄✨ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de diciembre, 01:55 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
