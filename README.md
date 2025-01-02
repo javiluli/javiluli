@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![time is fake](https://i.redd.it/88ksb7bx96ae1.png)
+![PEGI - idiotic and/or corrupted organization.](https://i.redd.it/utbz1ivenfae1.png)
 
-<p align="right">altruisticgoose17<i> - time is fake</i> - </p>
+<p align="right">araiki<i> - PEGI - idiotic and/or corrupted organization.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 1 de enero, 02:00 CET - Año Nuevo 🎉✨ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 2 de enero, 01:55 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
