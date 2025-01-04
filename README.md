@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This situation is a pure comedy](https://i.redd.it/x1cx91bn5nae1.png)
+![Do they do this on purpose?](https://i.imgflip.com/9fl0xt.jpg)
 
-<p align="right">Techno-Xenos<i> - This situation is a pure comedy</i> - </p>
+<p align="right">executor-of-judgment<i> - Do they do this on purpose?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 3 de enero, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de enero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
