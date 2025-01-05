@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Do they do this on purpose?](https://i.imgflip.com/9fl0xt.jpg)
+![By 50% in fact](https://i.redd.it/4oqcjmt5l2be1.png)
 
-<p align="right">executor-of-judgment<i> - Do they do this on purpose?</i> - </p>
+<p align="right">oneuglycat<i> - By 50% in fact</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de enero, 02:00 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
