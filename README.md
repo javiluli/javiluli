@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![By 50% in fact](https://i.redd.it/4oqcjmt5l2be1.png)
+![They just got on with it](https://i.redd.it/3gr4jagpo1be1.png)
 
-<p align="right">oneuglycat<i> - By 50% in fact</i> - </p>
+<p align="right">AttilaMajom<i> - They just got on with it</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de enero, 02:00 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de enero, 01:58 CET - Día de Reyes 👑🎁 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
