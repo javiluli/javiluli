@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They just got on with it](https://i.redd.it/3gr4jagpo1be1.png)
+![bonus points when they're self taught](https://i.redd.it/smfcfr9qlgbe1.gif)
 
-<p align="right">AttilaMajom<i> - They just got on with it</i> - </p>
+<p align="right">critivix<i> - bonus points when they're self taught</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de enero, 01:58 CET - Día de Reyes 👑🎁 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 7 de enero, 01:56 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
