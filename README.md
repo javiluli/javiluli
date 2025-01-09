@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Meanwhile people looking for a 30 series.](https://i.redd.it/k117f8qx2lbe1.png)
+![Big L for your pp](https://i.redd.it/9atdmqm37ube1.png)
 
-<p align="right">Virasman<i> - Meanwhile people looking for a 30 series.</i> - </p>
+<p align="right">noice1m8y<i> - Big L for your pp</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 8 de enero, 01:56 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de enero, 01:55 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
