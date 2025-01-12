@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![i'm scared](https://i.redd.it/a4co79dx98ce1.png)
+![You gotta admit that I'm onto somthing](https://i.redd.it/nadbhcwhrdce1.png)
 
-<p align="right">oobekko<i> - i'm scared</i> - </p>
+<p align="right">User_8395<i> - You gotta admit that I'm onto somthing</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de enero, 01:56 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de enero, 02:01 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
