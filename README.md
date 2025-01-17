@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And now I can't change it](https://i.redd.it/vmpq5fbuc2de1.gif)
+![When you try to keep your car fresh and original as much as possible](https://i.redd.it/6hq2lcelxdde1.png)
 
-<p align="right">MrGamerOfficial<i> - And now I can't change it</i> - </p>
+<p align="right">xGHOSTRAGEx<i> - When you try to keep your car fresh and original as much as possible</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 17 de enero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
