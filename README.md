@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![When you try to keep your car fresh and original as much as possible](https://i.redd.it/6hq2lcelxdde1.png)
+![It be like that](https://i.redd.it/7ve2zttw1kde1.gif)
 
-<p align="right">xGHOSTRAGEx<i> - When you try to keep your car fresh and original as much as possible</i> - </p>
+<p align="right">knj23<i> - It be like that</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 17 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 18 de enero, 01:52 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
