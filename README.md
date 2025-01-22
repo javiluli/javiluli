@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We are all athletes, just in different industries.](https://i.redd.it/jll5t8obq7ee1.png)
+![Every. Single. Day.](https://i.redd.it/5kve8vw6leee1.png)
 
-<p align="right">hrantm400<i> - We are all athletes, just in different industries.</i> - </p>
+<p align="right">c0bra_<i> - Every. Single. Day.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 21 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de enero, 01:56 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
