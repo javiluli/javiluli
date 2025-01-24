@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They don't deserve meatballs](https://i.redd.it/88jmnpqlsmee1.png)
+![Just started 2nd semester and i'm cooked](https://i.redd.it/i68p9wunvpee1.png)
 
-<p align="right">PM_ME_URFOOD<i> - They don't deserve meatballs</i> - </p>
+<p align="right">Huy7aAms<i> - Just started 2nd semester and i'm cooked</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de enero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
