@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Just started 2nd semester and i'm cooked](https://i.redd.it/i68p9wunvpee1.png)
+![1 ticket for Soniczilla please](https://i.redd.it/hq50drccxxee1.gif)
 
-<p align="right">Huy7aAms<i> - Just started 2nd semester and i'm cooked</i> - </p>
+<p align="right">Large-Wheel-4181<i> - 1 ticket for Soniczilla please</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de enero, 01:51 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
