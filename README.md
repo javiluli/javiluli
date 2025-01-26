@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![1 ticket for Soniczilla please](https://i.redd.it/hq50drccxxee1.gif)
+![Trying to drive at night feels like](https://i.redd.it/seclwibr76fe1.png)
 
-<p align="right">Large-Wheel-4181<i> - 1 ticket for Soniczilla please</i> - </p>
+<p align="right">_Vard_<i> - Trying to drive at night feels like</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de enero, 01:51 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 26 de enero, 01:56 CET - Día de Australia 🇦🇺🦘 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
