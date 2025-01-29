@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They are THE BEST.](https://i.redd.it/5vo0ttcerjfe1.png)
+![I thought that's the entire point. Apparently not.](https://i.redd.it/1mrb0664lpfe1.png)
 
-<p align="right">Mr_M_2711<i> - They are THE BEST.</i> - </p>
+<p align="right">Khantlerpartesar<i> - I thought that's the entire point. Apparently not.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de enero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de enero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
