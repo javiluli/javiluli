@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The moment I stepped out of the house;](https://i.redd.it/9zn99ya2ebge1.png)
+![from the latest penguinz0 video, figured I'd draw it lol](https://i.redd.it/ei0t7td7ilge1.png)
 
-<p align="right">Select_Prize1706<i> - The moment I stepped out of the house;</i> - </p>
+<p align="right">chknboy<i> - from the latest penguinz0 video, figured I'd draw it lol</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 1 de febrero, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 2 de febrero, 01:57 CET - Día de la Candelaria 🎇✨ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
