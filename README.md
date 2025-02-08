@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The guy seems everywhere](https://i.redd.it/j1y74kunwkhe1.gif)
+![The beavers does give a dam](https://i.redd.it/zg1a1dgxvghe1.gif)
 
-<p align="right">ConanCimmerian<i> - The guy seems everywhere</i> - </p>
+<p align="right">vanhentunutliha<i> - The beavers does give a dam</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 7 de febrero, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 8 de febrero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
