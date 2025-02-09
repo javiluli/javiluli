@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The beavers does give a dam](https://i.redd.it/zg1a1dgxvghe1.gif)
+![Krispy Kreme Back at it Again](https://i.redd.it/yo6eojamfzhe1.png)
 
-<p align="right">vanhentunutliha<i> - The beavers does give a dam</i> - </p>
+<p align="right">Other_Combination136<i> - Krispy Kreme Back at it Again</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 8 de febrero, 01:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 9 de febrero, 01:58 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
