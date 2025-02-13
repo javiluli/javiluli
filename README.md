@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How was your weekend?](https://i.redd.it/ewqcs9jrufie1.png)
+![Fr🤮🤮ce disgusting](https://i.redd.it/fgj58gntorie1.png)
 
-<p align="right">WarriorOfDoom<i> - How was your weekend?</i> - </p>
+<p align="right">Slocum_joe_<i> - Fr🤮🤮ce disgusting</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 12 de febrero, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 13 de febrero, 01:56 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
