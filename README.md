@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This is true, they weren't ready for middle school humor](https://i.redd.it/z6q43n5rexie1.png)
+![Shout out to my fellow singles out there](https://i.redd.it/heuzicwfj3je1.png)
 
-<p align="right">animo-sns<i> - This is true, they weren't ready for middle school humor</i> - </p>
+<p align="right">lk79<i> - Shout out to my fellow singles out there</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 14 de febrero, 01:55 CET - Día de San Valentín ❤️💌 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 15 de febrero, 01:55 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
