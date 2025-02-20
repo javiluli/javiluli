@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![r/itookapicture is now just porn](https://i.redd.it/q6twx4zc8rje1.png)
+![Old age gets you suddenly](https://i.redd.it/eqic57xxl5ke1.png)
 
-<p align="right">domsfilms1<i> - r/itookapicture is now just porn</i> - </p>
+<p align="right">Tiny_Lychee_8987<i> - Old age gets you suddenly</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 18 de febrero, 01:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 20 de febrero, 01:56 CET - Día Mundial de la Justicia Social ⚖️🌐 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
