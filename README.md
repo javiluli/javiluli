@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Fresh meme for the cat owners](https://i.redd.it/qo6qke0wvake1.png)
+![Last place he’ll go to](https://i.imgur.com/0RAg64P.gif)
 
-<p align="right">WarriorOfDoom<i> - Fresh meme for the cat owners</i> - </p>
+<p align="right">ryan_godzez<i> - Last place he’ll go to</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 21 de febrero, 01:56 CET - Día Internacional de la Lengua Materna 🗣️🌍 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 22 de febrero, 01:54 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
