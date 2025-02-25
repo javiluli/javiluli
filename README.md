@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Just loafing around.](https://i.redd.it/3wkb5bryuxke1.png)
+![Their day was ruined](https://i.redd.it/swqta1t9f5le1.png)
 
-<p align="right">oranke_dino<i> - Just loafing around.</i> - </p>
+<p align="right">Veldo92<i> - Their day was ruined</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 24 de febrero, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 25 de febrero, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
