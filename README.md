@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Their day was ruined](https://i.redd.it/swqta1t9f5le1.png)
+![It's a REALLY great show man!](https://i.redd.it/amk2zb0sgdle1.png)
 
-<p align="right">Veldo92<i> - Their day was ruined</i> - </p>
+<p align="right">Jzombie2005<i> - It's a REALLY great show man!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 25 de febrero, 01:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 26 de febrero, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
