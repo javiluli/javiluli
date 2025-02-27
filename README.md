@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's a REALLY great show man!](https://i.redd.it/amk2zb0sgdle1.png)
+![When Facebook covers a comment](https://i.redd.it/7tz72i6dghle1.png)
 
-<p align="right">Jzombie2005<i> - It's a REALLY great show man!</i> - </p>
+<p align="right">Cool-Habit-9586<i> - When Facebook covers a comment</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 26 de febrero, 01:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 27 de febrero, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
