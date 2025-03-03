@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Love me some Asians](https://i.redd.it/ge7e6438e0me1.png)
+![Sun, give me all of your energy.](https://i.redd.it/iumuuhs0z8me1.gif)
 
-<p align="right">ChaosOfOrder24<i> - Love me some Asians</i> - </p>
+<p align="right">hector-the-dragon<i> - Sun, give me all of your energy.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 2 de marzo, 02:00 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 3 de marzo, 01:59 CET - Día Mundial de la Vida Silvestre 🐆🐢 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
