@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Fuck Microsoft](https://i.redd.it/hl0osuhy8jme1.png)
+![They really cant get no satisfaction](https://i.redd.it/vcb8fyi3pmme1.gif)
 
-<p align="right">Batcat55<i> - Fuck Microsoft</i> - </p>
+<p align="right">SoullessMemenist<i> - They really cant get no satisfaction</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 4 de marzo, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 5 de marzo, 01:58 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
