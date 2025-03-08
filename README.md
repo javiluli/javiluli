@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The Shrek redesign was so bad!](https://i.redd.it/nj51e84mr4ne1.png)
+![look babe a new Dashcon ball pit dropped and its at McDonalds](https://i.redd.it/odrj2k11ocne1.png)
 
-<p align="right">Curdy_Boy<i> - The Shrek redesign was so bad!</i> - </p>
+<p align="right">tallejos0012<i> - look babe a new Dashcon ball pit dropped and its at McDonalds</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 7 de marzo, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 8 de marzo, 01:45 CET - Día Internacional de la Mujer 👩‍⚕️♀️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
