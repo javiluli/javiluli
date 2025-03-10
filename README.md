@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![look babe a new Dashcon ball pit dropped and its at McDonalds](https://i.redd.it/odrj2k11ocne1.png)
+![I think he needs a life sentence.](https://i.redd.it/57m21e77zpne1.png)
 
-<p align="right">tallejos0012<i> - look babe a new Dashcon ball pit dropped and its at McDonalds</i> - </p>
+<p align="right">Marzipug<i> - I think he needs a life sentence.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 8 de marzo, 01:45 CET - Día Internacional de la Mujer 👩‍⚕️♀️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 10 de marzo, 01:49 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
