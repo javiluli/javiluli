@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![*Goes to buy a 9070xt on release day after saving up money*: "and...it's gone"](https://i.redd.it/r5hgf9ms1foe1.png)
+![Give me time, I am not a supercomputer](https://i.redd.it/qgihqh0ekpoe1.png)
 
-<p align="right">ElectricalCamp104<i> - *Goes to buy a 9070xt on release day after saving up money*: "and...it's gone"</i> - </p>
+<p align="right">claymixer<i> - Give me time, I am not a supercomputer</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 14 de marzo, 01:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 15 de marzo, 01:57 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
