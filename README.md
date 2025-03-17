@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Magnetosphere my beloved](https://i.redd.it/bjbb9d4qpxoe1.gif)
+![It was a good day](https://i.redd.it/1od6fmfnd3pe1.gif)
 
-<p align="right">AutisticHeadphones<i> - Magnetosphere my beloved</i> - </p>
+<p align="right">TheGhost5322<i> - It was a good day</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 16 de marzo, 02:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 17 de marzo, 02:00 CET - Día de San Patricio 🍀💚 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
