@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Crying inside](https://i.redd.it/jpwak2cug4qe1.gif)
+![Hang on to your stocks for now](https://i.redd.it/2t4jav9t3bqe1.gif)
 
-<p align="right">GoKaroZ<i> - Crying inside</i> - </p>
+<p align="right">Metro-Sperg-Services<i> - Hang on to your stocks for now</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 22 de marzo, 01:58 CET - Día Mundial del Agua 💧🌎 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 23 de marzo, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
