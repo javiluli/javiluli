@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The flex au naturel](https://i.redd.it/xbt4i4igy0re1.png)
+![There is also a cat house that is not in the frame](https://i.redd.it/t9ggkednt9re1.png)
 
-<p align="right">afireofnature<i> - The flex au naturel</i> - </p>
+<p align="right">SerrrG0<i> - There is also a cat house that is not in the frame</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 27 de marzo, 01:59 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 28 de marzo, 01:59 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
