@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There is also a cat house that is not in the frame](https://i.redd.it/t9ggkednt9re1.png)
+![Me looking at the entire universe](https://i.redd.it/sqhf5n3ggire1.png)
 
-<p align="right">SerrrG0<i> - There is also a cat house that is not in the frame</i> - </p>
+<p align="right">Atalkingpizzabox<i> - Me looking at the entire universe</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 28 de marzo, 01:59 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 29 de marzo, 01:59 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
