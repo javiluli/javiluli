@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My daughter ripped off the jaw](https://i.redd.it/c57owj46wkre1.png)
+!["Well they didn't just grow legs and walk away, did they?!"](https://i.redd.it/m38bsxnd7wre1.png)
 
-<p align="right">knownymous1<i> - My daughter ripped off the jaw</i> - </p>
+<p align="right">TestZero<i> - "Well they didn't just grow legs and walk away, did they?!"</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 30 de marzo, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 31 de marzo, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
