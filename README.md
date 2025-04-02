@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I'M SO DONE](https://i.redd.it/dbdzroq3exre1.png)
+![Thanks, not thanks Reddit.](https://i.redd.it/yx54zb37m8se1.png)
 
-<p align="right">FarPatient8056<i> - I'M SO DONE</i> - </p>
+<p align="right">Occasionally_around<i> - Thanks, not thanks Reddit.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 1 de abril, 03:07 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 2 de abril, 03:01 CEST - Día Mundial de Concienciación sobre el Autismo 🧩🧠 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
