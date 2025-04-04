@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You're in real trouble now buddy](https://i.redd.it/7ad5zf12mfse1.png)
+![47% tariffs on Madagascar?](https://i.redd.it/d6mem93sbpse1.png)
 
-<p align="right">my-toes-taste-good<i> - You're in real trouble now buddy</i> - </p>
+<p align="right">loadingglife<i> - 47% tariffs on Madagascar?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 3 de abril, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 4 de abril, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
