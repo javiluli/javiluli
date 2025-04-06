@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Calloused knuckles fr](https://i.redd.it/qrpd90c7rwse1.gif)
+![Leave them alone🤬🤬🤬](https://i.redd.it/3sex5dcg1tse1.png)
 
-<p align="right">dchoong-09<i> - Calloused knuckles fr</i> - </p>
+<p align="right">Yolo065<i> - Leave them alone🤬🤬🤬</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 5 de abril, 02:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de abril, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
