@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Leave them alone🤬🤬🤬](https://i.redd.it/3sex5dcg1tse1.png)
+![Can't even stretch nowadays](https://i.redd.it/xdwjkj8rwcte1.png)
 
-<p align="right">Yolo065<i> - Leave them alone🤬🤬🤬</i> - </p>
+<p align="right">quesslay<i> - Can't even stretch nowadays</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de abril, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 8 de abril, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
