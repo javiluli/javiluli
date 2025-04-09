@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Can't even stretch nowadays](https://i.redd.it/xdwjkj8rwcte1.png)
+![Stock Market These Days...](https://i.redd.it/anivx0mbykte1.png)
 
-<p align="right">quesslay<i> - Can't even stretch nowadays</i> - </p>
+<p align="right">Moosplauze<i> - Stock Market These Days...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 8 de abril, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 9 de abril, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
