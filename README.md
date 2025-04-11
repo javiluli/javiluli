@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Like sometimes theres just a limit before it doesn't matter any more.](https://i.redd.it/h3rv5mw62vte1.png)
+![Always during the most serious moments](https://i.redd.it/yltaz4cco1ue1.png)
 
-<p align="right">Zan_korida<i> - Like sometimes theres just a limit before it doesn't matter any more.</i> - </p>
+<p align="right">averageAkazaFanboy<i> - Always during the most serious moments</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 10 de abril, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 11 de abril, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
