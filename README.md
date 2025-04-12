@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Always during the most serious moments](https://i.redd.it/yltaz4cco1ue1.png)
+![Saul Hombre Bueno](https://i.redd.it/7qs4n4pbw5ue1.png)
 
-<p align="right">averageAkazaFanboy<i> - Always during the most serious moments</i> - </p>
+<p align="right">EclipseButNotSolar<i> - Saul Hombre Bueno</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 11 de abril, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 12 de abril, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
