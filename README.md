@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Saul Hombre Bueno](https://i.redd.it/7qs4n4pbw5ue1.png)
+![You are WRONG!](https://i.redd.it/qe5tzbvemhue1.gif)
 
-<p align="right">EclipseButNotSolar<i> - Saul Hombre Bueno</i> - </p>
+<p align="right">No-Appearance-2015<i> - You are WRONG!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 12 de abril, 02:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de abril, 04:29 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
