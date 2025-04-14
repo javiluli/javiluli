@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You are WRONG!](https://i.redd.it/qe5tzbvemhue1.gif)
+![haha funny quote go brrr](https://i.redd.it/l5qd75pzinue1.gif)
 
-<p align="right">No-Appearance-2015<i> - You are WRONG!</i> - </p>
+<p align="right">Eric72890<i> - haha funny quote go brrr</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de abril, 04:29 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 14 de abril, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
