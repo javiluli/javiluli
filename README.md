@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Literally 1984](https://i.redd.it/ih8e34q6f2ve1.png)
+![Aha. Fucking hell](https://i.redd.it/fw85e27f89ve1.png)
 
-<p align="right">SpookyWeebou<i> - Literally 1984</i> - </p>
+<p align="right">PatchWorkDaddy<i> - Aha. Fucking hell</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de abril, 03:02 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 17 de abril, 03:01 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
