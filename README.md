@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![always have a foundation to your arguments](https://i.redd.it/rw5ygzencdve1.png)
+![Damn it. Now gotta wait till next time.](https://i.redd.it/81aecj6ebkve1.gif)
 
-<p align="right">Khantlerpartesar<i> - always have a foundation to your arguments</i> - </p>
+<p align="right">Shiroyasha_2308<i> - Damn it. Now gotta wait till next time.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 18 de abril, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 19 de abril, 02:58 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
