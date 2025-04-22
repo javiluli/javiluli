@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Dropping idk like it's valid excuse](https://i.redd.it/ygm5miffssve1.gif)
+![If you know you know](https://i.redd.it/1d2xxt7kz7we1.png)
 
-<p align="right">j5029<i> - Dropping idk like it's valid excuse</i> - </p>
+<p align="right">Shinesona<i> - If you know you know</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 21 de abril, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 22 de abril, 03:01 CEST - Día de la Tierra 🌍🌱 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
