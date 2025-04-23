@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![If you know you know](https://i.redd.it/1d2xxt7kz7we1.png)
+![It looks like it's coming along well](https://i.redd.it/6b1mmm2t9dwe1.gif)
 
-<p align="right">Shinesona<i> - If you know you know</i> - </p>
+<p align="right">tritapolli<i> - It looks like it's coming along well</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 22 de abril, 03:01 CEST - Día de la Tierra 🌍🌱 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 23 de abril, 03:02 CEST - Día Mundial del Libro y del Derecho de Autor 📖🌹 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
