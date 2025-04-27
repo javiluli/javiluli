@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So I've heard we're having bit of an old meme reunion here](https://i.redd.it/l3yer72ixtwe1.png)
+![what's happening to me](https://i.redd.it/3n2otaba28xe1.png)
 
-<p align="right">ratsatan13<i> - So I've heard we're having bit of an old meme reunion here</i> - </p>
+<p align="right">Luriam<i> - what's happening to me</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 25 de abril, 03:02 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 27 de abril, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
