@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I heard Hell has my type of women so I’m fine with going to hell.](https://i.redd.it/bvcg32if9hxe1.gif)
+![It's dark over there](https://i.redd.it/7cclgjc22sxe1.png)
 
-<p align="right">Other-Cell-2061<i> - I heard Hell has my type of women so I’m fine with going to hell.</i> - </p>
+<p align="right">AravRAndG<i> - It's dark over there</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 29 de abril, 03:02 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 30 de abril, 03:02 CEST - Día Internacional del Jazz 🎺🎼 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
