@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Under Where?](https://i.redd.it/rpo0xh90cwxe1.png)
+![Time to take those downvotes as a champ and support your internet homie](https://i.redd.it/jbphh2qgj7ye1.png)
 
-<p align="right">AudiobooksGeek<i> - Under Where?</i> - </p>
+<p align="right">Objective_Emu_7457<i> - Time to take those downvotes as a champ and support your internet homie</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 1 de mayo, 03:08 CEST - Día del Trabajador 🛠️👷 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 2 de mayo, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
