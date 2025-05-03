@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Time to take those downvotes as a champ and support your internet homie](https://i.redd.it/jbphh2qgj7ye1.png)
+![IA is the future](https://i.redd.it/75z209g3tfye1.gif)
 
-<p align="right">Objective_Emu_7457<i> - Time to take those downvotes as a champ and support your internet homie</i> - </p>
+<p align="right">b3n33333<i> - IA is the future</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 2 de mayo, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 3 de mayo, 03:01 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
