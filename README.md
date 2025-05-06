@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So procrastination kinda saving me everyday](https://i.redd.it/4iu60basjuye1.png)
+![I have to know this at 2 AM](https://i.redd.it/mbj7dfs94zye1.png)
 
-<p align="right">ScreenWriterEng<i> - So procrastination kinda saving me everyday</i> - </p>
+<p align="right">AceAlpha24<i> - I have to know this at 2 AM</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 5 de mayo, 03:06 CEST - Cinco de Mayo 🇲🇽🎉 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 6 de mayo, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
