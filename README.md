@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They will milk this for the whole year.](https://i.redd.it/3bm0znjti7ze1.png)
+![Unfortunately Shrek is not the first Dreamworks movie, but still...](https://i.redd.it/zuoftld9mdze1.png)
 
-<p align="right">thespygorillas<i> - They will milk this for the whole year.</i> - </p>
+<p align="right">DanieleMemoli<i> - Unfortunately Shrek is not the first Dreamworks movie, but still...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 7 de mayo, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 8 de mayo, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
