@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Unfortunately Shrek is not the first Dreamworks movie, but still...](https://i.redd.it/zuoftld9mdze1.png)
+![One more way: "It appears that current circumstances have vindicated my former hypothesis"](https://i.redd.it/flrcud9kbmze1.png)
 
-<p align="right">DanieleMemoli<i> - Unfortunately Shrek is not the first Dreamworks movie, but still...</i> - </p>
+<p align="right">Upstairs-Bit6897<i> - One more way: "It appears that current circumstances have vindicated my former hypothesis"</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 8 de mayo, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 9 de mayo, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
