@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Unfortunate series of events](https://i.redd.it/z9q9jo50hsze1.png)
+![Du. Du hast. Du hast niche.](https://i.redd.it/8zlu7125zqze1.gif)
 
-<p align="right">Bitter_Dick<i> - Unfortunate series of events</i> - </p>
+<p align="right">VitalMaTThews<i> - Du. Du hast. Du hast niche.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 10 de mayo, 03:01 CEST - Día de la Madre 💐👩‍👧 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 11 de mayo, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
