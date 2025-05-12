@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Du. Du hast. Du hast niche.](https://i.redd.it/8zlu7125zqze1.gif)
+![C h i c k e n       J o c k e y](https://i.redd.it/4m7qh3td280f1.png)
 
-<p align="right">VitalMaTThews<i> - Du. Du hast. Du hast niche.</i> - </p>
+<p align="right">Ok-Shopping7331<i> - C h i c k e n       J o c k e y</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 11 de mayo, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 12 de mayo, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
