@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![C h i c k e n       J o c k e y](https://i.redd.it/4m7qh3td280f1.png)
+![Missing out on AI isn't all bad](https://i.redd.it/wb9fz17smf0f1.png)
 
-<p align="right">Ok-Shopping7331<i> - C h i c k e n       J o c k e y</i> - </p>
+<p align="right">Knee_t<i> - Missing out on AI isn't all bad</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 12 de mayo, 03:06 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 13 de mayo, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
