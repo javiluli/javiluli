@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Ik I am nosey](https://i.redd.it/ml0oizq9ij0f1.png)
+!["Whatchu gonna say now?"](https://i.redd.it/ph8cbd8ucs0f1.png)
 
-<p align="right">_ravennnn<i> - Ik I am nosey</i> - </p>
+<p align="right">knj23<i> - "Whatchu gonna say now?"</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 14 de mayo, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 15 de mayo, 03:01 CEST - Día Internacional de la Familia 👪👨‍👩‍👧 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
