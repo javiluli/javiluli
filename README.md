@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We all know its gonna be the most devious comment ever](https://i.redd.it/2hzqd31dmm2f1.png)
+![stand up for yourself](https://i.redd.it/ng1shu5k603f1.png)
 
-<p align="right">FatDingo69<i> - We all know its gonna be the most devious comment ever</i> - </p>
+<p align="right">Vamosity-Cosmic<i> - stand up for yourself</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 25 de mayo, 03:10 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 26 de mayo, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
