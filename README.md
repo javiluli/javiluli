@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![If you take this down, your dick is small](https://i.redd.it/jjhns8dgrz2f1.png)
+![Witness the splendour!](https://i.redd.it/zors0yq0rd3f1.gif)
 
-<p align="right">FarPatient8056<i> - If you take this down, your dick is small</i> - </p>
+<p align="right">The_Squirrel_Wizard<i> - Witness the splendour!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 27 de mayo, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 28 de mayo, 03:05 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
