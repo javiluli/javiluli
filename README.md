@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I bet the disease didn't expect this maneuver](https://i.redd.it/rddey6mwtx3f1.gif)
+![I cleaned up my files lmao [OC]](https://i.redd.it/k747zk7gb34f1.png)
 
-<p align="right">hin2u<i> - I bet the disease didn't expect this maneuver</i> - </p>
+<p align="right">golden_ingot<i> - I cleaned up my files lmao [OC]</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 31 de mayo, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de junio, 03:17 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
