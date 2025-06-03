@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Big sad ngl](https://i.redd.it/c3gm50e0a64f1.gif)
+![hmm interesting gossip you got there](https://i.redd.it/iyh1xll2kb4f1.gif)
 
-<p align="right">BigGaybowser69<i> - Big sad ngl</i> - </p>
+<p align="right">shivthegamer6969<i> - hmm interesting gossip you got there</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de junio, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de junio, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
