@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Truly disgusting](https://i.redd.it/or8h36iukm4f1.png)
+![Grug memes](https://i.redd.it/ght2dsiuvx4f1.png)
 
-<p align="right">Global-Ear9206<i> - Truly disgusting</i> - </p>
+<p align="right">Livid-Anybody-9768<i> - Grug memes</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de junio, 03:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de junio, 03:05 CEST - Día Mundial del Medio Ambiente 🌍💚 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
