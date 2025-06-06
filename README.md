@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Grug memes](https://i.redd.it/ght2dsiuvx4f1.png)
+![r/interestingasfuck posts](https://i.redd.it/1tyv8lbvc35f1.gif)
 
-<p align="right">Livid-Anybody-9768<i> - Grug memes</i> - </p>
+<p align="right">shivthegamer6969<i> - r/interestingasfuck posts</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de junio, 03:05 CEST - Día Mundial del Medio Ambiente 🌍💚 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de junio, 03:05 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
