@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![ex. is for exercise?](https://i.redd.it/ih14gqmd5b5f1.png)
+![i hate when this happens my friends that one guy who never shows up to school](https://i.redd.it/gcvcxn0wci5f1.gif)
 
-<p align="right">MihinMUD<i> - ex. is for exercise?</i> - </p>
+<p align="right">mr_gyatt<i> - i hate when this happens my friends that one guy who never shows up to school</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 7 de junio, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de junio, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
