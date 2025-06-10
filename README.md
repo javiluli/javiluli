@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Straight into the ether](https://i.redd.it/xx66s1uk0j5f1.gif)
+![The little guy is the player](https://i.redd.it/nyhkfh2lrs5f1.png)
 
-<p align="right">RegularNoodles<i> - Straight into the ether</i> - </p>
+<p align="right">SlightlyInsaneCreate<i> - The little guy is the player</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de junio, 03:09 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de junio, 03:07 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
