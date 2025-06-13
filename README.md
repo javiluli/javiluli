@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sense of relief](https://i.redd.it/41ctmwzheb6f1.png)
+![Eeeeeeeeee](https://i.redd.it/mxdclmz1lh6f1.png)
 
-<p align="right">Environmental_Ad_107<i> - Sense of relief</i> - </p>
+<p align="right">Beautiful_Regret_472<i> - Eeeeeeeeee</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de junio, 03:05 CEST - Día Mundial contra el Trabajo Infantil 🚸🛑 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de junio, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
