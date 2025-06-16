@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Water can't make it go away](https://i.redd.it/qwqwi0cl5q6f1.gif)
+![U look like a blobfish old man stfu](https://i.redd.it/za840hdlr37f1.png)
 
-<p align="right">shivthegamer6969<i> - Water can't make it go away</i> - </p>
+<p align="right">FatFlyingPineapple<i> - U look like a blobfish old man stfu</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 15 de junio, 03:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de junio, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
