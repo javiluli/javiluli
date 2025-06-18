@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Wrinkled greens and their healthy friends](https://i.redd.it/o82h0tdbl97f1.png)
+![Yummers indeed](https://i.redd.it/zvg9lkp7ci7f1.png)
 
-<p align="right">tom_nuke<i> - Wrinkled greens and their healthy friends</i> - </p>
+<p align="right">RunningMouse7<i> - Yummers indeed</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de junio, 03:06 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de junio, 03:06 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
