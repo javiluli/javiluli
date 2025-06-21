@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![All days are not equal](https://i.redd.it/vplfdw5h8x7f1.gif)
+![one last look.](https://i.redd.it/iavyr6cjh48f1.gif)
 
-<p align="right">CRISPRSCIENCE9<i> - All days are not equal</i> - </p>
+<p align="right">ryan_godzez<i> - one last look.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de junio, 03:06 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de junio, 03:05 CEST - Solsticio de Verano 🌞🌸, Día Internacional del Yoga 🧘‍♂️🌅 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
