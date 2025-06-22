@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![one last look.](https://i.redd.it/iavyr6cjh48f1.gif)
+![Are they ever happy?](https://i.redd.it/s41f8693hc8f1.png)
 
-<p align="right">ryan_godzez<i> - one last look.</i> - </p>
+<p align="right">Ancelly<i> - Are they ever happy?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de junio, 03:05 CEST - Solsticio de Verano 🌞🌸, Día Internacional del Yoga 🧘‍♂️🌅 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de junio, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
