@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![1080p resolution](https://i.redd.it/t9ulqkh91h8f1.png)
+![As a backender, I find this really funny](https://i.redd.it/qqb8xchr8y8f1.png)
 
-<p align="right">asian69feet<i> - 1080p resolution</i> - </p>
+<p align="right">ChubbyBlossomPetal<i> - As a backender, I find this really funny</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 24 de junio, 03:06 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de junio, 03:07 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
