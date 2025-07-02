@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This is fucking up my budget. The next meal is gonna be short one egg.](https://i.imgflip.com/9yzj15.jpg)
+!["VISIT NOTASCAM.COM TO WIN FREE ROBUX NOW!"](https://i.redd.it/fmdysqnmgcaf1.png)
 
-<p align="right">executor-of-judgment<i> - This is fucking up my budget. The next meal is gonna be short one egg.</i> - </p>
+<p align="right">-toasterguy-<i> - "VISIT NOTASCAM.COM TO WIN FREE ROBUX NOW!"</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 1 de julio, 03:14 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 2 de julio, 03:07 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
