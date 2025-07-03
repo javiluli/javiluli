@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-!["VISIT NOTASCAM.COM TO WIN FREE ROBUX NOW!"](https://i.redd.it/fmdysqnmgcaf1.png)
+![Anything for that 2% off](https://i.redd.it/atwwqgokdhaf1.gif)
 
-<p align="right">-toasterguy-<i> - "VISIT NOTASCAM.COM TO WIN FREE ROBUX NOW!"</i> - </p>
+<p align="right">WanPwr5990<i> - Anything for that 2% off</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 2 de julio, 03:07 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 3 de julio, 03:06 CEST - Día Internacional Libre de Bolsas de Plástico 🛍️🚫 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
