@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![American Meme](https://i.redd.it/wrle3bbu1qaf1.png)
+![Gotta be stealthy](https://i.redd.it/9igoqakr7qaf1.gif)
 
-<p align="right">---Guy_Incognito---<i> - American Meme</i> - </p>
+<p align="right">MrGamerOfficial<i> - Gotta be stealthy</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 4 de julio, 03:06 CEST - Día de la Independencia de EE. UU. 🎆🇺🇸 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 5 de julio, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
