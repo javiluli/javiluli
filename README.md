@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Gotta be stealthy](https://i.redd.it/9igoqakr7qaf1.gif)
+![You heard about the 25k shitposting sub rule now we have](https://i.redd.it/e6mzrcdjm3bf1.png)
 
-<p align="right">MrGamerOfficial<i> - Gotta be stealthy</i> - </p>
+<p align="right">abroc24<i> - You heard about the 25k shitposting sub rule now we have</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 5 de julio, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de julio, 03:13 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
