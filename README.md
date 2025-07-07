@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You heard about the 25k shitposting sub rule now we have](https://i.redd.it/e6mzrcdjm3bf1.png)
+![It wasn't meant to be](https://i.redd.it/1xkboyilo7bf1.png)
 
-<p align="right">abroc24<i> - You heard about the 25k shitposting sub rule now we have</i> - </p>
+<p align="right">ignoranttsage<i> - It wasn't meant to be</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de julio, 03:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 7 de julio, 03:11 CEST - Día Mundial del Chocolate 🍫🤎 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
