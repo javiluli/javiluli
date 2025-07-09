@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![id win for sure](https://i.redd.it/efnmyxenajbf1.png)
+![Missed the fourth of july, but it's not too late i guess](https://i.redd.it/t8by3pe7zobf1.png)
 
-<p align="right">D4RKNESS004<i> - id win for sure</i> - </p>
+<p align="right">LVA_MoP<i> - Missed the fourth of july, but it's not too late i guess</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 8 de julio, 03:07 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 9 de julio, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
