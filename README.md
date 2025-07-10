@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Missed the fourth of july, but it's not too late i guess](https://i.redd.it/t8by3pe7zobf1.png)
+![Exceptionally quick my friend](https://i.redd.it/qd07vdaa8ubf1.gif)
 
-<p align="right">LVA_MoP<i> - Missed the fourth of july, but it's not too late i guess</i> - </p>
+<p align="right">daddyDAUA<i> - Exceptionally quick my friend</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 9 de julio, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 10 de julio, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
