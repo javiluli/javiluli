@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Exceptionally quick my friend](https://i.redd.it/qd07vdaa8ubf1.gif)
+![What a weird coincidence...](https://i.redd.it/4t8gmny2f2cf1.gif)
 
-<p align="right">daddyDAUA<i> - Exceptionally quick my friend</i> - </p>
+<p align="right">Farjad72<i> - What a weird coincidence...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 10 de julio, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 11 de julio, 03:09 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
