@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Browsers in 2008 vs 2025 be like](https://i.redd.it/cblxjr05kacf1.png)
+![I’m counting down the seconds to the next one](https://i.redd.it/6z4b1okzlfcf1.gif)
 
-<p align="right">FreeBSDfan<i> - Browsers in 2008 vs 2025 be like</i> - </p>
+<p align="right">RegularNoodles<i> - I’m counting down the seconds to the next one</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 12 de julio, 03:10 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de julio, 03:15 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
