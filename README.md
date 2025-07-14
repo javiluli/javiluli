@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I’m counting down the seconds to the next one](https://i.redd.it/6z4b1okzlfcf1.gif)
+![Sacrificed abs for bigger arms](https://i.redd.it/fv9q2c65xncf1.gif)
 
-<p align="right">RegularNoodles<i> - I’m counting down the seconds to the next one</i> - </p>
+<p align="right">shivthegamer6969<i> - Sacrificed abs for bigger arms</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de julio, 03:15 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 14 de julio, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
