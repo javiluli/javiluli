@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I feel like I’ve been played](https://i.redd.it/o4ujuyvrl0df1.png)
+![Apocalypse...](https://i.redd.it/5a8yl38qd8df1.gif)
 
-<p align="right">Kitchen-Top-8110<i> - I feel like I’ve been played</i> - </p>
+<p align="right">tea-n-wifi<i> - Apocalypse...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de julio, 03:10 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 18 de julio, 03:10 CEST - Día Internacional de Nelson Mandela 🌞🌍 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
