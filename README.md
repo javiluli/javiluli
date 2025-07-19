@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Apocalypse...](https://i.redd.it/5a8yl38qd8df1.gif)
+![I mean it's true.. sadly](https://i.redd.it/sfp2k4nhxfdf1.png)
 
-<p align="right">tea-n-wifi<i> - Apocalypse...</i> - </p>
+<p align="right">Leverest_<i> - I mean it's true.. sadly</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 18 de julio, 03:10 CEST - Día Internacional de Nelson Mandela 🌞🌍 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 19 de julio, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
