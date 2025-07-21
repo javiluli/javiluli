@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That tastes like a promotion](https://i.redd.it/6tced7qf3wdf1.png)
+![So it begi-Иалагоит](https://i.redd.it/hqievkird2ef1.png)
 
-<p align="right">batmaaaaann<i> - That tastes like a promotion</i> - </p>
+<p align="right">ConfusedFoodAmateur<i> - So it begi-Иалагоит</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 20 de julio, 03:17 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 21 de julio, 03:14 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
