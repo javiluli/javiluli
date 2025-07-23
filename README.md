@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So it begi-Иалагоит](https://i.redd.it/hqievkird2ef1.png)
+![Legally cooked](https://i.redd.it/ramun3pnj8ef1.gif)
 
-<p align="right">ConfusedFoodAmateur<i> - So it begi-Иалагоит</i> - </p>
+<p align="right">tea-n-wifi<i> - Legally cooked</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 21 de julio, 03:14 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 23 de julio, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
