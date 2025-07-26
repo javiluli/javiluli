@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every time, without fail, I am never suprised](https://i.redd.it/00r6fgqi0wef1.png)
+![Download. More like Down[something clever].](https://i.redd.it/rkma8dvp62ff1.png)
 
-<p align="right">VassalforThy<i> - Every time, without fail, I am never suprised</i> - </p>
+<p align="right">JamesRitchey<i> - Download. More like Down[something clever].</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 25 de julio, 03:10 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 26 de julio, 03:09 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
