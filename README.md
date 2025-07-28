@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How animals see humans](https://i.redd.it/9uj5tbjky8ff1.png)
+![Enough is in fact enough](https://i.redd.it/j5k6dazhteff1.gif)
 
-<p align="right">Luppercus<i> - How animals see humans</i> - </p>
+<p align="right">MahmoudAO<i> - Enough is in fact enough</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 27 de julio, 03:17 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 28 de julio, 03:16 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
