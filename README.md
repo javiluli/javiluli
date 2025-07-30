@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Start diet...again](https://i.redd.it/ayfex3ocokff1.png)
+![I think I'm ok](https://i.redd.it/697xprasxsff1.gif)
 
-<p align="right">Affectionate_Cell954<i> - Start diet...again</i> - </p>
+<p align="right">MahmoudAO<i> - I think I'm ok</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 29 de julio, 03:19 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 30 de julio, 03:12 CEST - Día Internacional de la Amistad 🌐🤝 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
