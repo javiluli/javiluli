@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Some of these are actually crazy](https://i.redd.it/6fdra37n4yff1.gif)
+![Drip is drip tho](https://i.redd.it/l0cq68x762gf1.png)
 
-<p align="right">shivthegamer6969<i> - Some of these are actually crazy</i> - </p>
+<p align="right">Lucky-Measurement-17<i> - Drip is drip tho</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 31 de julio, 03:12 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 1 de agosto, 03:19 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
