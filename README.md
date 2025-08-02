@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Drip is drip tho](https://i.redd.it/l0cq68x762gf1.png)
+![So uh whose gonna tell him](https://i.redd.it/qyeiek7jx9gf1.png)
 
-<p align="right">Lucky-Measurement-17<i> - Drip is drip tho</i> - </p>
+<p align="right">mohammed69cats<i> - So uh whose gonna tell him</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 1 de agosto, 03:19 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 2 de agosto, 03:09 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
