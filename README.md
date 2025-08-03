@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So uh whose gonna tell him](https://i.redd.it/qyeiek7jx9gf1.png)
+![It never stands a chance](https://i.redd.it/4q09tsm1imgf1.gif)
 
-<p align="right">mohammed69cats<i> - So uh whose gonna tell him</i> - </p>
+<p align="right">HatesAwards<i> - It never stands a chance</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 2 de agosto, 03:09 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 3 de agosto, 03:18 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
