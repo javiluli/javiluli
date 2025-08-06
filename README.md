@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Monday sucks!](https://i.redd.it/hw2d6ywqh0hf1.png)
+![2025 is a mess](https://i.redd.it/71lbeblvdzgf1.png)
 
-<p align="right">ishaanp65<i> - Monday sucks!</i> - </p>
+<p align="right">Camp3r69<i> - 2025 is a mess</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 5 de agosto, 03:14 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 6 de agosto, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
