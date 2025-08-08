@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every Time!](https://i.redd.it/n2ek75g96dhf1.png)
+![These things are bottomed after one sip](https://i.redd.it/uaotg1tr0nhf1.png)
 
-<p align="right">LimePretend6410<i> - Every Time!</i> - </p>
+<p align="right">RecognitionOk7409<i> - These things are bottomed after one sip</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 7 de agosto, 03:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de agosto, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
