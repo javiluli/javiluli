@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's him !](https://i.redd.it/iubluilyrshf1.gif)
+![Nailed it.](https://i.redd.it/dlep0htyashf1.gif)
 
-<p align="right">cypher-dex<i> - It's him !</i> - </p>
+<p align="right">RegularNoodles<i> - Nailed it.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 9 de agosto, 03:06 CEST - Día Internacional de los Pueblos Indígenas 🌎🌿 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 10 de agosto, 03:16 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
