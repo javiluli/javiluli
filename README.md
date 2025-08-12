@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![the last joke...](https://i.redd.it/mnea8umik8if1.png)
+![Not again Luigi](https://i.redd.it/5kxgusy1dgif1.png)
 
-<p align="right">Beginning-Scholar105<i> - the last joke...</i> - </p>
+<p align="right">Majestic_Age7995<i> - Not again Luigi</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 11 de agosto, 03:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 12 de agosto, 03:05 CEST - Día Internacional de la Juventud 🎒🌏 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
