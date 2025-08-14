@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Instant wrinkles](https://i.redd.it/15biuyod6nif1.gif)
+![It's transcendental](https://i.redd.it/xfb8nlja0uif1.png)
 
-<p align="right">Additional-Ad4567<i> - Instant wrinkles</i> - </p>
+<p align="right">NethXtar420<i> - It's transcendental</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 13 de agosto, 03:07 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 14 de agosto, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
