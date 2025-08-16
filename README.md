@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Blessed be open source](https://i.redd.it/9nyy1wtrj1jf1.png)
+![On my way!](https://i.redd.it/yldj2ebtu6jf1.gif)
 
-<p align="right">Guaro_25<i> - Blessed be open source</i> - </p>
+<p align="right">Mantisass<i> - On my way!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 15 de agosto, 03:08 CEST - Asunción de la Virgen 🌸🙏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 16 de agosto, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
