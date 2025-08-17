@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![On my way!](https://i.redd.it/yldj2ebtu6jf1.gif)
+![Give Pedro a break](https://i.redd.it/nv44v8xpbgjf1.png)
 
-<p align="right">Mantisass<i> - On my way!</i> - </p>
+<p align="right">LatinSuD<i> - Give Pedro a break</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 16 de agosto, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 17 de agosto, 03:12 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
