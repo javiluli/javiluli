@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Give Pedro a break](https://i.redd.it/nv44v8xpbgjf1.png)
+![My thoughts on most good spin offs](https://i.redd.it/5ls2st023njf1.png)
 
-<p align="right">LatinSuD<i> - Give Pedro a break</i> - </p>
+<p align="right">Fantasia_Fanboy931<i> - My thoughts on most good spin offs</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 17 de agosto, 03:12 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 18 de agosto, 03:11 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
