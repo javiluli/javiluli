@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My thoughts on most good spin offs](https://i.redd.it/5ls2st023njf1.png)
+![Women are marrying GPTs out here](https://i.redd.it/r3e4mwx4ttjf1.png)
 
-<p align="right">Fantasia_Fanboy931<i> - My thoughts on most good spin offs</i> - </p>
+<p align="right">tycooperaow<i> - Women are marrying GPTs out here</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 18 de agosto, 03:11 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 19 de agosto, 03:04 CEST - Día Mundial de la Fotografía 📷🌄 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
