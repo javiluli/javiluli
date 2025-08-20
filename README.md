@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Women are marrying GPTs out here](https://i.redd.it/r3e4mwx4ttjf1.png)
+![Better to have loved and lost than never to have loved at all... Why not both?](https://i.redd.it/58sd82gxq1kf1.gif)
 
-<p align="right">tycooperaow<i> - Women are marrying GPTs out here</i> - </p>
+<p align="right">XipingVonHozzendorf<i> - Better to have loved and lost than never to have loved at all... Why not both?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 19 de agosto, 03:04 CEST - Día Mundial de la Fotografía 📷🌄 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 20 de agosto, 03:02 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
