@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Better to have loved and lost than never to have loved at all... Why not both?](https://i.redd.it/58sd82gxq1kf1.gif)
+![Detonatus Acetonae!](https://i.redd.it/g4cg2d9c97kf1.gif)
 
-<p align="right">XipingVonHozzendorf<i> - Better to have loved and lost than never to have loved at all... Why not both?</i> - </p>
+<p align="right">RegularNoodles<i> - Detonatus Acetonae!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 20 de agosto, 03:02 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 21 de agosto, 03:02 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
