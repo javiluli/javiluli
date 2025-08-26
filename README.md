@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It is old historical image](https://i.redd.it/kovpaxc0izkf1.png)
+![Well this is unanticipated](https://i.redd.it/w716sdmnf7lf1.png)
 
-<p align="right">Yolo065<i> - It is old historical image</i> - </p>
+<p align="right">AdBrave2400<i> - Well this is unanticipated</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 25 de agosto, 03:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 26 de agosto, 03:03 CEST - Día Internacional del Perro 🐾❤️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
