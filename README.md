@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There is still hope..](https://i.redd.it/2n5xyg5f2nlf1.png)
+![Why did that happen (ALTA)?](https://i.redd.it/1nrz7bdkirlf1.png)
 
-<p align="right">AdBrave2400<i> - There is still hope..</i> - </p>
+<p align="right">AdBrave2400<i> - Why did that happen (ALTA)?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 28 de agosto, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 29 de agosto, 03:01 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
