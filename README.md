@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Why did that happen (ALTA)?](https://i.redd.it/1nrz7bdkirlf1.png)
+![Got sick of this meme, so I fixed it](https://i.redd.it/2k47qtsqk1mf1.png)
 
-<p align="right">AdBrave2400<i> - Why did that happen (ALTA)?</i> - </p>
+<p align="right">SlightWerewolf4428<i> - Got sick of this meme, so I fixed it</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 29 de agosto, 03:01 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 30 de agosto, 02:58 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
