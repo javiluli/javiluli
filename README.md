@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Got sick of this meme, so I fixed it](https://i.redd.it/2k47qtsqk1mf1.png)
+![Bring on the pumpkinnnn](https://i.redd.it/zceh7zi8p6mf1.png)
 
-<p align="right">SlightWerewolf4428<i> - Got sick of this meme, so I fixed it</i> - </p>
+<p align="right">Practical-Ask-7239<i> - Bring on the pumpkinnnn</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 30 de agosto, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 31 de agosto, 03:05 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
