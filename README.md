@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Bring on the pumpkinnnn](https://i.redd.it/zceh7zi8p6mf1.png)
+![Clanker supremacy](https://i.redd.it/v6u03az23dmf1.png)
 
-<p align="right">Practical-Ask-7239<i> - Bring on the pumpkinnnn</i> - </p>
+<p align="right">TheDaemonair<i> - Clanker supremacy</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 31 de agosto, 03:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de septiembre, 03:11 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
