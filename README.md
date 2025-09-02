@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Clanker supremacy](https://i.redd.it/v6u03az23dmf1.png)
+![If we can't ----](https://i.redd.it/uqlq45xipmmf1.png)
 
-<p align="right">TheDaemonair<i> - Clanker supremacy</i> - </p>
+<p align="right">mrcashmen<i> - If we can't ----</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de septiembre, 03:11 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 2 de septiembre, 03:02 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
