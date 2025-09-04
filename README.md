@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![If my “guy” friend had a V wouldn’t that mean they’re a girl therefore I’m not?](https://i.redd.it/q87e1xwdqomf1.gif)
+![Domino effect](https://i.redd.it/t2ruu3bxezmf1.png)
 
-<p align="right">Other-Cell-2061<i> - If my “guy” friend had a V wouldn’t that mean they’re a girl therefore I’m not?</i> - </p>
+<p align="right">bijelo123<i> - Domino effect</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 3 de septiembre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 4 de septiembre, 02:58 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
