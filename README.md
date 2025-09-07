@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Saw this somewhere](https://i.redd.it/vq1vqa35uenf1.png)
+![Cute to Chaos](https://i.redd.it/pzldcbjihknf1.png)
 
-<p align="right">Conscious_Syrup_1204<i> - Saw this somewhere</i> - </p>
+<p align="right">Affectionate_Cell954<i> - Cute to Chaos</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 6 de septiembre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 7 de septiembre, 03:04 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
