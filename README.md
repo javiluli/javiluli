@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Their fault for charging us so much](https://i.redd.it/he7y4mwc6qnf1.png)
+![I was bored so I made this](https://i.redd.it/3m57n77zpznf1.png)
 
-<p align="right">briandagamenerd<i> - Their fault for charging us so much</i> - </p>
+<p align="right">Shrunken_Fire_34<i> - I was bored so I made this</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 8 de septiembre, 03:03 CEST - Día Internacional de la Alfabetización 📚🌐 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 9 de septiembre, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
