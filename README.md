@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![sorry if the text looks bad, the meme was in Spanish and I translated it with Google](https://i.redd.it/fhbobcy0xeof1.png)
+![plot twist](https://i.redd.it/8wbrhtekjfof1.png)
 
-<p align="right">Guaro_25<i> - sorry if the text looks bad, the meme was in Spanish and I translated it with Google</i> - </p>
+<p align="right">we_wakee<i> - plot twist</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 11 de septiembre, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 12 de septiembre, 02:58 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
