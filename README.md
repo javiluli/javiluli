@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Domo was peak childhood](https://i.redd.it/uefiwcyaonof1.png)
+![How cute and adorable.](https://i.redd.it/zp5kkk9bwyof1.gif)
 
-<p align="right">deez-nuts-are_nuts<i> - Domo was peak childhood</i> - </p>
+<p align="right">Other-Cell-2061<i> - How cute and adorable.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 13 de septiembre, 02:55 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 14 de septiembre, 03:03 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
