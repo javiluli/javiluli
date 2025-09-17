@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![why does this thing only exists when it bothers me](https://i.redd.it/laoe44d8hcpf1.png)
+![Roblox in a nutshell...](https://i.redd.it/izmg905nhlpf1.png)
 
-<p align="right">Sno69andahalf<i> - why does this thing only exists when it bothers me</i> - </p>
+<p align="right">Lazy-Difficulty-314<i> - Roblox in a nutshell...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 16 de septiembre, 02:58 CEST - Día de la Independencia de México 🇲🇽🎉 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 17 de septiembre, 02:58 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
