@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Let us see...](https://i.redd.it/ar1op8x2qopf1.png)
+![50/50 odds to succesfully predict it.](https://i.redd.it/5mlis5jzmrpf1.gif)
 
-<p align="right">batslug<i> - Let us see...</i> - </p>
+<p align="right">WhereNormies_55<i> - 50/50 odds to succesfully predict it.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 18 de septiembre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 19 de septiembre, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
