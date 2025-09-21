@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![the noise wins](https://i.redd.it/qpxjz4hvn2qf1.png)
+![Tap go brrrr](https://i.redd.it/w4l6pxhe05qf1.gif)
 
-<p align="right">we_wakee<i> - the noise wins</i> - </p>
+<p align="right">ghost-fucker-8781<i> - Tap go brrrr</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 20 de septiembre, 02:57 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 21 de septiembre, 03:05 CEST - Día Internacional de la Paz 🕊️🌎 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
