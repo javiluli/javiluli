@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It just does a little silly](https://i.redd.it/0zw22yvxalqf1.png)
+![Adding spices be like](https://i.redd.it/ouu5ajqt4sqf1.png)
 
-<p align="right">666thSuprisedPikachu<i> - It just does a little silly</i> - </p>
+<p align="right">ElectrixStorm<i> - Adding spices be like</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 22 de septiembre, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 23 de septiembre, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
