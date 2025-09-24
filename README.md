@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Adding spices be like](https://i.redd.it/ouu5ajqt4sqf1.png)
+![Automatic forfeit](https://i.redd.it/5ug4eizb3vqf1.gif)
 
-<p align="right">ElectrixStorm<i> - Adding spices be like</i> - </p>
+<p align="right">Brilliant_Garlic69<i> - Automatic forfeit</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 23 de septiembre, 02:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 24 de septiembre, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
