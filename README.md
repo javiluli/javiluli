@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The alphabet has a twisted sense of humor.](https://i.redd.it/wbojm9kdg4rf1.png)
+![There are just so much of them](https://i.redd.it/137mztvyhdrf1.png)
 
-<p align="right">Gorthok-<i> - The alphabet has a twisted sense of humor.</i> - </p>
+<p align="right">Confident_Shock_3178<i> - There are just so much of them</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 25 de septiembre, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 26 de septiembre, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
