@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There are just so much of them](https://i.redd.it/137mztvyhdrf1.png)
+![Uh oh sorry guys that's it](https://i.redd.it/g3wcib2zcarf1.png)
 
-<p align="right">Confident_Shock_3178<i> - There are just so much of them</i> - </p>
+<p align="right">666thSuprisedPikachu<i> - Uh oh sorry guys that's it</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 26 de septiembre, 02:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 27 de septiembre, 02:57 CEST - Día Mundial del Turismo 🏞️🌿 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
