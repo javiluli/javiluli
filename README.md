@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So done with Spotify and it's terrible AI DJ](https://i.redd.it/mln023mt5yrf1.png)
+![Magic not found](https://i.redd.it/i8kwpqyffyrf1.png)
 
-<p align="right">Hendrix0<i> - So done with Spotify and it's terrible AI DJ</i> - </p>
+<p align="right">Advantage_Medium<i> - Magic not found</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 29 de septiembre, 03:01 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 30 de septiembre, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
