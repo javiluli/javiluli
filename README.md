@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You can count on the rich tech oligarchs to share their wealth, just like the rich have always done.](https://i.redd.it/3gxrpzzp5osf1.png)
+![blud u fd up - check ur zoom name](https://i.redd.it/fba1oozniysf1.png)
 
-<p align="right">michael-lethal_ai<i> - You can count on the rich tech oligarchs to share their wealth, just like the rich have always done.</i> - </p>
+<p align="right">Entire_Cut_6553<i> - blud u fd up - check ur zoom name</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 3 de octubre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de octubre, 02:56 CEST - Día Mundial de los Animales 🦁🌲 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
