@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![why are they like this?](https://i.redd.it/746g6i0ll4tf1.png)
+![But I don't wannaaaa :(](https://i.redd.it/p2utnkrp5ctf1.png)
 
-<p align="right">Fuzzy_Straitjacket<i> - why are they like this?</i> - </p>
+<p align="right">Depressed-Dolphin69<i> - But I don't wannaaaa :(</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de octubre, 03:05 CEST - Día Mundial de los Docentes 👩‍🏫📚 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de octubre, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
