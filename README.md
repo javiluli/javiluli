@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Disney fixing childhood trauma](https://i.redd.it/qnmpz8h0hytf1.png)
+![I will make one million pieces one day!!!argh!](https://i.redd.it/ri4fmjr0v3uf1.png)
 
-<p align="right">Necroses<i> - Disney fixing childhood trauma</i> - </p>
+<p align="right">celinejayyx<i> - I will make one million pieces one day!!!argh!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de octubre, 03:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 10 de octubre, 02:59 CEST - Día Mundial de la Salud Mental 🧠❤️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
