@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I want the Reddit with fun, optimism, and nerd jokes, instead of, *waves around*](https://i.redd.it/i15prf8gu3uf1.png)
+![Moment of silence for Theatre Workers](https://i.redd.it/h302sw8nmguf1.png)
 
-<p align="right">GeneReddit123<i> - I want the Reddit with fun, optimism, and nerd jokes, instead of, *waves around*</i> - </p>
+<p align="right">Soft_Sound192<i> - Moment of silence for Theatre Workers</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de octubre, 02:57 CEST - Día Internacional de la Niña 👧🌏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de octubre, 03:02 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
