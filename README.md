@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What do you mean it's not on Amazon? It's literally in my playlist](https://i.redd.it/84v2glmoiquf1.png)
+![So realllll](https://i.redd.it/ijwms6bp8xuf1.png)
 
-<p align="right">Other_Combination136<i> - What do you mean it's not on Amazon? It's literally in my playlist</i> - </p>
+<p align="right">Ok_Reindeer_7634<i> - So realllll</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 13 de octubre, 03:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 14 de octubre, 03:00 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
