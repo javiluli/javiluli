@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Which NBA team are they on?](https://i.redd.it/dwu1xhi4z3vf1.png)
+![BLACK it is !](https://i.redd.it/9c8ym476g8vf1.png)
 
-<p align="right">guvertoon<i> - Which NBA team are they on?</i> - </p>
+<p align="right">Alfahammandhi<i> - BLACK it is !</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 15 de octubre, 03:01 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de octubre, 03:01 CEST - Día Mundial de la Alimentación 🌾🥖 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
