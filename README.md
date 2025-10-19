@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![He's about to hit you with the lore drop](https://i.redd.it/5037ugvhekvf1.png)
+![fight the ai slop stream !!](https://i.redd.it/axfu7bhybxvf1.png)
 
-<p align="right">SnooMuffins7356<i> - He's about to hit you with the lore drop</i> - </p>
+<p align="right">cthulhus_apprentice<i> - fight the ai slop stream !!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 18 de octubre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de octubre, 03:08 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
