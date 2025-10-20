@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![fight the ai slop stream !!](https://i.redd.it/axfu7bhybxvf1.png)
+![In The End, the Parody Knows What's Up](https://i.redd.it/lxnqkgsko4wf1.png)
 
-<p align="right">cthulhus_apprentice<i> - fight the ai slop stream !!</i> - </p>
+<p align="right">Flashlight237<i> - In The End, the Parody Knows What's Up</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de octubre, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 20 de octubre, 03:05 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
