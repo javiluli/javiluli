@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Well on that note](https://i.redd.it/0yzztn9vuewf1.png)
+![Fact about pigeons](https://i.redd.it/fhwut8yszpwf1.png)
 
-<p align="right">Lower_Topic2606<i> - Well on that note</i> - </p>
+<p align="right">LordOfTripodes<i> - Fact about pigeons</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de octubre, 03:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de octubre, 03:02 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
