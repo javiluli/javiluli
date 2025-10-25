@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It must be rough](https://i.redd.it/dpbkphkzvwwf1.png)
+![.."I drive"..](https://i.redd.it/gi0m5krbk4xf1.png)
 
-<p align="right">mrdadoa30facce<i> - It must be rough</i> - </p>
+<p align="right">Yarstina<i> - .."I drive"..</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de octubre, 02:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de octubre, 02:59 CEST </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
