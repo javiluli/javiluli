@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The struggle is real..](https://i.redd.it/o7x7uq8kwixf1.png)
+![This shouldn't be fine altho](https://i.redd.it/f51kpqd5wlxf1.gif)
 
-<p align="right">soberReality86<i> - The struggle is real..</i> - </p>
+<p align="right">Ranger_Hawk3046<i> - This shouldn't be fine altho</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 27 de octubre, 02:07 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de octubre, 02:01 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
