@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This shouldn't be fine altho](https://i.redd.it/f51kpqd5wlxf1.gif)
+![I have done it.](https://i.redd.it/3nlb6zpq2xxf1.png)
 
-<p align="right">Ranger_Hawk3046<i> - This shouldn't be fine altho</i> - </p>
+<p align="right">tanudai777<i> - I have done it.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de octubre, 02:01 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de octubre, 02:05 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
