@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![nothing better than food poisoning from your local vendor](https://i.redd.it/mbeo4p9auvxf1.png)
+![netflix and chill, they said..](https://i.redd.it/ma7n5zhz29yf1.png)
 
-<p align="right">Huy7aAms<i> - nothing better than food poisoning from your local vendor</i> - </p>
+<p align="right">kidanokun<i> - netflix and chill, they said..</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 30 de octubre, 02:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 31 de octubre, 02:03 CET - Halloween 🎃👻 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
