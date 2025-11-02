@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![i would never go there](https://i.redd.it/kabs1zz45gyf1.png)
+![Monster Loot](https://i.redd.it/1oftexf3zpyf1.png)
 
-<p align="right">SnoobRedditDude<i> - i would never go there</i> - </p>
+<p align="right">chaos_lol_satan_5959<i> - Monster Loot</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 1 de noviembre, 02:06 CET - Día de Todos los Santos 🕊️🌹 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 2 de noviembre, 02:07 CET - Día de los Muertos 💀🕯️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
