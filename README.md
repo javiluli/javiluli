@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Agree or not ?](https://i.redd.it/ldumj46s3vyf1.png)
+![Sugar daddy Optimus...](https://i.redd.it/tq8gkjg1cxyf1.png)
 
-<p align="right">Active-Drive-3795<i> - Agree or not ?</i> - </p>
+<p align="right">CommissionOrganic350<i> - Sugar daddy Optimus...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 3 de noviembre, 02:06 CET - Día Internacional de la Libertad de Prensa 📰🖊️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 4 de noviembre, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
