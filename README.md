@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Did i stutter?](https://i.redd.it/6g0js2dsw30g1.png)
+![buy the dip they said](https://i.redd.it/tflft0qffa0g1.png)
 
-<p align="right">i_am_maidenless<i> - Did i stutter?</i> - </p>
+<p align="right">soap94<i> - buy the dip they said</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 9 de noviembre, 02:07 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 10 de noviembre, 02:07 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
