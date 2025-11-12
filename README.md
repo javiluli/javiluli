@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![hope this isn't too crude of a meme](https://i.redd.it/ztj0qj2i6e0g1.png)
+![Don't be late](https://i.redd.it/vqpnois5ao0g1.png)
 
-<p align="right">bajadasaurus234<i> - hope this isn't too crude of a meme</i> - </p>
+<p align="right">j_illustration<i> - Don't be late</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 11 de noviembre, 02:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 12 de noviembre, 02:04 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
