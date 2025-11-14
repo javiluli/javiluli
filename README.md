@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There's nothing we can do](https://i.redd.it/e4ak3z5uav0g1.png)
+![W VALVe Annoucement (Link In Comments)](https://i.redd.it/qklabvf3xw0g1.png)
 
-<p align="right">VR2005<i> - There's nothing we can do</i> - </p>
+<p align="right">TheDarkKnight343<i> - W VALVe Annoucement (Link In Comments)</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 13 de noviembre, 02:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 14 de noviembre, 02:04 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
