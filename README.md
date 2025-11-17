@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Geoguessr players ultimate circle](https://i.redd.it/ge6hdcdv9a1g1.png)
+![It has never been the same](https://i.redd.it/fc64w453pi1g1.png)
 
-<p align="right">AshamedAd4483<i> - Geoguessr players ultimate circle</i> - </p>
+<p align="right">cheesyeffinloverboy<i> - It has never been the same</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 16 de noviembre, 02:08 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 17 de noviembre, 02:05 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
