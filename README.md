@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Web developer huh!](https://i.redd.it/13uomzrvl12g1.png)
+![Sasuke no Frieren.](https://i.redd.it/rxhr377v772g1.png)
 
-<p align="right">Deep_Ride488<i> - Web developer huh!</i> - </p>
+<p align="right">Toxic_Jaffas<i> - Sasuke no Frieren.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 19 de noviembre, 02:04 CET - Día Internacional del Hombre 👨‍🦱⚖️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 20 de noviembre, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
