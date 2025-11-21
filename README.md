@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sasuke no Frieren.](https://i.redd.it/rxhr377v772g1.png)
+![in 2025 prices that 11 mil should last about a month](https://i.redd.it/m3pcb4x7le2g1.png)
 
-<p align="right">Toxic_Jaffas<i> - Sasuke no Frieren.</i> - </p>
+<p align="right">dinobot100<i> - in 2025 prices that 11 mil should last about a month</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 20 de noviembre, 02:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 21 de noviembre, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
