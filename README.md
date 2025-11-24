@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My brain on Mondays](https://i.redd.it/uhwmfr9oyu2g1.png)
+![why youtube, why...](https://i.redd.it/cykzhx7sq23g1.png)
 
-<p align="right">Sea_Parsley770<i> - My brain on Mondays</i> - </p>
+<p align="right">JM140628<i> - why youtube, why...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 23 de noviembre, 02:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 24 de noviembre, 02:09 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
