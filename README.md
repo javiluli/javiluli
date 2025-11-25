@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![why youtube, why...](https://i.redd.it/cykzhx7sq23g1.png)
+![NOT THE TEA !](https://i.redd.it/buqa5mwj263g1.png)
 
-<p align="right">JM140628<i> - why youtube, why...</i> - </p>
+<p align="right">Ok_Sock4152<i> - NOT THE TEA !</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 24 de noviembre, 02:09 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 25 de noviembre, 02:04 CET - Día Internacional contra la Violencia hacia la Mujer 🌌🕯️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
