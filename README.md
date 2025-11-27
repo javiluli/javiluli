@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Not even hiding it anymore at this point](https://i.redd.it/pvo6lj9jfg3g1.png)
+![Rockstar be like](https://i.redd.it/8n07j4s4dn3g1.png)
 
-<p align="right">HonneurOblige<i> - Not even hiding it anymore at this point</i> - </p>
+<p align="right">ealan120<i> - Rockstar be like</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 26 de noviembre, 02:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 27 de noviembre, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
