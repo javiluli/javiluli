@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Beauty standards change I guess](https://i.redd.it/uvzry8qwa24g1.png)
+![you feel old yet?](https://i.redd.it/cs95l89q834g1.png)
 
-<p align="right">ThisCouldBeYourDog<i> - Beauty standards change I guess</i> - </p>
+<p align="right">Franek5550<i> - you feel old yet?</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 29 de noviembre, 02:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 30 de noviembre, 02:12 CET - Día de la Seguridad Informática 🛡️💻 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
