@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![you feel old yet?](https://i.redd.it/cs95l89q834g1.png)
+![Inglish is a mysterious language](https://i.redd.it/vvep8ltf274g1.png)
 
-<p align="right">Franek5550<i> - you feel old yet?</i> - </p>
+<p align="right">realquidos<i> - Inglish is a mysterious language</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 30 de noviembre, 02:12 CET - Día de la Seguridad Informática 🛡️💻 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de diciembre, 02:17 CET - Día Mundial del SIDA 🩺🎗️ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
