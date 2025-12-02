@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Inglish is a mysterious language](https://i.redd.it/vvep8ltf274g1.png)
+![Steam tells it like it is](https://i.redd.it/zicgyutbxi4g1.png)
 
-<p align="right">realquidos<i> - Inglish is a mysterious language</i> - </p>
+<p align="right">Videowulff<i> - Steam tells it like it is</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de diciembre, 02:17 CET - Día Mundial del SIDA 🩺🎗️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 2 de diciembre, 02:06 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
