@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Just End It Already.](https://i.redd.it/xyugrwkkju4g1.png)
+![I didn't even know it exists](https://i.redd.it/tmqbypy8u25g1.png)
 
-<p align="right">AscendedRedditor<i> - Just End It Already.</i> - </p>
+<p align="right">Daniel_XXL_69<i> - I didn't even know it exists</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 3 de diciembre, 02:06 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 4 de diciembre, 02:06 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
