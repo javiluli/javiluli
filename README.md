@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Real what is even going on in their brains?? 😭😭😭](https://i.redd.it/9qovo9xuc95g1.png)
+![Watching the 50 Cent-produced Netflix documentary about Diddy after ~20 years of beef](https://i.redd.it/zus663su0e5g1.png)
 
-<p align="right">No_Paint3226<i> - Real what is even going on in their brains?? 😭😭😭</i> - </p>
+<p align="right">TheElusiveBigfoot<i> - Watching the 50 Cent-produced Netflix documentary about Diddy after ~20 years of beef</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 5 de diciembre, 02:06 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 6 de diciembre, 02:03 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
