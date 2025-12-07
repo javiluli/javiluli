@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Watching the 50 Cent-produced Netflix documentary about Diddy after ~20 years of beef](https://i.redd.it/zus663su0e5g1.png)
+![Having 32gb of RAM is like flexing a new car right now](https://i.redd.it/af5h6bgipf5g1.png)
 
-<p align="right">TheElusiveBigfoot<i> - Watching the 50 Cent-produced Netflix documentary about Diddy after ~20 years of beef</i> - </p>
+<p align="right">fra_poco<i> - Having 32gb of RAM is like flexing a new car right now</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 6 de diciembre, 02:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 7 de diciembre, 02:13 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
