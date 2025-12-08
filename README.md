@@ -66,7 +66,7 @@
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
-[![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
+[![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
 [![resolved-frontendmentor-challenges](https://img.shields.io/badge/resolved_frontendmentor_challenges-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/resolved-frontendmentor-challenges)
 [![bootstrap-design-taller](https://img.shields.io/badge/bootstrap_design_taller-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/bootstrap-design-taller)
 [![crud-vanillaJS](https://img.shields.io/badge/crud_vanillaJS-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/crud-vanillaJS)
@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Having 32gb of RAM is like flexing a new car right now](https://i.redd.it/af5h6bgipf5g1.png)
+![You can sleep when you're dead.](https://i.redd.it/9ac873kmzq5g1.png)
 
-<p align="right">fra_poco<i> - Having 32gb of RAM is like flexing a new car right now</i> - </p>
+<p align="right">TerrorOfDeath97<i> - You can sleep when you're dead.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 7 de diciembre, 02:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 8 de diciembre, 02:07 CET - Inmaculada Concepción 🌸🙏 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
