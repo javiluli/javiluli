@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You can sleep when you're dead.](https://i.redd.it/9ac873kmzq5g1.png)
+![James Hunt and Lando Norris...Go Lando](https://i.redd.it/hdeg1e56b16g1.png)
 
-<p align="right">TerrorOfDeath97<i> - You can sleep when you're dead.</i> - </p>
+<p align="right">Warm_Interview1337<i> - James Hunt and Lando Norris...Go Lando</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 8 de diciembre, 02:07 CET - Inmaculada Concepción 🌸🙏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 9 de diciembre, 02:06 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
