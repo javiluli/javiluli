@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I just want to game :(](https://i.redd.it/692yp5t9546g1.png)
+![Behold! Dear husband!](https://i.redd.it/92guepe0wm6g1.gif)
 
-<p align="right">GeneReddit123<i> - I just want to game :(</i> - </p>
+<p align="right">Hot-Diggity_Dog<i> - Behold! Dear husband!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 10 de diciembre, 02:08 CET - Día de los Derechos Humanos 🌍✊ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 12 de diciembre, 02:08 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
