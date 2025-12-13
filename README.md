@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Behold! Dear husband!](https://i.redd.it/92guepe0wm6g1.gif)
+![Put them on suicide watch](https://i.redd.it/sftrkuw3mu6g1.gif)
 
-<p align="right">Hot-Diggity_Dog<i> - Behold! Dear husband!</i> - </p>
+<p align="right">Clanker57<i> - Put them on suicide watch</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 12 de diciembre, 02:08 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 13 de diciembre, 02:04 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
