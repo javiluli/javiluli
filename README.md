@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Don't Fear The Cabbage](https://i.redd.it/7lba7m6b5z6g1.png)
+![Damn rite!](https://i.redd.it/jckzo9u8377g1.png)
 
-<p align="right">Marzipug<i> - Don't Fear The Cabbage</i> - </p>
+<p align="right">EternalDumy5<i> - Damn rite!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 14 de diciembre, 02:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 15 de diciembre, 02:10 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
