@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What world you been livin in huh](https://i.redd.it/83xfr2hnvm7g1.png)
+![Must be thirsty](https://i.redd.it/cppphoj23u7g1.png)
 
-<p align="right">JohnnyNoMemes<i> - What world you been livin in huh</i> - </p>
+<p align="right">GeneReddit123<i> - Must be thirsty</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 18 de diciembre, 02:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 19 de diciembre, 02:08 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
