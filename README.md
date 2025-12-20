@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Must be thirsty](https://i.redd.it/cppphoj23u7g1.png)
+![Me at 9 PM: 'I'll just do one quick solder.' Me at 3 AM:](https://i.redd.it/dj44ly9bf58g1.png)
 
-<p align="right">GeneReddit123<i> - Must be thirsty</i> - </p>
+<p align="right">Marzipug<i> - Me at 9 PM: 'I'll just do one quick solder.' Me at 3 AM:</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 19 de diciembre, 02:08 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 20 de diciembre, 02:04 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
