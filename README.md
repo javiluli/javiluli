@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And off we gooo!!!](https://i.redd.it/4tzx604ved8g1.png)
+![Modih.....](https://i.redd.it/vdz04p01dr8g1.png)
 
-<p align="right">Big_Fox3447<i> - And off we gooo!!!</i> - </p>
+<p align="right">Ok-Promise6798<i> - Modih.....</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 22 de diciembre, 02:11 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 23 de diciembre, 02:08 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
