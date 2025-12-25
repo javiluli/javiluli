@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Yes... it does actually work](https://i.redd.it/y2dpf80d619g1.png)
+![It's a W for fans.](https://i.redd.it/ydy98uy1z59g1.png)
 
-<p align="right">searcheese766<i> - Yes... it does actually work</i> - </p>
+<p align="right">thought_cream84<i> - It's a W for fans.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 24 de diciembre, 02:07 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 25 de diciembre, 02:08 CET - Navidad 🎄✨ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
