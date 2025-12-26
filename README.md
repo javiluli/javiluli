@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's a W for fans.](https://i.redd.it/ydy98uy1z59g1.png)
+![Ah, a new spin on a beloved classic game.](https://i.redd.it/1m3c4s305f9g1.png)
 
-<p align="right">thought_cream84<i> - It's a W for fans.</i> - </p>
+<p align="right">Zorothegallade<i> - Ah, a new spin on a beloved classic game.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 25 de diciembre, 02:08 CET - Navidad 🎄✨ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 26 de diciembre, 02:09 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
