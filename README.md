@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Ah, a new spin on a beloved classic game.](https://i.redd.it/1m3c4s305f9g1.png)
+![Sit down Harper Lee, Mark Twain's speaking](https://i.redd.it/4bkrh3msda9g1.png)
 
-<p align="right">Zorothegallade<i> - Ah, a new spin on a beloved classic game.</i> - </p>
+<p align="right">Pyzzeen<i> - Sit down Harper Lee, Mark Twain's speaking</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 26 de diciembre, 02:09 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 27 de diciembre, 02:06 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
