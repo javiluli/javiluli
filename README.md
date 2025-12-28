@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sit down Harper Lee, Mark Twain's speaking](https://i.redd.it/4bkrh3msda9g1.png)
+![Guys, i think it's true](https://i.redd.it/2vomabhdgr9g1.png)
 
-<p align="right">Pyzzeen<i> - Sit down Harper Lee, Mark Twain's speaking</i> - </p>
+<p align="right">HurtulPine<i> - Guys, i think it's true</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 27 de diciembre, 02:06 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 28 de diciembre, 02:17 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
