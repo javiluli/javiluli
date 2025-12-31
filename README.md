@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![A programming meme developers will appreciate between debugs](https://i.redd.it/i4h1c1z7m7ag1.png)
+![New fear unlocked](https://i.redd.it/lqjo21e6acag1.gif)
 
-<p align="right">mydude356<i> - A programming meme developers will appreciate between debugs</i> - </p>
+<p align="right">Luget717<i> - New fear unlocked</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 30 de diciembre, 02:09 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 31 de diciembre, 02:10 CET - Nochevieja 🎆🍾 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
