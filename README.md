@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Is this going too far?](https://i.redd.it/ja7yzgabqlag1.gif)
+![Fight brainrot with the original gorilla!](https://i.redd.it/45siaxe0rrag1.png)
 
-<p align="right">dinosqaud<i> - Is this going too far?</i> - </p>
+<p align="right">gamerguy287<i> - Fight brainrot with the original gorilla!</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 1 de enero, 02:16 CET - Año Nuevo 🎉✨ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 2 de enero, 02:10 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
