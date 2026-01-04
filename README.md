@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Fight brainrot with the original gorilla!](https://i.redd.it/45siaxe0rrag1.png)
+![Somethings never change](https://i.redd.it/tu0km5mtd5bg1.png)
 
-<p align="right">gamerguy287<i> - Fight brainrot with the original gorilla!</i> - </p>
+<p align="right">OneNavan<i> - Somethings never change</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 3 de enero, 02:06 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 4 de enero, 02:17 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
