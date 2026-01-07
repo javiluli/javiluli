@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 6 de enero, 02:09 CET - Día de Reyes 👑🎁 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 7 de enero, 02:10 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
