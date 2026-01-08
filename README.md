@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Relatable or no?](https://i.redd.it/x8r92r3jskbg1.png)
+![Yeeeessss... Feed the algorithm 😈](https://i.redd.it/roxwelc5fubg1.png)
 
-<p align="right">india-assignmenthelp<i> - Relatable or no?</i> - </p>
+<p align="right">cowdoggy<i> - Yeeeessss... Feed the algorithm 😈</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 7 de enero, 02:10 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 8 de enero, 02:10 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
