@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Finally got my full Steam setup](https://i.redd.it/1poc5icbtbcg1.png)
+![I was always like this](https://i.redd.it/pp97ad1pkkcg1.png)
 
-<p align="right">PheonixGabe<i> - Finally got my full Steam setup</i> - </p>
+<p align="right">hrithikbadass<i> - I was always like this</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 10 de enero, 02:08 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 11 de enero, 02:17 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
