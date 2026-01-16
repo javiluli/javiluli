@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My mind was blown when I realised this](https://i.redd.it/z9ot2r7dj7dg1.png)
+![''Before I tried this exercise, my back felt like a rock. Now, I don't feel my back at all!''](https://i.redd.it/3nizzgh1zkdg1.png)
 
-<p align="right">Mount_C<i> - My mind was blown when I realised this</i> - </p>
+<p align="right">OzTheD0G3<i> - ''Before I tried this exercise, my back felt like a rock. Now, I don't feel my back at all!''</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 15 de enero, 02:09 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 16 de enero, 02:11 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
