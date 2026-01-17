@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![''Before I tried this exercise, my back felt like a rock. Now, I don't feel my back at all!''](https://i.redd.it/3nizzgh1zkdg1.png)
+![Everything goes in the pan. I don't care.](https://i.redd.it/zy2wllqrbpdg1.png)
 
-<p align="right">OzTheD0G3<i> - ''Before I tried this exercise, my back felt like a rock. Now, I don't feel my back at all!''</i> - </p>
+<p align="right">TimeAlbatross5375<i> - Everything goes in the pan. I don't care.</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 16 de enero, 02:11 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 17 de enero, 02:08 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
