@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![array-sort-visualizer-v3](https://img.shields.io/badge/array_sort_visualizer_v3-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/array-sort-visualizer-v3)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
 [![resolved-frontendmentor-challenges](https://img.shields.io/badge/resolved_frontendmentor_challenges-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/resolved-frontendmentor-challenges)
@@ -89,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Everything goes in the pan. I don't care.](https://i.redd.it/zy2wllqrbpdg1.png)
+![It should be a life of luxury! Or not...](https://i.redd.it/qayeug2gewdg1.png)
 
-<p align="right">TimeAlbatross5375<i> - Everything goes in the pan. I don't care.</i> - </p>
+<p align="right">Old_Conference3202<i> - It should be a life of luxury! Or not...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 17 de enero, 02:08 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 18 de enero, 02:16 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
