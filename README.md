@@ -89,9 +89,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Well, it all started a week ago...](https://i.redd.it/kgq32l0nsceg1.png)
+![Executive Dysfunction is a Cruel Mistress](https://i.redd.it/yfsqvzn71jeg1.png)
 
-<p align="right">beipphine<i> - Well, it all started a week ago...</i> - </p>
+<p align="right">Zerox23<i> - Executive Dysfunction is a Cruel Mistress</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 20 de enero, 02:10 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 21 de enero, 02:13 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
