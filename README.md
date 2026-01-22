@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
 [![resolved-frontendmentor-challenges](https://img.shields.io/badge/resolved_frontendmentor_challenges-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/resolved-frontendmentor-challenges)
@@ -89,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Executive Dysfunction is a Cruel Mistress](https://i.redd.it/yfsqvzn71jeg1.png)
+![Bit*h lasagna](https://i.redd.it/65ayxvdfyreg1.png)
 
-<p align="right">Zerox23<i> - Executive Dysfunction is a Cruel Mistress</i> - </p>
+<p align="right">144i<i> - Bit*h lasagna</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 21 de enero, 02:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 22 de enero, 02:13 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
