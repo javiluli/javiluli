@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Bit*h lasagna](https://i.redd.it/65ayxvdfyreg1.png)
+![Outstanding move](https://i.redd.it/nlamvrtc0xeg1.png)
 
-<p align="right">144i<i> - Bit*h lasagna</i> - </p>
+<p align="right">Moat_of_the_Sacked<i> - Outstanding move</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 22 de enero, 02:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 23 de enero, 02:11 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
