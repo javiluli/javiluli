@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That was surprise](https://i.redd.it/k7d3jqa0ecfg1.gif)
+![Greenland pokemon effective](https://i.redd.it/oddc79c3zjfg1.png)
 
-<p align="right">bijelo123<i> - That was surprise</i> - </p>
+<p align="right">TailungFu<i> - Greenland pokemon effective</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 25 de enero, 02:18 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 26 de enero, 02:17 CET - Día de Australia 🇦🇺🦘 </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
