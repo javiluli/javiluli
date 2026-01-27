@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Greenland pokemon effective](https://i.redd.it/oddc79c3zjfg1.png)
+![Apparently leftover pasta is the most dangerous thing in my house](https://i.redd.it/qrfxvs0ejmfg1.png)
 
-<p align="right">TailungFu<i> - Greenland pokemon effective</i> - </p>
+<p align="right">Clean_Temperature_22<i> - Apparently leftover pasta is the most dangerous thing in my house</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 26 de enero, 02:17 CET - Día de Australia 🇦🇺🦘 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 27 de enero, 02:16 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
