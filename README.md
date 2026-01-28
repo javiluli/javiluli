@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Apparently leftover pasta is the most dangerous thing in my house](https://i.redd.it/qrfxvs0ejmfg1.png)
+![So many were lost...](https://i.redd.it/xp3zjimdmvfg1.png)
 
-<p align="right">Clean_Temperature_22<i> - Apparently leftover pasta is the most dangerous thing in my house</i> - </p>
+<p align="right">PotatoProducer<i> - So many were lost...</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 27 de enero, 02:16 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 28 de enero, 02:12 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
