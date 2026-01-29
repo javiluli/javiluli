@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So many were lost...](https://i.redd.it/xp3zjimdmvfg1.png)
+![It really does nothing useful after the first word...](https://i.redd.it/1ekjqhnz94gg1.png)
 
-<p align="right">PotatoProducer<i> - So many were lost...</i> - </p>
+<p align="right">lickmysharthole<i> - It really does nothing useful after the first word...</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 28 de enero, 02:12 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 29 de enero, 02:21 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
