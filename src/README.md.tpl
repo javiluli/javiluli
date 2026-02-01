@@ -43,9 +43,7 @@
 </tr> 
 </table>
 
-<picture>
-<img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![My GitHub Game](game.gif)
 
 <h2>
 <img src="./images/emojis/globe_with_meridians.png" alt="🌐" width="25" height="25" /> Donde encontrarme
