@@ -90,17 +90,15 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Only Buckethead can get away with this](https://i.redd.it/ovljgz6omogg1.png)
+!["Blink twice to focus" but still it doesn’t work.](https://i.redd.it/nsf62qb0xugg1.png)
 
-<p align="right">OddTomato3057<i> - Only Buckethead can get away with this</i> - </p>
+<p align="right">thought_cream84<i> - "Blink twice to focus" but still it doesn’t work.</i> - </p>
 
 </td>
 </tr> 
 </table>
 
-<picture>
-<img alt="github-snake" src="https://github.com/javiluli/javiluli/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![My GitHub Game](game.gif)
 
 <h2>
 <img src="./images/emojis/globe_with_meridians.png" alt="🌐" width="25" height="25" /> Donde encontrarme
@@ -114,6 +112,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de febrero, 02:45 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de febrero, 13:14 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
