@@ -90,9 +90,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Some games feels like that](https://i.redd.it/4xgjflvd2igg1.png)
+![Only Buckethead can get away with this](https://i.redd.it/ovljgz6omogg1.png)
 
-<p align="right">bijelo123<i> - Some games feels like that</i> - </p>
+<p align="right">OddTomato3057<i> - Only Buckethead can get away with this</i> - </p>
 
 </td>
 </tr> 
@@ -114,6 +114,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 31 de enero, 02:19 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de febrero, 02:45 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
