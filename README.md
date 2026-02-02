@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
@@ -90,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-!["Blink twice to focus" but still it doesn’t work.](https://i.redd.it/nsf62qb0xugg1.png)
+![Life Pro Tip](https://i.redd.it/zkip1bt23ngg1.png)
 
-<p align="right">thought_cream84<i> - "Blink twice to focus" but still it doesn’t work.</i> - </p>
+<p align="right">ReplyMeIfYouAreDumb<i> - Life Pro Tip</i> - </p>
 
 </td>
 </tr> 
@@ -112,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de febrero, 13:14 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de febrero, 02:26 CET - Día de la Candelaria 🎇✨ </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
