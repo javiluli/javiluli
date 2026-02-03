@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Life Pro Tip](https://i.redd.it/zkip1bt23ngg1.png)
+![Yo Dawg...](https://i.redd.it/yeekqrbw72hg1.png)
 
-<p align="right">ReplyMeIfYouAreDumb<i> - Life Pro Tip</i> - </p>
+<p align="right">PlusSizedMinusBrain<i> - Yo Dawg...</i> - </p>
 
 </td>
 </tr> 
@@ -113,6 +113,6 @@
 </p>
 
 ------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de febrero, 02:26 CET - Día de la Candelaria 🎇✨ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de febrero, 02:26 CET </p>
 
 <p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
