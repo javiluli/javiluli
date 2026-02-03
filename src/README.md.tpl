@@ -56,7 +56,5 @@
 <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
 </p>
 
-------------
+---
 <p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: %{{date}}% </p>
-
-<p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
