@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![builder.ai 😉](https://i.redd.it/j326jy4okahg1.png)
+![It's just good business](https://i.redd.it/fef3gkkzh8hg1.png)
 
-<p align="right">Fair_Investment_4189<i> - builder.ai 😉</i> - </p>
+<p align="right">MrYig<i> - It's just good business</i> - </p>
 
 </td>
 </tr> 
@@ -112,7 +112,5 @@
 <a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
 </p>
 
-------------
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de febrero, 00:43 CET </p>
-
-<p align="center"> <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img src="https://komarev.com/ghpvc/?username=javiluli&color=blue" /> </p>
+---
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de febrero, 00:53 CET </p>
