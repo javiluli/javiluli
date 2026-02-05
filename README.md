@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's just good business](https://i.redd.it/fef3gkkzh8hg1.png)
+![Doug Heffernan's the GOAT.](https://i.redd.it/ezkvg6y95ihg1.png)
 
-<p align="right">MrYig<i> - It's just good business</i> - </p>
+<p align="right">CupOfExmo<i> - Doug Heffernan's the GOAT.</i> - </p>
 
 </td>
 </tr> 
@@ -113,4 +113,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de febrero, 02:22 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de febrero, 02:22 CET </p>
