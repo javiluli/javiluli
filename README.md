@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-!["What did I do?"](https://i.redd.it/mjnrh1anjrhg1.png)
+![Pov: time travelling and giving different kids a stickerbox](https://i.redd.it/sw4lvsgvnyhg1.png)
 
-<p align="right">LeatherSlight3242<i> - "What did I do?"</i> - </p>
+<p align="right">New-Sprinkles5016<i> - Pov: time travelling and giving different kids a stickerbox</i> - </p>
 
 </td>
 </tr> 
@@ -113,4 +113,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de febrero, 02:23 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 7 de febrero, 02:21 CET </p>
