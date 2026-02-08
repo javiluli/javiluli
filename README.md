@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Pov: time travelling and giving different kids a stickerbox](https://i.redd.it/sw4lvsgvnyhg1.png)
+![Cuz that is the full form of the contraction, yknow?](https://i.redd.it/67ssuev5q4ig1.png)
 
-<p align="right">New-Sprinkles5016<i> - Pov: time travelling and giving different kids a stickerbox</i> - </p>
+<p align="right">AdministrationOk881<i> - Cuz that is the full form of the contraction, yknow?</i> - </p>
 
 </td>
 </tr> 
@@ -113,4 +113,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 7 de febrero, 02:21 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de febrero, 02:58 CET </p>
