@@ -91,9 +91,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Wait a minute...](https://i.redd.it/qddml01qvaig1.png)
+![Not sure why everyone is talking about it....](https://i.redd.it/yk2npdxwngig1.png)
 
-<p align="right">so7z<i> - Wait a minute...</i> - </p>
+<p align="right">PotatoProducer<i> - Not sure why everyone is talking about it....</i> - </p>
 
 </td>
 </tr> 
@@ -113,4 +113,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de febrero, 02:28 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de febrero, 02:51 CET </p>
