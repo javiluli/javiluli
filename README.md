@@ -92,9 +92,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I've got a $1 bet they really don't see the problem, either.](https://i.redd.it/3bf5i6k12oig1.png)
+![Everybody on Super Bowl and world champions. Meanwhile:](https://i.redd.it/dd7tm0qyiuig1.png)
 
-<p align="right">8-bit-Felix<i> - I've got a $1 bet they really don't see the problem, either.</i> - </p>
+<p align="right">OpportunitySea4970<i> - Everybody on Super Bowl and world champions. Meanwhile:</i> - </p>
 
 </td>
 </tr> 
@@ -114,4 +114,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 11 de febrero, 02:47 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de febrero, 02:28 CET </p>
