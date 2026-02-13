@@ -65,7 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
-[![mc-smart-hopper-mod](https://img.shields.io/badge/mc_smart_hopper_mod-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/mc-smart-hopper-mod)
+[![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
@@ -92,9 +92,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Everybody on Super Bowl and world champions. Meanwhile:](https://i.redd.it/dd7tm0qyiuig1.png)
+![That wasn't me](https://i.redd.it/4ninpygsu4jg1.png)
 
-<p align="right">OpportunitySea4970<i> - Everybody on Super Bowl and world champions. Meanwhile:</i> - </p>
+<p align="right">BetAnything<i> - That wasn't me</i> - </p>
 
 </td>
 </tr> 
@@ -114,4 +114,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de febrero, 02:28 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de febrero, 02:43 CET </p>
