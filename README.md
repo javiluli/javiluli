@@ -65,8 +65,8 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
-[![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
+[![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
@@ -92,9 +92,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That wasn't me](https://i.redd.it/4ninpygsu4jg1.png)
+![Am I stupid?](https://i.redd.it/e6qdra3d9ajg1.gif)
 
-<p align="right">BetAnything<i> - That wasn't me</i> - </p>
+<p align="right">ddrfraser1<i> - Am I stupid?</i> - </p>
 
 </td>
 </tr> 
@@ -114,4 +114,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de febrero, 02:43 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de febrero, 02:22 CET - Día de San Valentín ❤️💌 </p>
