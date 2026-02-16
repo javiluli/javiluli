@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
@@ -92,9 +93,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Am I stupid?](https://i.redd.it/e6qdra3d9ajg1.gif)
+![Your average family](https://i.redd.it/821i1f0qmhjg1.png)
 
-<p align="right">ddrfraser1<i> - Am I stupid?</i> - </p>
+<p align="right">WittyWanderer420<i> - Your average family</i> - </p>
 
 </td>
 </tr> 
@@ -114,4 +115,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de febrero, 02:22 CET - Día de San Valentín ❤️💌 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de febrero, 02:26 CET </p>
