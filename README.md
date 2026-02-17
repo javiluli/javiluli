@@ -93,9 +93,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Your average family](https://i.redd.it/821i1f0qmhjg1.png)
+![Schrodinger's Douchebag](https://i.redd.it/1um59k78kwjg1.gif)
 
-<p align="right">WittyWanderer420<i> - Your average family</i> - </p>
+<p align="right">dinosqaud<i> - Schrodinger's Douchebag</i> - </p>
 
 </td>
 </tr> 
@@ -115,4 +115,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de febrero, 02:26 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de febrero, 02:26 CET </p>
