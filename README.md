@@ -93,9 +93,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Schrodinger's Douchebag](https://i.redd.it/1um59k78kwjg1.gif)
+![Living in the future, earphones edition](https://i.redd.it/uvfm56ltdujg1.png)
 
-<p align="right">dinosqaud<i> - Schrodinger's Douchebag</i> - </p>
+<p align="right">-NewYork-<i> - Living in the future, earphones edition</i> - </p>
 
 </td>
 </tr> 
@@ -115,4 +115,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de febrero, 02:26 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de febrero, 02:28 CET </p>
