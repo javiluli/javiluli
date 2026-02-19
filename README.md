@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
 [![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
@@ -93,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Living in the future, earphones edition](https://i.redd.it/uvfm56ltdujg1.png)
+![That's what happens when you get your hopes up](https://i.redd.it/23lznizgt3kg1.png)
 
-<p align="right">-NewYork-<i> - Living in the future, earphones edition</i> - </p>
+<p align="right">666thSuprisedPikachu<i> - That's what happens when you get your hopes up</i> - </p>
 
 </td>
 </tr> 
@@ -115,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de febrero, 02:28 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de febrero, 02:27 CET </p>
