@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That's what happens when you get your hopes up](https://i.redd.it/23lznizgt3kg1.png)
+![Message approved by The International Wasp Association](https://i.redd.it/wtirtb3ighkg1.png)
 
-<p align="right">666thSuprisedPikachu<i> - That's what happens when you get your hopes up</i> - </p>
+<p align="right">MrG1itc4<i> - Message approved by The International Wasp Association</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de febrero, 02:27 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de febrero, 02:23 CET - Día Mundial de la Justicia Social ⚖️🌐 </p>
