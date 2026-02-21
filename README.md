@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Message approved by The International Wasp Association](https://i.redd.it/wtirtb3ighkg1.png)
+![Would you like to know more?](https://i.redd.it/jtln0k5ufpkg1.png)
 
-<p align="right">MrG1itc4<i> - Message approved by The International Wasp Association</i> - </p>
+<p align="right">lilbthaprince<i> - Would you like to know more?</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de febrero, 02:23 CET - Día Mundial de la Justicia Social ⚖️🌐 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de febrero, 02:20 CET - Día Internacional de la Lengua Materna 🗣️🌍 </p>
