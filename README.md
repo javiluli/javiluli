@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Would you like to know more?](https://i.redd.it/jtln0k5ufpkg1.png)
+![pass through trials of fires first](https://i.redd.it/41423783rtkg1.png)
 
-<p align="right">lilbthaprince<i> - Would you like to know more?</i> - </p>
+<p align="right">Khantlerpartesar<i> - pass through trials of fires first</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de febrero, 02:20 CET - Día Internacional de la Lengua Materna 🗣️🌍 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de febrero, 02:27 CET </p>
