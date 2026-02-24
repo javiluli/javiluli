@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![pass through trials of fires first](https://i.redd.it/41423783rtkg1.png)
+![What would truly happen if we had a time machine:](https://i.redd.it/g1uvnnth62lg1.png)
 
-<p align="right">Khantlerpartesar<i> - pass through trials of fires first</i> - </p>
+<p align="right">EmmaShosha<i> - What would truly happen if we had a time machine:</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de febrero, 02:27 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 24 de febrero, 02:24 CET </p>
