@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I miscalculated](https://i.redd.it/wtmzb4h16ilg1.png)
+![No Mom, not this time](https://i.redd.it/8yupe1ecaqlg1.png)
 
-<p align="right">AnyAgency9835<i> - I miscalculated</i> - </p>
+<p align="right">cheesyeffinloverboy<i> - No Mom, not this time</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de febrero, 02:27 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de febrero, 02:24 CET </p>
