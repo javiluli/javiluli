@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What A Creep!](https://i.redd.it/g92t7km78vlg1.png)
+![Duality of Dads](https://i.redd.it/ilzksutb6tlg1.png)
 
-<p align="right">Just-J0k1ng<i> - What A Creep!</i> - </p>
+<p align="right">Careless_Change5252<i> - Duality of Dads</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 27 de febrero, 02:21 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 28 de febrero, 02:16 CET </p>
