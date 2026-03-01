@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Duality of Dads](https://i.redd.it/ilzksutb6tlg1.png)
+![The Tension's Killing Me!!!](https://i.redd.it/ef7bkz741bmg1.gif)
 
-<p align="right">Careless_Change5252<i> - Duality of Dads</i> - </p>
+<p align="right">SirShaunIV<i> - The Tension's Killing Me!!!</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 28 de febrero, 02:16 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de marzo, 02:44 CET </p>
