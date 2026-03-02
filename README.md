@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The Tension's Killing Me!!!](https://i.redd.it/ef7bkz741bmg1.gif)
+![I swear even fusion will be relying on boiled water](https://i.redd.it/56l72lozzimg1.png)
 
-<p align="right">SirShaunIV<i> - The Tension's Killing Me!!!</i> - </p>
+<p align="right">Muhammad5777<i> - I swear even fusion will be relying on boiled water</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de marzo, 02:44 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de marzo, 02:24 CET </p>
