@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I swear even fusion will be relying on boiled water](https://i.redd.it/56l72lozzimg1.png)
+![what actually is air defence doing](https://i.redd.it/rgpniar4bomg1.png)
 
-<p align="right">Muhammad5777<i> - I swear even fusion will be relying on boiled water</i> - </p>
+<p align="right">Havoccity<i> - what actually is air defence doing</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de marzo, 02:24 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de marzo, 02:27 CET - Día Mundial de la Vida Silvestre 🐆🐢 </p>
