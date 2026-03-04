@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![what actually is air defence doing](https://i.redd.it/rgpniar4bomg1.png)
+![Got wojacked, try this solution!!](https://i.redd.it/evnzuybz2vmg1.png)
 
-<p align="right">Havoccity<i> - what actually is air defence doing</i> - </p>
+<p align="right">Temp_Otherworld<i> - Got wojacked, try this solution!!</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de marzo, 02:27 CET - Día Mundial de la Vida Silvestre 🐆🐢 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de marzo, 02:22 CET </p>
