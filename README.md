@@ -94,9 +94,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Got wojacked, try this solution!!](https://i.redd.it/evnzuybz2vmg1.png)
+![Dumping all my points into luck I guess](https://i.redd.it/1qik88ak0xmg1.gif)
 
-<p align="right">Temp_Otherworld<i> - Got wojacked, try this solution!!</i> - </p>
+<p align="right">HawtestHawtdog<i> - Dumping all my points into luck I guess</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +116,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de marzo, 02:22 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de marzo, 02:24 CET </p>
