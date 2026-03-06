@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
 [![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
 [![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
@@ -94,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Dumping all my points into luck I guess](https://i.redd.it/1qik88ak0xmg1.gif)
+![Whenever I launch a high demanding game](https://i.redd.it/mttj0mooo6ng1.png)
 
-<p align="right">HawtestHawtdog<i> - Dumping all my points into luck I guess</i> - </p>
+<p align="right">Acidyo<i> - Whenever I launch a high demanding game</i> - </p>
 
 </td>
 </tr> 
@@ -116,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de marzo, 02:24 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de marzo, 02:26 CET </p>
