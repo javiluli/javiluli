@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Whenever I launch a high demanding game](https://i.redd.it/mttj0mooo6ng1.png)
+![Why do advertisements have food that's dressed up?](https://i.redd.it/xt2ccaa3g9ng1.png)
 
-<p align="right">Acidyo<i> - Whenever I launch a high demanding game</i> - </p>
+<p align="right">GoldheartTTV<i> - Why do advertisements have food that's dressed up?</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de marzo, 02:26 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 7 de marzo, 02:19 CET </p>
