@@ -65,10 +65,10 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
 [![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
 [![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
-[![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What? hah😁](https://i.redd.it/jdsms1uyvkng1.png)
+![It's mockbuster time](https://i.redd.it/mucf7vmjxvng1.gif)
 
-<p align="right">Serpentine8989<i> - What? hah😁</i> - </p>
+<p align="right">Farranor<i> - It's mockbuster time</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de marzo, 02:25 CET - Día Internacional de la Mujer 👩‍⚕️♀️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de marzo, 02:25 CET </p>
