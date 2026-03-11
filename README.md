@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You know who you are](https://i.redd.it/sxhmj52f44og1.png)
+![Seems like bro code got too real?](https://i.redd.it/k7ohyewqk8og1.png)
 
-<p align="right">Silenceisgrey<i> - You know who you are</i> - </p>
+<p align="right">baibhabiiii<i> - Seems like bro code got too real?</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de marzo, 02:20 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 11 de marzo, 02:20 CET </p>
