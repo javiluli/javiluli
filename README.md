@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Oh really?](https://i.redd.it/q22l79w78gog1.png)
+![Looking at you, Veritasium](https://i.redd.it/epfjw0onpnog1.png)
 
-<p align="right">Starlight_DuBlanc<i> - Oh really?</i> - </p>
+<p align="right">IWantToOwnTheSun<i> - Looking at you, Veritasium</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de marzo, 02:20 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de marzo, 02:24 CET </p>
