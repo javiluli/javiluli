@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Looking at you, Veritasium](https://i.redd.it/epfjw0onpnog1.png)
+![His Cardiologist was definitely watching him](https://i.redd.it/fkevvtfhcmog1.gif)
 
-<p align="right">IWantToOwnTheSun<i> - Looking at you, Veritasium</i> - </p>
+<p align="right">No-Acanthaceae1434<i> - His Cardiologist was definitely watching him</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de marzo, 02:24 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de marzo, 02:22 CET </p>
