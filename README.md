@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![His Cardiologist was definitely watching him](https://i.redd.it/fkevvtfhcmog1.gif)
+![Am I the only one who has this?](https://i.redd.it/ol6lroj0g3pg1.png)
 
-<p align="right">No-Acanthaceae1434<i> - His Cardiologist was definitely watching him</i> - </p>
+<p align="right">gt7902<i> - Am I the only one who has this?</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de marzo, 02:22 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 15 de marzo, 02:47 CET </p>
