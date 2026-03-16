@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Am I the only one who has this?](https://i.redd.it/ol6lroj0g3pg1.png)
+![Every. Single. Time.](https://i.redd.it/uaj0zp3t08pg1.png)
 
-<p align="right">gt7902<i> - Am I the only one who has this?</i> - </p>
+<p align="right">simp_lyartz<i> - Every. Single. Time.</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 15 de marzo, 02:47 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de marzo, 02:48 CET </p>
