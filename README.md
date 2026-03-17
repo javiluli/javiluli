@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every. Single. Time.](https://i.redd.it/uaj0zp3t08pg1.png)
+![How software is used](https://i.redd.it/mulfqlzh99pg1.png)
 
-<p align="right">simp_lyartz<i> - Every. Single. Time.</i> - </p>
+<p align="right">TailungFu<i> - How software is used</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de marzo, 02:48 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de marzo, 02:26 CET - Día de San Patricio 🍀💚 </p>
