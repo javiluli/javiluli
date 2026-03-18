@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How software is used](https://i.redd.it/mulfqlzh99pg1.png)
+![This is the truth. This is the reality.](https://i.redd.it/0yifaefpiipg1.png)
 
-<p align="right">TailungFu<i> - How software is used</i> - </p>
+<p align="right">Cold-Data-2284<i> - This is the truth. This is the reality.</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de marzo, 02:26 CET - Día de San Patricio 🍀💚 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de marzo, 02:42 CET </p>
