@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This is the truth. This is the reality.](https://i.redd.it/0yifaefpiipg1.png)
+![Sorry but this is just cool as hell?](https://i.redd.it/293fvdo3vupg1.png)
 
-<p align="right">Cold-Data-2284<i> - This is the truth. This is the reality.</i> - </p>
+<p align="right">JohnnyNoMemes<i> - Sorry but this is just cool as hell?</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de marzo, 02:42 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de marzo, 02:43 CET </p>
