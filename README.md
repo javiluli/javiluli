@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sorry but this is just cool as hell?](https://i.redd.it/293fvdo3vupg1.png)
+![Lol the photographer](https://i.redd.it/sohikywuh0qg1.png)
 
-<p align="right">JohnnyNoMemes<i> - Sorry but this is just cool as hell?</i> - </p>
+<p align="right">Ashish_ank<i> - Lol the photographer</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de marzo, 02:43 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de marzo, 02:25 CET - Día Internacional de la Felicidad 😊🌞 </p>
