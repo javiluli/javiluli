@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Lol the photographer](https://i.redd.it/sohikywuh0qg1.png)
+![its not that serious tho](https://i.redd.it/m1a9nqkbq3qg1.png)
 
-<p align="right">Ashish_ank<i> - Lol the photographer</i> - </p>
+<p align="right">savigho<i> - its not that serious tho</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de marzo, 02:25 CET - Día Internacional de la Felicidad 😊🌞 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de marzo, 02:20 CET - Equinoccio de Primavera 🌸🌞, Día Internacional de la Eliminación de la Discriminación Racial 🤝🌍 </p>
