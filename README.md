@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![its not that serious tho](https://i.redd.it/m1a9nqkbq3qg1.png)
+![The Good Ol' Days of Chuck Norris](https://i.redd.it/kb572apdgaqg1.png)
 
-<p align="right">savigho<i> - its not that serious tho</i> - </p>
+<p align="right">Flashlight237<i> - The Good Ol' Days of Chuck Norris</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de marzo, 02:20 CET - Equinoccio de Primavera 🌸🌞, Día Internacional de la Eliminación de la Discriminación Racial 🤝🌍 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de marzo, 02:41 CET - Día Mundial del Agua 💧🌎 </p>
