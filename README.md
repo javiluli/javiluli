@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The Good Ol' Days of Chuck Norris](https://i.redd.it/kb572apdgaqg1.png)
+![[OC] The stock market changes you](https://i.redd.it/rym6h24ifnqg1.png)
 
-<p align="right">Flashlight237<i> - The Good Ol' Days of Chuck Norris</i> - </p>
+<p align="right">Late_Curve1983<i> - [OC] The stock market changes you</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de marzo, 02:41 CET - Día Mundial del Agua 💧🌎 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de marzo, 02:43 CET </p>
