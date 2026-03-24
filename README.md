@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![[OC] The stock market changes you](https://i.redd.it/rym6h24ifnqg1.png)
+![Fellow mates](https://i.redd.it/lwhb1kfnjsqg1.png)
 
-<p align="right">Late_Curve1983<i> - [OC] The stock market changes you</i> - </p>
+<p align="right">ViceElysium<i> - Fellow mates</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de marzo, 02:43 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 24 de marzo, 02:23 CET </p>
