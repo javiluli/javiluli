@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Fellow mates](https://i.redd.it/lwhb1kfnjsqg1.png)
+![I've seen a few of these herbivore vs carnivore memes so I made my own](https://i.redd.it/91z6vewqqzqg1.png)
 
-<p align="right">ViceElysium<i> - Fellow mates</i> - </p>
+<p align="right">James_Fortis<i> - I've seen a few of these herbivore vs carnivore memes so I made my own</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de marzo, 02:28 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de marzo, 02:47 CET </p>
