@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I've seen a few of these herbivore vs carnivore memes so I made my own](https://i.redd.it/91z6vewqqzqg1.png)
+![If you ever feel you need that extra push, just visit those 2 subs :)](https://i.redd.it/zmkjidyyzcrg1.png)
 
-<p align="right">James_Fortis<i> - I've seen a few of these herbivore vs carnivore memes so I made my own</i> - </p>
+<p align="right">Risthel<i> - If you ever feel you need that extra push, just visit those 2 subs :)</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de marzo, 02:47 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 27 de marzo, 02:47 CET </p>
