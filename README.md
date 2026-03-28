@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![If you ever feel you need that extra push, just visit those 2 subs :)](https://i.redd.it/zmkjidyyzcrg1.png)
+![It's all about anticipation.](https://i.redd.it/hdlcbwru2mrg1.png)
 
-<p align="right">Risthel<i> - If you ever feel you need that extra push, just visit those 2 subs :)</i> - </p>
+<p align="right">Fragrant_Ad7231<i> - It's all about anticipation.</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 27 de marzo, 02:47 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 28 de marzo, 02:27 CET </p>
