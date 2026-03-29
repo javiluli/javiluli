@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's all about anticipation.](https://i.redd.it/hdlcbwru2mrg1.png)
+![Did YOU know how big texas actually is?](https://i.redd.it/j0s032r17urg1.png)
 
-<p align="right">Fragrant_Ad7231<i> - It's all about anticipation.</i> - </p>
+<p align="right">golden_ingot<i> - Did YOU know how big texas actually is?</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 28 de marzo, 02:27 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 29 de marzo, 03:49 CEST </p>
