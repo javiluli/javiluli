@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We do this twice a year?](https://i.redd.it/qumij15618sg1.gif)
+![if you haven’t showered in over a week I am NOT even interacting with you](https://i.redd.it/bqmv1i9yiesg1.gif)
 
-<p align="right">Riomemes53<i> - We do this twice a year?</i> - </p>
+<p align="right">LegalBoysenberry2923<i> - if you haven’t showered in over a week I am NOT even interacting with you</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 31 de marzo, 03:48 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 1 de abril, 03:56 CEST </p>
