@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![if you haven’t showered in over a week I am NOT even interacting with you](https://i.redd.it/bqmv1i9yiesg1.gif)
+![quick hide all your moon oil](https://i.redd.it/5vkv94mijosg1.png)
 
-<p align="right">LegalBoysenberry2923<i> - if you haven’t showered in over a week I am NOT even interacting with you</i> - </p>
+<p align="right">dominikstephan<i> - quick hide all your moon oil</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 1 de abril, 03:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 2 de abril, 03:45 CEST - Día Mundial de Concienciación sobre el Autismo 🧩🧠 </p>
