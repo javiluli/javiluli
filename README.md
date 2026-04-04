@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![quick hide all your moon oil](https://i.redd.it/5vkv94mijosg1.png)
+![chat gpt's "world's best meme", hell nah it made the worst meme ever](https://i.redd.it/jfv4a249c1tg1.png)
 
-<p align="right">dominikstephan<i> - quick hide all your moon oil</i> - </p>
+<p align="right">Key_River7180<i> - chat gpt's "world's best meme", hell nah it made the worst meme ever</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 3 de abril, 03:46 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de abril, 03:28 CEST </p>
