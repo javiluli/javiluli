@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![chat gpt's "world's best meme", hell nah it made the worst meme ever](https://i.redd.it/jfv4a249c1tg1.png)
+![This shit always happens](https://i.redd.it/9nr9wne4f7tg1.gif)
 
-<p align="right">Key_River7180<i> - chat gpt's "world's best meme", hell nah it made the worst meme ever</i> - </p>
+<p align="right">Lambsauc<i> - This shit always happens</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de abril, 03:28 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de abril, 03:50 CEST </p>
