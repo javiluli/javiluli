@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This shit always happens](https://i.redd.it/9nr9wne4f7tg1.gif)
+![Bruce Lee vs Chuck Norris Round 2](https://i.redd.it/29fxixrrsetg1.png)
 
-<p align="right">Lambsauc<i> - This shit always happens</i> - </p>
+<p align="right">1Oaktree<i> - Bruce Lee vs Chuck Norris Round 2</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de abril, 03:50 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de abril, 03:52 CEST </p>
