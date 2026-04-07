@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Bruce Lee vs Chuck Norris Round 2](https://i.redd.it/29fxixrrsetg1.png)
+![it's on your face](https://i.redd.it/biq2eezc4jtg1.png)
 
-<p align="right">1Oaktree<i> - Bruce Lee vs Chuck Norris Round 2</i> - </p>
+<p align="right">FastCurrency<i> - it's on your face</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de abril, 03:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 7 de abril, 03:49 CEST - Día Mundial de la Salud 🌱💊 </p>
