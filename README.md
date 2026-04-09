@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![reddit-rplace-clone](https://img.shields.io/badge/reddit_rplace_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/reddit-rplace-clone)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
 [![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
@@ -72,7 +73,6 @@
 [![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
-[![pixel-war-reddit-clone](https://img.shields.io/badge/pixel_war_reddit_clone-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/pixel-war-reddit-clone)
 [![resolved-frontendmentor-challenges](https://img.shields.io/badge/resolved_frontendmentor_challenges-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/resolved-frontendmentor-challenges)
 [![bootstrap-design-taller](https://img.shields.io/badge/bootstrap_design_taller-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/bootstrap-design-taller)
 [![crud-vanillaJS](https://img.shields.io/badge/crud_vanillaJS-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/crud-vanillaJS)
@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Receiving wrong copper, Chiseling intensifies for 8 hours straight](https://i.redd.it/pit7gc0h4ttg1.png)
+![I see it somewhere](https://i.redd.it/d4cgf56xu0ug1.png)
 
-<p align="right">Flat_Conclusion_9229<i> - Receiving wrong copper, Chiseling intensifies for 8 hours straight</i> - </p>
+<p align="right">maybeNona<i> - I see it somewhere</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 8 de abril, 03:49 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de abril, 03:29 CEST </p>
