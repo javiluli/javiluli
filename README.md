@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I see it somewhere](https://i.redd.it/d4cgf56xu0ug1.png)
+![when you buy a red button so you just press it](https://i.redd.it/kq9tm2hfc9ug1.png)
 
-<p align="right">maybeNona<i> - I see it somewhere</i> - </p>
+<p align="right">Alarming-Safety3200<i> - when you buy a red button so you just press it</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de abril, 03:29 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 10 de abril, 03:52 CEST </p>
