@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![when you buy a red button so you just press it](https://i.redd.it/kq9tm2hfc9ug1.png)
+![This ain’t a dog this is a grown man about to say we need to talk](https://i.redd.it/v5n1d1ogsdug1.png)
 
-<p align="right">Alarming-Safety3200<i> - when you buy a red button so you just press it</i> - </p>
+<p align="right">Motor_Initiative7952<i> - This ain’t a dog this is a grown man about to say we need to talk</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 10 de abril, 03:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de abril, 03:44 CEST </p>
