@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This ain’t a dog this is a grown man about to say we need to talk](https://i.redd.it/v5n1d1ogsdug1.png)
+![And he was never seen again](https://i.redd.it/ckzb8jonmgug1.gif)
 
-<p align="right">Motor_Initiative7952<i> - This ain’t a dog this is a grown man about to say we need to talk</i> - </p>
+<p align="right">Kapanash<i> - And he was never seen again</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de abril, 03:44 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de abril, 03:55 CEST </p>
