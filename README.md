@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And he was never seen again](https://i.redd.it/ckzb8jonmgug1.gif)
+![That Doctor's degree ain't cheap for a reason!](https://i.redd.it/fso84kx91mug1.png)
 
-<p align="right">Kapanash<i> - And he was never seen again</i> - </p>
+<p align="right">thought_cream84<i> - That Doctor's degree ain't cheap for a reason!</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de abril, 03:55 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 13 de abril, 04:00 CEST </p>
