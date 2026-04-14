@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That Doctor's degree ain't cheap for a reason!](https://i.redd.it/fso84kx91mug1.png)
+![I wasn’t even that weird until the joke bombed and made it canon](https://i.redd.it/p6ytd5e2vxug1.png)
 
-<p align="right">thought_cream84<i> - That Doctor's degree ain't cheap for a reason!</i> - </p>
+<p align="right">Federal767<i> - I wasn’t even that weird until the joke bombed and made it canon</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 13 de abril, 04:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 14 de abril, 03:55 CEST </p>
