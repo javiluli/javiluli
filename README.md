@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I wasn’t even that weird until the joke bombed and made it canon](https://i.redd.it/p6ytd5e2vxug1.png)
+![Adulting actually sucks](https://i.redd.it/2cubusi8q5vg1.png)
 
-<p align="right">Federal767<i> - I wasn’t even that weird until the joke bombed and made it canon</i> - </p>
+<p align="right">HelpfulFlounder7560<i> - Adulting actually sucks</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 14 de abril, 03:55 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 15 de abril, 03:51 CEST </p>
