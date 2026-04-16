@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Adulting actually sucks](https://i.redd.it/2cubusi8q5vg1.png)
+![I'm not your damn kid.](https://i.redd.it/ao93k20q8fvg1.gif)
 
-<p align="right">HelpfulFlounder7560<i> - Adulting actually sucks</i> - </p>
+<p align="right">AnonymousNeverKnown<i> - I'm not your damn kid.</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 15 de abril, 03:51 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de abril, 04:00 CEST </p>
