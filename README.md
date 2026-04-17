@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I'm not your damn kid.](https://i.redd.it/ao93k20q8fvg1.gif)
+![Modern problems require....nvm actually](https://i.redd.it/tlqidame8ivg1.gif)
 
-<p align="right">AnonymousNeverKnown<i> - I'm not your damn kid.</i> - </p>
+<p align="right">dextras07<i> - Modern problems require....nvm actually</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de abril, 04:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 17 de abril, 03:56 CEST </p>
