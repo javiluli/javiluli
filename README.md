@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I’ve never seen the parking lot so full of cars—no wonder why.](https://i.redd.it/enjo7rtolrvg1.png)
+![we have the power ;)](https://i.redd.it/vixgd52dirvg1.png)
 
-<p align="right">Huge_Drink_6254<i> - I’ve never seen the parking lot so full of cars—no wonder why.</i> - </p>
+<p align="right">JohnnyNoMemes<i> - we have the power ;)</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 18 de abril, 03:47 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de abril, 04:00 CEST </p>
