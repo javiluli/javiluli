@@ -95,9 +95,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![we have the power ;)](https://i.redd.it/vixgd52dirvg1.png)
+![Smartest people on Earth.](https://i.redd.it/m5vqnh5ya5wg1.png)
 
-<p align="right">JohnnyNoMemes<i> - we have the power ;)</i> - </p>
+<p align="right">Unusual_Club_550<i> - Smartest people on Earth.</i> - </p>
 
 </td>
 </tr> 
@@ -117,4 +117,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de abril, 04:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 20 de abril, 04:01 CEST </p>
