@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![i personally think even 67 fails in comparison](https://i.redd.it/bo1wjyv14dwg1.png)
+![Is it really necessary?](https://i.redd.it/lke9lqfnhiwg1.png)
 
-<p align="right">word_weaver26<i> - i personally think even 67 fails in comparison</i> - </p>
+<p align="right">just_a_guy_named1681<i> - Is it really necessary?</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 21 de abril, 03:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de abril, 03:55 CEST - Día de la Tierra 🌍🌱 </p>
