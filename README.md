@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Is it really necessary?](https://i.redd.it/lke9lqfnhiwg1.png)
+![It must be the wind](https://i.redd.it/19v6ry80npwg1.png)
 
-<p align="right">just_a_guy_named1681<i> - Is it really necessary?</i> - </p>
+<p align="right">vvxxad<i> - It must be the wind</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de abril, 03:55 CEST - Día de la Tierra 🌍🌱 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de abril, 03:59 CEST - Día Mundial del Libro y del Derecho de Autor 📖🌹 </p>
