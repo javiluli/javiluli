@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It must be the wind](https://i.redd.it/19v6ry80npwg1.png)
+![this does become a group activity 💀](https://i.redd.it/13vd9wdgkzwg1.png)
 
-<p align="right">vvxxad<i> - It must be the wind</i> - </p>
+<p align="right">Lexsight<i> - this does become a group activity 💀</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de abril, 03:59 CEST - Día Mundial del Libro y del Derecho de Autor 📖🌹 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de abril, 04:00 CEST </p>
