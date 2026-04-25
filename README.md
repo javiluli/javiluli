@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![this does become a group activity 💀](https://i.redd.it/13vd9wdgkzwg1.png)
+![Good Ending: Instant Relief / Bad Ending: Shart](https://i.redd.it/6zb8qrjti7xg1.png)
 
-<p align="right">Lexsight<i> - this does become a group activity 💀</i> - </p>
+<p align="right">PlusSizedMinusBrain<i> - Good Ending: Instant Relief / Bad Ending: Shart</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de abril, 04:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de abril, 03:49 CEST </p>
