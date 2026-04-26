@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Good Ending: Instant Relief / Bad Ending: Shart](https://i.redd.it/6zb8qrjti7xg1.png)
+![Sora 2 shutdown meme](https://i.redd.it/t3g9kl8gtexg1.png)
 
-<p align="right">PlusSizedMinusBrain<i> - Good Ending: Instant Relief / Bad Ending: Shart</i> - </p>
+<p align="right">Relevant_Coyote_8614<i> - Sora 2 shutdown meme</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de abril, 03:49 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 26 de abril, 04:03 CEST </p>
