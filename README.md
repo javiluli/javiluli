@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sora 2 shutdown meme](https://i.redd.it/t3g9kl8gtexg1.png)
+![Luxury jail](https://i.redd.it/zh1ygm6szexg1.gif)
 
-<p align="right">Relevant_Coyote_8614<i> - Sora 2 shutdown meme</i> - </p>
+<p align="right">Common_Caramel_4078<i> - Luxury jail</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 26 de abril, 04:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 27 de abril, 04:05 CEST </p>
