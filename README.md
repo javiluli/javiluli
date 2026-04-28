@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Luxury jail](https://i.redd.it/zh1ygm6szexg1.gif)
+![Sad reality](https://i.redd.it/wbdsw31q6rxg1.gif)
 
-<p align="right">Common_Caramel_4078<i> - Luxury jail</i> - </p>
+<p align="right">Common_Caramel_4078<i> - Sad reality</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 27 de abril, 04:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de abril, 04:12 CEST </p>
