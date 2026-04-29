@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sad reality](https://i.redd.it/wbdsw31q6rxg1.gif)
+![This isn't about battery… it's about finishing what you started.](https://i.redd.it/zd7bvrv9nyxg1.png)
 
-<p align="right">Common_Caramel_4078<i> - Sad reality</i> - </p>
+<p align="right">thought_cream84<i> - This isn't about battery… it's about finishing what you started.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de abril, 04:12 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de abril, 04:13 CEST </p>
