@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This isn't about battery… it's about finishing what you started.](https://i.redd.it/zd7bvrv9nyxg1.png)
+![Growing a beard.](https://i.redd.it/cjhcfsxsm5yg1.gif)
 
-<p align="right">thought_cream84<i> - This isn't about battery… it's about finishing what you started.</i> - </p>
+<p align="right">Connect_Hospital_270<i> - Growing a beard.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de abril, 04:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 30 de abril, 04:13 CEST - Día Internacional del Jazz 🎺🎼 </p>
