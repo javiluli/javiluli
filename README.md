@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Growing a beard.](https://i.redd.it/cjhcfsxsm5yg1.gif)
+![Meme for a very small group of people](https://i.redd.it/hen1ovsa5dyg1.gif)
 
-<p align="right">Connect_Hospital_270<i> - Growing a beard.</i> - </p>
+<p align="right">TaToten<i> - Meme for a very small group of people</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 30 de abril, 04:13 CEST - Día Internacional del Jazz 🎺🎼 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 1 de mayo, 04:27 CEST - Día del Trabajador 🛠️👷 </p>
