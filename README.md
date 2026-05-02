@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Meme for a very small group of people](https://i.redd.it/hen1ovsa5dyg1.gif)
+![My anxiety is a time traveler.](https://i.redd.it/bwsb39tyijyg1.png)
 
-<p align="right">TaToten<i> - Meme for a very small group of people</i> - </p>
+<p align="right">thought_cream84<i> - My anxiety is a time traveler.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 1 de mayo, 04:27 CEST - Día del Trabajador 🛠️👷 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 2 de mayo, 04:04 CEST </p>
