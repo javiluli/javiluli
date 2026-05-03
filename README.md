@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My anxiety is a time traveler.](https://i.redd.it/bwsb39tyijyg1.png)
+![Comics 80'](https://i.redd.it/dzrlnrjwekyg1.png)
 
-<p align="right">thought_cream84<i> - My anxiety is a time traveler.</i> - </p>
+<p align="right">raulsestao<i> - Comics 80'</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 2 de mayo, 04:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 3 de mayo, 04:09 CEST </p>
