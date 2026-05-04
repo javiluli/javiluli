@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Comics 80'](https://i.redd.it/dzrlnrjwekyg1.png)
+![I've been here the whole time](https://i.redd.it/h60pn1s730zg1.png)
 
-<p align="right">raulsestao<i> - Comics 80'</i> - </p>
+<p align="right">snedertheold<i> - I've been here the whole time</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 3 de mayo, 04:09 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 4 de mayo, 04:09 CEST </p>
