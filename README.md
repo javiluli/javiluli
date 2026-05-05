@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I've been here the whole time](https://i.redd.it/h60pn1s730zg1.png)
+![That time of year](https://i.redd.it/aqxzb9uqg3zg1.png)
 
-<p align="right">snedertheold<i> - I've been here the whole time</i> - </p>
+<p align="right">fishead62<i> - That time of year</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 4 de mayo, 04:09 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 5 de mayo, 04:07 CEST - Cinco de Mayo 🇲🇽🎉 </p>
