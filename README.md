@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![That time of year](https://i.redd.it/aqxzb9uqg3zg1.png)
+![bros before hoes](https://i.redd.it/52ybsnrotczg1.png)
 
-<p align="right">fishead62<i> - That time of year</i> - </p>
+<p align="right">Significant_Call_137<i> - bros before hoes</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 5 de mayo, 04:07 CEST - Cinco de Mayo 🇲🇽🎉 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 6 de mayo, 04:08 CEST </p>
