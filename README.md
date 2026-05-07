@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![bros before hoes](https://i.redd.it/52ybsnrotczg1.png)
+![oh  my  god](https://i.redd.it/fkaf9yo6ajzg1.png)
 
-<p align="right">Significant_Call_137<i> - bros before hoes</i> - </p>
+<p align="right">ARandomYorkshireLass<i> - oh  my  god</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 6 de mayo, 04:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 7 de mayo, 04:10 CEST </p>
