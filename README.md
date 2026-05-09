@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So disappointing](https://i.redd.it/39rn0u0dbtzg1.png)
+![i have boiled down all human interaction into one image](https://i.redd.it/e7jp8t3kjyzg1.png)
 
-<p align="right">Jegust13<i> - So disappointing</i> - </p>
+<p align="right">myJeanDev<i> - i have boiled down all human interaction into one image</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 8 de mayo, 04:26 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 9 de mayo, 04:11 CEST </p>
