@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![i have boiled down all human interaction into one image](https://i.redd.it/e7jp8t3kjyzg1.png)
+![In 2026 Alone, David Has Presented, Narrated, Or Been A Part of SIX Documentaries/Programmes](https://i.redd.it/fja4nv08w60h1.gif)
 
-<p align="right">myJeanDev<i> - i have boiled down all human interaction into one image</i> - </p>
+<p align="right">HalfDeadHughes<i> - In 2026 Alone, David Has Presented, Narrated, Or Been A Part of SIX Documentaries/Programmes</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 9 de mayo, 04:11 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 10 de mayo, 04:13 CEST - Día de la Madre 💐👩‍👧 </p>
