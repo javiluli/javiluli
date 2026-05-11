@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![In 2026 Alone, David Has Presented, Narrated, Or Been A Part of SIX Documentaries/Programmes](https://i.redd.it/fja4nv08w60h1.gif)
+![i hate english class](https://i.redd.it/uvrci1nsc70h1.png)
 
-<p align="right">HalfDeadHughes<i> - In 2026 Alone, David Has Presented, Narrated, Or Been A Part of SIX Documentaries/Programmes</i> - </p>
+<p align="right">airpod_smurf<i> - i hate english class</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 10 de mayo, 04:13 CEST - Día de la Madre 💐👩‍👧 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 11 de mayo, 04:31 CEST </p>
