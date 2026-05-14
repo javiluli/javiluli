@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![it just doesn't roll off the tongue](https://i.redd.it/2ehf0wxxvs0h1.png)
+![Hinata virus](https://i.redd.it/5dr8dxzzkx0h1.png)
 
-<p align="right">ThEhIsO8730<i> - it just doesn't roll off the tongue</i> - </p>
+<p align="right">BitBucket404<i> - Hinata virus</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 13 de mayo, 04:31 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 14 de mayo, 04:32 CEST </p>
