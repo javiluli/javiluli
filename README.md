@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Hinata virus](https://i.redd.it/5dr8dxzzkx0h1.png)
+![You should always try anyway](https://i.redd.it/dxevabjqe21h1.png)
 
-<p align="right">BitBucket404<i> - Hinata virus</i> - </p>
+<p align="right">DanieleMemoli<i> - You should always try anyway</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 14 de mayo, 04:32 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 15 de mayo, 04:32 CEST - Día Internacional de la Familia 👪👨‍👩‍👧 </p>
