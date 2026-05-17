@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Why is it so true !!!](https://i.redd.it/znsym3vfs41h1.gif)
+![Its really cringe and pisses me off](https://i.redd.it/82hfeaowzg1h1.png)
 
-<p align="right">Queasy_Hotel5158<i> - Why is it so true !!!</i> - </p>
+<p align="right">Flat_Conclusion_9229<i> - Its really cringe and pisses me off</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 16 de mayo, 04:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 17 de mayo, 04:29 CEST - Día Mundial de las Telecomunicaciones 📶🌐 </p>
