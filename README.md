@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Its really cringe and pisses me off](https://i.redd.it/82hfeaowzg1h1.png)
+![All for you, ma](https://i.redd.it/psqy2zds3r1h1.png)
 
-<p align="right">Flat_Conclusion_9229<i> - Its really cringe and pisses me off</i> - </p>
+<p align="right">Calteru_Taalo<i> - All for you, ma</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 17 de mayo, 04:29 CEST - Día Mundial de las Telecomunicaciones 📶🌐 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 18 de mayo, 04:39 CEST </p>
