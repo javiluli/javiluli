@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![All for you, ma](https://i.redd.it/psqy2zds3r1h1.png)
+![Good kitty](https://i.redd.it/npnahztqwt1h1.png)
 
-<p align="right">Calteru_Taalo<i> - All for you, ma</i> - </p>
+<p align="right">888Vegan<i> - Good kitty</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 18 de mayo, 04:39 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 19 de mayo, 04:37 CEST </p>
