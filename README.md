@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![every time.](https://i.redd.it/9gpoi3cqw42h1.png)
+![DOWN WITH YE SCALPERS!!!](https://i.redd.it/biywnrupp72h1.png)
 
-<p align="right">typotypewriter<i> - every time.</i> - </p>
+<p align="right">Nose_Prize<i> - DOWN WITH YE SCALPERS!!!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 20 de mayo, 04:38 CEST - Día Mundial de las Abejas 🐝🍯 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 21 de mayo, 04:40 CEST </p>
