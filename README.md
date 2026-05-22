@@ -68,10 +68,10 @@
 [![InstantXP](https://img.shields.io/badge/InstantXP-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/InstantXP)
 [![reddit-rplace-clone](https://img.shields.io/badge/reddit_rplace_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/reddit-rplace-clone)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
-[![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
-[![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
+[![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
+[![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
 [![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
-[![Smart-hopper](https://img.shields.io/badge/Smart_hopper-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
+[![Smart-hopper](https://img.shields.io/badge/Smart_hopper-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Smart-hopper)
 [![react-component-display](https://img.shields.io/badge/react_component_display-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/react-component-display)
 [![javiluli](https://img.shields.io/badge/javiluli-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/javiluli)
 [![resolved-frontendmentor-challenges](https://img.shields.io/badge/resolved_frontendmentor_challenges-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/resolved-frontendmentor-challenges)
@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![DOWN WITH YE SCALPERS!!!](https://i.redd.it/biywnrupp72h1.png)
+![my fully HUMAN WRITTEN essay shows up as 87% ai written](https://i.redd.it/7eudasd06j2h1.png)
 
-<p align="right">Nose_Prize<i> - DOWN WITH YE SCALPERS!!!</i> - </p>
+<p align="right">AdLopsided1430<i> - my fully HUMAN WRITTEN essay shows up as 87% ai written</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 21 de mayo, 04:40 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 22 de mayo, 04:41 CEST - Día Internacional de la Diversidad Biológica 🌿🦋 </p>
