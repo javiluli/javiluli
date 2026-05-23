@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![my fully HUMAN WRITTEN essay shows up as 87% ai written](https://i.redd.it/7eudasd06j2h1.png)
+![Every. Single. Update.](https://i.redd.it/tkrp4pct0s2h1.gif)
 
-<p align="right">AdLopsided1430<i> - my fully HUMAN WRITTEN essay shows up as 87% ai written</i> - </p>
+<p align="right">Responsible-Fox-1985<i> - Every. Single. Update.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 22 de mayo, 04:41 CEST - Día Internacional de la Diversidad Biológica 🌿🦋 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 23 de mayo, 04:26 CEST </p>
