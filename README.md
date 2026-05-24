@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every. Single. Update.](https://i.redd.it/tkrp4pct0s2h1.gif)
+![I hate how we have to deal with this madness every month.](https://i.redd.it/5t048ywqlw2h1.png)
 
-<p align="right">Responsible-Fox-1985<i> - Every. Single. Update.</i> - </p>
+<p align="right">PuzzleheadedRoyal856<i> - I hate how we have to deal with this madness every month.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 23 de mayo, 04:26 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 24 de mayo, 04:36 CEST </p>
