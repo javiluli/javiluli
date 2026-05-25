@@ -65,9 +65,9 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![InstantXP](https://img.shields.io/badge/InstantXP-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/InstantXP)
 [![reddit-rplace-clone](https://img.shields.io/badge/reddit_rplace_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/reddit-rplace-clone)
-[![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![Beacon-Material-Scaling](https://img.shields.io/badge/Beacon_Material_Scaling-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Beacon-Material-Scaling)
 [![Copper-Beacon](https://img.shields.io/badge/Copper_Beacon-FFA500.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Copper-Beacon)
 [![Extended-Beacon-Range](https://img.shields.io/badge/Extended_Beacon_Range-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Extended-Beacon-Range)
@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I hate how we have to deal with this madness every month.](https://i.redd.it/5t048ywqlw2h1.png)
+![Was it still there?](https://i.redd.it/mhtkm4eee63h1.gif)
 
-<p align="right">PuzzleheadedRoyal856<i> - I hate how we have to deal with this madness every month.</i> - </p>
+<p align="right">sentient_coprolite<i> - Was it still there?</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 24 de mayo, 04:36 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 25 de mayo, 04:45 CEST </p>
