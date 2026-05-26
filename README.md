@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Was it still there?](https://i.redd.it/mhtkm4eee63h1.gif)
+![Generational the boys gif](https://i.redd.it/g1osjhhe853h1.gif)
 
-<p align="right">sentient_coprolite<i> - Was it still there?</i> - </p>
+<p align="right">Onetruebruh<i> - Generational the boys gif</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 25 de mayo, 04:45 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 26 de mayo, 04:34 CEST </p>
