@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The education system is working as intended](https://i.redd.it/zn21lfavmg3h1.png)
+![I'm sorry son...](https://i.redd.it/3y3ypa0fxf3h1.png)
 
-<p align="right">Proof-Sir3777<i> - The education system is working as intended</i> - </p>
+<p align="right">KV-2000<i> - I'm sorry son...</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 27 de mayo, 04:44 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 28 de mayo, 04:31 CEST </p>
