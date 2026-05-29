@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I'm sorry son...](https://i.redd.it/3y3ypa0fxf3h1.png)
+![This one hits hard](https://i.redd.it/ga3esvquwt3h1.png)
 
-<p align="right">KV-2000<i> - I'm sorry son...</i> - </p>
+<p align="right">homifide<i> - This one hits hard</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 28 de mayo, 04:31 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 29 de mayo, 04:35 CEST </p>
