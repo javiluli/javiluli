@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Coming to a theater near you](https://i.redd.it/4g8k6mtyj24h1.png)
+![Booktok be wilding sometimes](https://i.redd.it/q0yol2r4y54h1.png)
 
-<p align="right">UnkownPAndTheGeezer<i> - Coming to a theater near you</i> - </p>
+<p align="right">Margaretthatchervore<i> - Booktok be wilding sometimes</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 30 de mayo, 04:29 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 31 de mayo, 04:46 CEST </p>
