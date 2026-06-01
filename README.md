@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Booktok be wilding sometimes](https://i.redd.it/q0yol2r4y54h1.png)
+![Are brains are working 🤔](https://i.redd.it/eanp02wpdj4h1.png)
 
-<p align="right">Margaretthatchervore<i> - Booktok be wilding sometimes</i> - </p>
+<p align="right">Klutzy-Profile-6921<i> - Are brains are working 🤔</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 31 de mayo, 04:46 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de junio, 04:54 CEST </p>
