@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Are brains are working 🤔](https://i.redd.it/eanp02wpdj4h1.png)
+![Building houses is a huge challenge](https://i.redd.it/0e1k4ogl4p4h1.gif)
 
-<p align="right">Klutzy-Profile-6921<i> - Are brains are working 🤔</i> - </p>
+<p align="right">Prestigious_Meal2143<i> - Building houses is a huge challenge</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 1 de junio, 04:54 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 2 de junio, 04:52 CEST </p>
