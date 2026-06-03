@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Building houses is a huge challenge](https://i.redd.it/0e1k4ogl4p4h1.gif)
+![This is not the future I was promised...](https://i.redd.it/r22wayx4nr4h1.png)
 
-<p align="right">Prestigious_Meal2143<i> - Building houses is a huge challenge</i> - </p>
+<p align="right">2hinreza<i> - This is not the future I was promised...</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 2 de junio, 04:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 3 de junio, 05:27 CEST </p>
