@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Organ Donor](https://i.redd.it/9lgs8l30mz4h1.png)
+![me thinking i was faster than usian bolt](https://i.redd.it/x6ytm4ruu85h1.gif)
 
-<p align="right">-Hal-Jordan-<i> - Organ Donor</i> - </p>
+<p align="right">AdventurousGuest308<i> - me thinking i was faster than usian bolt</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 4 de junio, 04:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 5 de junio, 04:43 CEST - Día Mundial del Medio Ambiente 🌍💚 </p>
