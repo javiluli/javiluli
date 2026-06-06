@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![me thinking i was faster than usian bolt](https://i.redd.it/x6ytm4ruu85h1.gif)
+![Bootyfull meme](https://i.redd.it/6psxqsvlcf5h1.png)
 
-<p align="right">AdventurousGuest308<i> - me thinking i was faster than usian bolt</i> - </p>
+<p align="right">recribel<i> - Bootyfull meme</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 5 de junio, 04:43 CEST - Día Mundial del Medio Ambiente 🌍💚 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 6 de junio, 04:31 CEST </p>
