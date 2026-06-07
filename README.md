@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Bootyfull meme](https://i.redd.it/6psxqsvlcf5h1.png)
+![I mean exactly](https://i.redd.it/fp45f18n5n5h1.png)
 
-<p align="right">recribel<i> - Bootyfull meme</i> - </p>
+<p align="right">Gold_Paint_3490<i> - I mean exactly</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 6 de junio, 04:31 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 7 de junio, 04:50 CEST </p>
