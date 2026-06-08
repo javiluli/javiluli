@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I mean exactly](https://i.redd.it/fp45f18n5n5h1.png)
+![Her kid is gonna grow up to become the next Jack The Ripper](https://i.redd.it/pz5p2bf6ql5h1.png)
 
-<p align="right">Gold_Paint_3490<i> - I mean exactly</i> - </p>
+<p align="right">Just-J0k1ng<i> - Her kid is gonna grow up to become the next Jack The Ripper</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 7 de junio, 04:50 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 8 de junio, 04:53 CEST </p>
