@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My favourite one :3](https://i.redd.it/0v7pz02im26h1.png)
+![I mean... Really?](https://i.redd.it/7lyfjweyu96h1.png)
 
-<p align="right">Glum-Pin660<i> - My favourite one :3</i> - </p>
+<p align="right">UnhollyGod<i> - I mean... Really?</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 9 de junio, 04:30 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 10 de junio, 04:44 CEST </p>
