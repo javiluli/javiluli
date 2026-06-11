@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I mean... Really?](https://i.redd.it/7lyfjweyu96h1.png)
+![Autocorrect be like...](https://i.redd.it/a09tzabu2b6h1.png)
 
-<p align="right">UnhollyGod<i> - I mean... Really?</i> - </p>
+<p align="right">_Thermalflask<i> - Autocorrect be like...</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 10 de junio, 04:44 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 11 de junio, 04:53 CEST </p>
