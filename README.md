@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Autocorrect be like...](https://i.redd.it/a09tzabu2b6h1.png)
+![And its addicting. You have to keep drinking or the withdrawals are too severe.](https://i.redd.it/oz18of4cmi6h1.png)
 
-<p align="right">_Thermalflask<i> - Autocorrect be like...</i> - </p>
+<p align="right">DasNoodleLord<i> - And its addicting. You have to keep drinking or the withdrawals are too severe.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 11 de junio, 04:53 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 12 de junio, 04:50 CEST - Día Mundial contra el Trabajo Infantil 🚸🛑 </p>
