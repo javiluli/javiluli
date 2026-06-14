@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And its addicting. You have to keep drinking or the withdrawals are too severe.](https://i.redd.it/oz18of4cmi6h1.png)
+![New Reaction image unlocked](https://i.redd.it/nj5pvbv3w47h1.png)
 
-<p align="right">DasNoodleLord<i> - And its addicting. You have to keep drinking or the withdrawals are too severe.</i> - </p>
+<p align="right">transqueen421<i> - New Reaction image unlocked</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 12 de junio, 04:50 CEST - Día Mundial contra el Trabajo Infantil 🚸🛑 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 14 de junio, 04:54 CEST </p>
