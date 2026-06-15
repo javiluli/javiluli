@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![New Reaction image unlocked](https://i.redd.it/nj5pvbv3w47h1.png)
+![Knackiges 7-1](https://i.redd.it/cwkqd7uhra7h1.png)
 
-<p align="right">transqueen421<i> - New Reaction image unlocked</i> - </p>
+<p align="right">thatdudewayoverthere<i> - Knackiges 7-1</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 14 de junio, 04:54 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 15 de junio, 05:26 CEST </p>
