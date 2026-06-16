@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Knackiges 7-1](https://i.redd.it/cwkqd7uhra7h1.png)
+![The gap between theory and practice](https://i.redd.it/931qcc49cg7h1.png)
 
-<p align="right">thatdudewayoverthere<i> - Knackiges 7-1</i> - </p>
+<p align="right">greenmonkeyyyy<i> - The gap between theory and practice</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 15 de junio, 05:26 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 16 de junio, 05:24 CEST </p>
