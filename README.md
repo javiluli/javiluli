@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The webp(lague)](https://i.redd.it/2ipw0azpan7h1.png)
+![Gotta mine for them cookie dough balls.](https://i.redd.it/q1xrmronbu7h1.png)
 
-<p align="right">metayeti2<i> - The webp(lague)</i> - </p>
+<p align="right">Nekomimiee<i> - Gotta mine for them cookie dough balls.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 17 de junio, 04:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 18 de junio, 04:51 CEST </p>
