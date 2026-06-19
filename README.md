@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Gotta mine for them cookie dough balls.](https://i.redd.it/q1xrmronbu7h1.png)
+![It's just a prank, bro](https://i.redd.it/xop7ragmn38h1.png)
 
-<p align="right">Nekomimiee<i> - Gotta mine for them cookie dough balls.</i> - </p>
+<p align="right">Absolutemehguy<i> - It's just a prank, bro</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 18 de junio, 04:51 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 19 de junio, 05:37 CEST </p>
