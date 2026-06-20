@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's just a prank, bro](https://i.redd.it/xop7ragmn38h1.png)
+![Foreign standards](https://i.redd.it/ve5u5251m78h1.png)
 
-<p align="right">Absolutemehguy<i> - It's just a prank, bro</i> - </p>
+<p align="right">Radiant_Stand_7126<i> - Foreign standards</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 19 de junio, 05:37 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 20 de junio, 04:41 CEST </p>
