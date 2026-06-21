@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Foreign standards](https://i.redd.it/ve5u5251m78h1.png)
+![But we love you!](https://i.redd.it/040ba0x1sh8h1.png)
 
-<p align="right">Radiant_Stand_7126<i> - Foreign standards</i> - </p>
+<p align="right">Desertedfoxx<i> - But we love you!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 20 de junio, 04:41 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 21 de junio, 04:58 CEST - Solsticio de Verano 🌞🌸, Día Internacional del Yoga 🧘‍♂️🌅 </p>
