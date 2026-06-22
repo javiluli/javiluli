@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![But we love you!](https://i.redd.it/040ba0x1sh8h1.png)
+![look at the poor people](https://i.redd.it/8o2unh7nmf8h1.png)
 
-<p align="right">Desertedfoxx<i> - But we love you!</i> - </p>
+<p align="right">freecodeio<i> - look at the poor people</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 21 de junio, 04:58 CEST - Solsticio de Verano 🌞🌸, Día Internacional del Yoga 🧘‍♂️🌅 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 22 de junio, 05:28 CEST </p>
