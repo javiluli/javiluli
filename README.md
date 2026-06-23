@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![look at the poor people](https://i.redd.it/8o2unh7nmf8h1.png)
+![Poor LARPers](https://i.redd.it/yupz4eetpt8h1.png)
 
-<p align="right">freecodeio<i> - look at the poor people</i> - </p>
+<p align="right">Ranvir33<i> - Poor LARPers</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 22 de junio, 05:28 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 23 de junio, 04:35 CEST </p>
