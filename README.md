@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Poor LARPers](https://i.redd.it/yupz4eetpt8h1.png)
+![All the io games are fake!](https://i.redd.it/0np80wpoh49h1.png)
 
-<p align="right">Ranvir33<i> - Poor LARPers</i> - </p>
+<p align="right">Pretty_Confusion7290<i> - All the io games are fake!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 23 de junio, 04:35 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 24 de junio, 04:36 CEST </p>
