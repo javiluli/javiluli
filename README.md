@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![All the io games are fake!](https://i.redd.it/0np80wpoh49h1.png)
+![I refuse to believe these people are real.](https://i.redd.it/t8eta9luqz8h1.png)
 
-<p align="right">Pretty_Confusion7290<i> - All the io games are fake!</i> - </p>
+<p align="right">FearlessState5503<i> - I refuse to believe these people are real.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 24 de junio, 04:36 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 25 de junio, 04:37 CEST </p>
