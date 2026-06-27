@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What Reddit says today, AI says tomorrow.](https://i.redd.it/zuoaw9u84f9h1.png)
+![I have a shitty pc](https://i.redd.it/gmtkzpt2xo9h1.png)
 
-<p align="right">ManojOne<i> - What Reddit says today, AI says tomorrow.</i> - </p>
+<p align="right">ShiningGemstone1<i> - I have a shitty pc</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 26 de junio, 04:40 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 27 de junio, 04:33 CEST </p>
