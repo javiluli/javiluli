@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I have a shitty pc](https://i.redd.it/gmtkzpt2xo9h1.png)
+![Professors lurking here — how bad is it? Scale of 1-10.](https://i.redd.it/1f51e4wa1u9h1.png)
 
-<p align="right">ShiningGemstone1<i> - I have a shitty pc</i> - </p>
+<p align="right">greenmonkeyyyy<i> - Professors lurking here — how bad is it? Scale of 1-10.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 27 de junio, 04:33 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 28 de junio, 04:46 CEST </p>
