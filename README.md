@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Professors lurking here — how bad is it? Scale of 1-10.](https://i.redd.it/1f51e4wa1u9h1.png)
+![Poor angel ben.](https://i.redd.it/quoajfqm93ah1.png)
 
-<p align="right">greenmonkeyyyy<i> - Professors lurking here — how bad is it? Scale of 1-10.</i> - </p>
+<p align="right">fishead62<i> - Poor angel ben.</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 28 de junio, 04:46 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 29 de junio, 04:46 CEST </p>
