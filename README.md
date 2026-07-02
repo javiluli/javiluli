@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There's always next year...in 4 years](https://i.redd.it/35ijlz2bebah1.png)
+![Sony in 2028](https://i.redd.it/6x4zq8pwwoah1.png)
 
-<p align="right">ThEhIsO8730<i> - There's always next year...in 4 years</i> - </p>
+<p align="right">nick1037<i> - Sony in 2028</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 1 de julio, 04:47 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 2 de julio, 04:36 CEST </p>
