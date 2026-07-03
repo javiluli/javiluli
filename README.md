@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sony in 2028](https://i.redd.it/6x4zq8pwwoah1.png)
+![Every time!](https://i.redd.it/47hpdub5jwah1.png)
 
-<p align="right">nick1037<i> - Sony in 2028</i> - </p>
+<p align="right">jussanuddername<i> - Every time!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 2 de julio, 04:36 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 3 de julio, 04:12 CEST - Día Internacional Libre de Bolsas de Plástico 🛍️🚫 </p>
