@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every time!](https://i.redd.it/47hpdub5jwah1.png)
+![Summers YEAH!](https://i.redd.it/o59yyf8jd0bh1.png)
 
-<p align="right">jussanuddername<i> - Every time!</i> - </p>
+<p align="right">BlokZNCR<i> - Summers YEAH!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 3 de julio, 04:12 CEST - Día Internacional Libre de Bolsas de Plástico 🛍️🚫 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de julio, 04:10 CEST - Día de la Independencia de EE. UU. 🎆🇺🇸 </p>
