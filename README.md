@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Summers YEAH!](https://i.redd.it/o59yyf8jd0bh1.png)
+![My university charges $27K/year and I still had to teach myself everything from YouTube at 2 AM](https://i.redd.it/2fygwnf148bh1.png)
 
-<p align="right">BlokZNCR<i> - Summers YEAH!</i> - </p>
+<p align="right">greenmonkeyyyy<i> - My university charges $27K/year and I still had to teach myself everything from YouTube at 2 AM</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 4 de julio, 04:10 CEST - Día de la Independencia de EE. UU. 🎆🇺🇸 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de julio, 04:26 CEST </p>
