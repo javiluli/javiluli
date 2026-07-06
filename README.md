@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My university charges $27K/year and I still had to teach myself everything from YouTube at 2 AM](https://i.redd.it/2fygwnf148bh1.png)
+![Every single game I've ever loved...](https://i.redd.it/fb4791ziqebh1.png)
 
-<p align="right">greenmonkeyyyy<i> - My university charges $27K/year and I still had to teach myself everything from YouTube at 2 AM</i> - </p>
+<p align="right">greenmonkeyyyy<i> - Every single game I've ever loved...</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 5 de julio, 04:26 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de julio, 04:30 CEST </p>
