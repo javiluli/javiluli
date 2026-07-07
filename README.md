@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every single game I've ever loved...](https://i.redd.it/fb4791ziqebh1.png)
+![Maybe that's the reason it's famous](https://i.redd.it/4rx0lgdtmmbh1.png)
 
-<p align="right">greenmonkeyyyy<i> - Every single game I've ever loved...</i> - </p>
+<p align="right">PearAcceptable2841<i> - Maybe that's the reason it's famous</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 6 de julio, 04:30 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 7 de julio, 04:25 CEST - Día Mundial del Chocolate 🍫🤎 </p>
