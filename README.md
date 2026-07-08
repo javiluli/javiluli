@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Maybe that's the reason it's famous](https://i.redd.it/4rx0lgdtmmbh1.png)
+![Ready for a good time](https://i.redd.it/8re8eh254nbh1.gif)
 
-<p align="right">PearAcceptable2841<i> - Maybe that's the reason it's famous</i> - </p>
+<p align="right">Don_T_Beakunt45<i> - Ready for a good time</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 7 de julio, 04:25 CEST - Día Mundial del Chocolate 🍫🤎 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 8 de julio, 04:00 CEST </p>
