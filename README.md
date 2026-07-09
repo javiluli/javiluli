@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Ready for a good time](https://i.redd.it/8re8eh254nbh1.gif)
+![They would be so confused](https://i.redd.it/r5pvm1695tbh1.gif)
 
-<p align="right">Don_T_Beakunt45<i> - Ready for a good time</i> - </p>
+<p align="right">Large-Wheel-4181<i> - They would be so confused</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 8 de julio, 04:00 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de julio, 04:12 CEST </p>
