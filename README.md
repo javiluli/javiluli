@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They would be so confused](https://i.redd.it/r5pvm1695tbh1.gif)
+![Icons connected](https://i.redd.it/6txb1ry219ch1.png)
 
-<p align="right">Large-Wheel-4181<i> - They would be so confused</i> - </p>
+<p align="right">Phemian<i> - Icons connected</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 9 de julio, 04:12 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 10 de julio, 04:12 CEST </p>
