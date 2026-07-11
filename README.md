@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Icons connected](https://i.redd.it/6txb1ry219ch1.png)
+![Proof of Life](https://i.redd.it/shnlvxvzthch1.png)
 
-<p align="right">Phemian<i> - Icons connected</i> - </p>
+<p align="right">zackofalltrades198<i> - Proof of Life</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 10 de julio, 04:12 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de julio, 03:58 CEST </p>
