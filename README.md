@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Proof of Life](https://i.redd.it/shnlvxvzthch1.png)
+![The MEME IS EVOLVING! EVERYONE PANIC!](https://i.redd.it/ni1z0lcganch1.png)
 
-<p align="right">zackofalltrades198<i> - Proof of Life</i> - </p>
+<p align="right">EngMng<i> - The MEME IS EVOLVING! EVERYONE PANIC!</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 11 de julio, 03:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de julio, 04:01 CEST </p>
