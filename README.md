@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The MEME IS EVOLVING! EVERYONE PANIC!](https://i.redd.it/ni1z0lcganch1.png)
+![Then they think I'm joking but I'm being 100% serious](https://i.redd.it/xx63rb64ktch1.png)
 
-<p align="right">EngMng<i> - The MEME IS EVOLVING! EVERYONE PANIC!</i> - </p>
+<p align="right">SkyTalonstar<i> - Then they think I'm joking but I'm being 100% serious</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 12 de julio, 04:01 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 13 de julio, 04:03 CEST </p>
