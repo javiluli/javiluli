@@ -96,9 +96,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Then they think I'm joking but I'm being 100% serious](https://i.redd.it/xx63rb64ktch1.png)
+![I know I'm not the only one](https://i.redd.it/why9spx13zch1.png)
 
-<p align="right">SkyTalonstar<i> - Then they think I'm joking but I'm being 100% serious</i> - </p>
+<p align="right">Upstairs_Hearing_376<i> - I know I'm not the only one</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +118,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 13 de julio, 04:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 14 de julio, 03:49 CEST </p>
