@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![Create-Pipe-connector](https://img.shields.io/badge/Create_Pipe_connector-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Create-Pipe-connector)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![InstantXP](https://img.shields.io/badge/InstantXP-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/InstantXP)
 [![reddit-rplace-clone](https://img.shields.io/badge/reddit_rplace_clone-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/reddit-rplace-clone)
@@ -96,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I know I'm not the only one](https://i.redd.it/why9spx13zch1.png)
+![This has been on my mind since the game...](https://i.redd.it/dtay2yro49dh1.png)
 
-<p align="right">Upstairs_Hearing_376<i> - I know I'm not the only one</i> - </p>
+<p align="right">akindstranger96<i> - This has been on my mind since the game...</i> - </p>
 
 </td>
 </tr> 
@@ -118,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 14 de julio, 03:49 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 15 de julio, 03:45 CEST </p>
