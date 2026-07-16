@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This has been on my mind since the game...](https://i.redd.it/dtay2yro49dh1.png)
+![Sad but true 😭](https://i.redd.it/tbjysedenedh1.gif)
 
-<p align="right">akindstranger96<i> - This has been on my mind since the game...</i> - </p>
+<p align="right">Artistic_Corner6461<i> - Sad but true 😭</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 15 de julio, 03:45 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de julio, 03:56 CEST </p>
