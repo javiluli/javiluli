@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sad but true 😭](https://i.redd.it/tbjysedenedh1.gif)
+![It's actually insane how good everyone looks after](https://i.redd.it/gnjz9piv9fdh1.png)
 
-<p align="right">Artistic_Corner6461<i> - Sad but true 😭</i> - </p>
+<p align="right">StrengthFew5715<i> - It's actually insane how good everyone looks after</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 16 de julio, 03:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 17 de julio, 04:00 CEST - Día de la Justicia Internacional ⚖️🌐 </p>
