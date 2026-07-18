@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's actually insane how good everyone looks after](https://i.redd.it/gnjz9piv9fdh1.png)
+![Priorities of every game studio](https://i.redd.it/35fuyh6yysdh1.png)
 
-<p align="right">StrengthFew5715<i> - It's actually insane how good everyone looks after</i> - </p>
+<p align="right">greenmonkeyyyy<i> - Priorities of every game studio</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 17 de julio, 04:00 CEST - Día de la Justicia Internacional ⚖️🌐 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 18 de julio, 03:49 CEST - Día Internacional de Nelson Mandela 🌞🌍 </p>
