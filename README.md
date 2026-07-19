@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Priorities of every game studio](https://i.redd.it/35fuyh6yysdh1.png)
+![I just wanted banana bread](https://i.redd.it/aubd6flfl1eh1.png)
 
-<p align="right">greenmonkeyyyy<i> - Priorities of every game studio</i> - </p>
+<p align="right">TrustedGenius<i> - I just wanted banana bread</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 18 de julio, 03:49 CEST - Día Internacional de Nelson Mandela 🌞🌍 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de julio, 03:59 CEST </p>
