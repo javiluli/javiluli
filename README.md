@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I just wanted banana bread](https://i.redd.it/aubd6flfl1eh1.png)
+![Most Happy Person In The World (today)](https://i.redd.it/vpqwucq02aeh1.png)
 
-<p align="right">TrustedGenius<i> - I just wanted banana bread</i> - </p>
+<p align="right">killerstarkiller<i> - Most Happy Person In The World (today)</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 19 de julio, 03:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 20 de julio, 04:20 CEST </p>
