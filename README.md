@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Most Happy Person In The World (today)](https://i.redd.it/vpqwucq02aeh1.png)
+![Now you are tasting the same thing](https://i.redd.it/4mr0rke7d9eh1.png)
 
-<p align="right">killerstarkiller<i> - Most Happy Person In The World (today)</i> - </p>
+<p align="right">yousefthewisee<i> - Now you are tasting the same thing</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 20 de julio, 04:20 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 21 de julio, 03:58 CEST </p>
