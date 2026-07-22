@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Now you are tasting the same thing](https://i.redd.it/4mr0rke7d9eh1.png)
+![My Mom when i laugh at my phone](https://i.redd.it/h4ny2bomymeh1.png)
 
-<p align="right">yousefthewisee<i> - Now you are tasting the same thing</i> - </p>
+<p align="right">Minecrafter2509<i> - My Mom when i laugh at my phone</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 21 de julio, 03:58 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de julio, 03:57 CEST </p>
