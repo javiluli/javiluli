@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![My Mom when i laugh at my phone](https://i.redd.it/h4ny2bomymeh1.png)
+![happened to my buddy eric once](https://i.redd.it/rnlfauysgoeh1.gif)
 
-<p align="right">Minecrafter2509<i> - My Mom when i laugh at my phone</i> - </p>
+<p align="right">mannoshot<i> - happened to my buddy eric once</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 22 de julio, 03:57 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de julio, 04:04 CEST </p>
