@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![happened to my buddy eric once](https://i.redd.it/rnlfauysgoeh1.gif)
+![I ate avocado with rice this morning](https://i.redd.it/kwrip5hsvyeh1.png)
 
-<p align="right">mannoshot<i> - happened to my buddy eric once</i> - </p>
+<p align="right">CANNAAARD<i> - I ate avocado with rice this morning</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 23 de julio, 04:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de julio, 03:59 CEST </p>
