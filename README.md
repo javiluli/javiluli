@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I ate avocado with rice this morning](https://i.redd.it/kwrip5hsvyeh1.png)
+![It is a vicious unstoppable cycle that can only be broken by binge watching a show](https://i.redd.it/ps7guam5i3fh1.png)
 
-<p align="right">CANNAAARD<i> - I ate avocado with rice this morning</i> - </p>
+<p align="right">Waitingforlunch<i> - It is a vicious unstoppable cycle that can only be broken by binge watching a show</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 24 de julio, 03:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de julio, 03:59 CEST </p>
