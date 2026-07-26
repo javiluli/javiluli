@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It is a vicious unstoppable cycle that can only be broken by binge watching a show](https://i.redd.it/ps7guam5i3fh1.png)
+![I wouldn't be surprised if I see ts happening](https://i.redd.it/kckmc06pdefh1.gif)
 
-<p align="right">Waitingforlunch<i> - It is a vicious unstoppable cycle that can only be broken by binge watching a show</i> - </p>
+<p align="right">ersiwn<i> - I wouldn't be surprised if I see ts happening</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 25 de julio, 03:59 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 26 de julio, 04:04 CEST </p>
