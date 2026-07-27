@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I wouldn't be surprised if I see ts happening](https://i.redd.it/kckmc06pdefh1.gif)
+![Is there a pattern forming..?](https://i.redd.it/qxeu6307mnfh1.png)
 
-<p align="right">ersiwn<i> - I wouldn't be surprised if I see ts happening</i> - </p>
+<p align="right">slick987654321<i> - Is there a pattern forming..?</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 26 de julio, 04:04 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 27 de julio, 04:11 CEST </p>
