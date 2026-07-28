@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Is there a pattern forming..?](https://i.redd.it/qxeu6307mnfh1.png)
+![Inspired by recent events](https://i.redd.it/n28481ffjtfh1.png)
 
-<p align="right">slick987654321<i> - Is there a pattern forming..?</i> - </p>
+<p align="right">User_8395<i> - Inspired by recent events</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 27 de julio, 04:11 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de julio, 03:52 CEST </p>
