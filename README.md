@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Inspired by recent events](https://i.redd.it/n28481ffjtfh1.png)
+![Going all in with this one](https://i.redd.it/fow7g68t6yfh1.png)
 
-<p align="right">User_8395<i> - Inspired by recent events</i> - </p>
+<p align="right">Esdeath79<i> - Going all in with this one</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 28 de julio, 03:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de julio, 03:55 CEST </p>
