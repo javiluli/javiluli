@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Going all in with this one](https://i.redd.it/fow7g68t6yfh1.png)
+![Nothing builds character quite like watching your laptop restart before you saved anything.](https://i.redd.it/tr9xu10fd3gh1.png)
 
-<p align="right">Esdeath79<i> - Going all in with this one</i> - </p>
+<p align="right">MarioSSBU<i> - Nothing builds character quite like watching your laptop restart before you saved anything.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 29 de julio, 03:55 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 30 de julio, 03:47 CEST - Día Internacional de la Amistad 🌐🤝 </p>
