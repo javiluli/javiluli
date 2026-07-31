@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Nothing builds character quite like watching your laptop restart before you saved anything.](https://i.redd.it/tr9xu10fd3gh1.png)
+![Tranquilizer darts were invented in 1950, Zoo keepers in 1949:](https://i.redd.it/1wpjuegmodgh1.png)
 
-<p align="right">MarioSSBU<i> - Nothing builds character quite like watching your laptop restart before you saved anything.</i> - </p>
+<p align="right">Business-Ad7289<i> - Tranquilizer darts were invented in 1950, Zoo keepers in 1949:</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 30 de julio, 03:47 CEST - Día Internacional de la Amistad 🌐🤝 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 31 de julio, 04:05 CEST </p>
