@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Tranquilizer darts were invented in 1950, Zoo keepers in 1949:](https://i.redd.it/1wpjuegmodgh1.png)
+![Hurts to live right now](https://i.redd.it/v1g515v2fngh1.png)
 
-<p align="right">Business-Ad7289<i> - Tranquilizer darts were invented in 1950, Zoo keepers in 1949:</i> - </p>
+<p align="right">BlueBlur24<i> - Hurts to live right now</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 31 de julio, 04:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 1 de agosto, 04:06 CEST </p>
