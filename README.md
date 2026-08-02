@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Hurts to live right now](https://i.redd.it/v1g515v2fngh1.png)
+![Can't trust my own mind.](https://i.redd.it/p7ztn7zs7rgh1.gif)
 
-<p align="right">BlueBlur24<i> - Hurts to live right now</i> - </p>
+<p align="right">Bosstomb<i> - Can't trust my own mind.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 1 de agosto, 04:06 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 2 de agosto, 04:03 CEST </p>
