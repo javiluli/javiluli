@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Can't trust my own mind.](https://i.redd.it/p7ztn7zs7rgh1.gif)
+![Must. Fight. Urge.](https://i.redd.it/oxt4miykj1hh1.png)
 
-<p align="right">Bosstomb<i> - Can't trust my own mind.</i> - </p>
+<p align="right">fishead62<i> - Must. Fight. Urge.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 2 de agosto, 04:03 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 3 de agosto, 04:05 CEST </p>
