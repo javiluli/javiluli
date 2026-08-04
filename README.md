@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Must. Fight. Urge.](https://i.redd.it/oxt4miykj1hh1.png)
+![The math isn't mathing 📉🚫](https://i.redd.it/589jqsmry5hh1.png)
 
-<p align="right">fishead62<i> - Must. Fight. Urge.</i> - </p>
+<p align="right">HunterOther5442<i> - The math isn't mathing 📉🚫</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 3 de agosto, 04:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 4 de agosto, 03:51 CEST </p>
