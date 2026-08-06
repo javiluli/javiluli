@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Euphoria directors](https://i.redd.it/tzllz5jx36hh1.gif)
+![The math isn’t mathing](https://i.redd.it/sq9mzzeu1fhh1.png)
 
-<p align="right">TosserGear<i> - Euphoria directors</i> - </p>
+<p align="right">Elegant-Shop4564<i> - The math isn’t mathing</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 5 de agosto, 03:51 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 6 de agosto, 03:53 CEST </p>
