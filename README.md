@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The math isn’t mathing](https://i.redd.it/sq9mzzeu1fhh1.png)
+![Google is now killing Google Assistant, while Gemini still can't do shit](https://i.redd.it/4r0qtgr61nhh1.png)
 
-<p align="right">Elegant-Shop4564<i> - The math isn’t mathing</i> - </p>
+<p align="right">User_8395<i> - Google is now killing Google Assistant, while Gemini still can't do shit</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 6 de agosto, 03:53 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 7 de agosto, 04:15 CEST </p>
