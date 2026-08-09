@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Google is now killing Google Assistant, while Gemini still can't do shit](https://i.redd.it/4r0qtgr61nhh1.png)
+![Sandboxels moment.](https://i.redd.it/bbvmgs5dn7ih1.png)
 
-<p align="right">User_8395<i> - Google is now killing Google Assistant, while Gemini still can't do shit</i> - </p>
+<p align="right">I_Am_Salty1<i> - Sandboxels moment.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 7 de agosto, 04:15 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 9 de agosto, 03:07 CEST - Día Internacional de los Pueblos Indígenas 🌎🌿 </p>
