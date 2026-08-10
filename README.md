@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sandboxels moment.](https://i.redd.it/bbvmgs5dn7ih1.png)
+![Cinematic universe my ahh](https://i.redd.it/iojlgkdtz9ih1.gif)
 
-<p align="right">I_Am_Salty1<i> - Sandboxels moment.</i> - </p>
+<p align="right">Money_Tooth_3936<i> - Cinematic universe my ahh</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 9 de agosto, 03:07 CEST - Día Internacional de los Pueblos Indígenas 🌎🌿 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 10 de agosto, 03:09 CEST </p>
