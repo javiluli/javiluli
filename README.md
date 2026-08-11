@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Cinematic universe my ahh](https://i.redd.it/iojlgkdtz9ih1.gif)
+![Never seen a soldier survive two drones at once.](https://i.redd.it/fsumsbe6rbih1.png)
 
-<p align="right">Money_Tooth_3936<i> - Cinematic universe my ahh</i> - </p>
+<p align="right">Passenger707<i> - Never seen a soldier survive two drones at once.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 10 de agosto, 03:09 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 11 de agosto, 03:08 CEST </p>
