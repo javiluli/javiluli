@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Never seen a soldier survive two drones at once.](https://i.redd.it/fsumsbe6rbih1.png)
+![Me disassociating at work 20 mins into my shift](https://i.redd.it/ry8w01s0wtih1.gif)
 
-<p align="right">Passenger707<i> - Never seen a soldier survive two drones at once.</i> - </p>
+<p align="right">South_Ladder_2747<i> - Me disassociating at work 20 mins into my shift</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 11 de agosto, 03:08 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 12 de agosto, 03:15 CEST - Día Internacional de la Juventud 🎒🌏 </p>
