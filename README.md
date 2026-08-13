@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Me disassociating at work 20 mins into my shift](https://i.redd.it/ry8w01s0wtih1.gif)
+![Abuse goblins](https://i.redd.it/m82fa8mjy0jh1.png)
 
-<p align="right">South_Ladder_2747<i> - Me disassociating at work 20 mins into my shift</i> - </p>
+<p align="right">lessforf<i> - Abuse goblins</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 12 de agosto, 03:15 CEST - Día Internacional de la Juventud 🎒🌏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 13 de agosto, 03:17 CEST </p>
