@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Abuse goblins](https://i.redd.it/m82fa8mjy0jh1.png)
+![We did it, everyone.](https://i.redd.it/qw3zbah741jh1.png)
 
-<p align="right">lessforf<i> - Abuse goblins</i> - </p>
+<p align="right">guysitsausername<i> - We did it, everyone.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 13 de agosto, 03:17 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 14 de agosto, 03:16 CEST </p>
