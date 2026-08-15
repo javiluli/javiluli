@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We did it, everyone.](https://i.redd.it/qw3zbah741jh1.png)
+![typedhit. .](https://i.redd.it/rdh4p4p3z6jh1.gif)
 
-<p align="right">guysitsausername<i> - We did it, everyone.</i> - </p>
+<p align="right">ersiwn<i> - typedhit. .</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 14 de agosto, 03:16 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 15 de agosto, 02:49 CEST - Asunción de la Virgen 🌸🙏 </p>
