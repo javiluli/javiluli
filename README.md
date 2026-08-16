@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![typedhit. .](https://i.redd.it/rdh4p4p3z6jh1.gif)
+![Tough spot](https://i.redd.it/esuyo8tkrijh1.png)
 
-<p align="right">ersiwn<i> - typedhit. .</i> - </p>
+<p align="right">S-Tier_Commenter<i> - Tough spot</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 15 de agosto, 02:49 CEST - Asunción de la Virgen 🌸🙏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 16 de agosto, 02:51 CEST </p>
