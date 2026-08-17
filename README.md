@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Tough spot](https://i.redd.it/esuyo8tkrijh1.png)
+![UK weather be crazy at times](https://i.redd.it/sh66bfqfzqjh1.gif)
 
-<p align="right">S-Tier_Commenter<i> - Tough spot</i> - </p>
+<p align="right">Xx_Shini_xX<i> - UK weather be crazy at times</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 16 de agosto, 02:51 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 17 de agosto, 02:49 CEST </p>
