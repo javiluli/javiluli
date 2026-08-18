@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![UK weather be crazy at times](https://i.redd.it/sh66bfqfzqjh1.gif)
+![relatable af.](https://i.redd.it/jaj18jty2yjh1.png)
 
-<p align="right">Xx_Shini_xX<i> - UK weather be crazy at times</i> - </p>
+<p align="right">theguitarheros<i> - relatable af.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 17 de agosto, 02:49 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 18 de agosto, 02:47 CEST </p>
