@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Makes sense.](https://i.redd.it/3ldo1xu22yjh1.gif)
+![good ol times](https://i.redd.it/q1pr7hynq9kh1.png)
 
-<p align="right">Emotional_Proof1601<i> - Makes sense.</i> - </p>
+<p align="right">sudo_Unga_Bunga<i> - good ol times</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 19 de agosto, 02:48 CEST - Día Mundial de la Fotografía 📷🌄 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 20 de agosto, 02:47 CEST </p>
