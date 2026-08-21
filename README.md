@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![good ol times](https://i.redd.it/q1pr7hynq9kh1.png)
+![W Nintendo W Sega](https://i.redd.it/cc4hdq3qrdkh1.gif)
 
-<p align="right">sudo_Unga_Bunga<i> - good ol times</i> - </p>
+<p align="right">ersiwn<i> - W Nintendo W Sega</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 20 de agosto, 02:47 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 21 de agosto, 02:52 CEST </p>
