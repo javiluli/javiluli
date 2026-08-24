@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I didn't expect him to thank me in this way](https://i.redd.it/4jl8c11r5rkh1.png)
+![every Saturday](https://i.redd.it/gwsryqvspykh1.png)
 
-<p align="right">lion7verot<i> - I didn't expect him to thank me in this way</i> - </p>
+<p align="right">dorotehee<i> - every Saturday</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 23 de agosto, 02:53 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 24 de agosto, 02:51 CEST </p>
