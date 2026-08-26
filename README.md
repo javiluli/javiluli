@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How dare they ask for money for their work!](https://i.redd.it/f62z2ok7galh1.png)
+![You are wonderful!!](https://i.redd.it/pnwq3281uilh1.png)
 
-<p align="right">ThyLambIsMurder<i> - How dare they ask for money for their work!</i> - </p>
+<p align="right">Lamp6511<i> - You are wonderful!!</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 25 de agosto, 02:50 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 26 de agosto, 02:51 CEST - Día Internacional del Perro 🐾❤️ </p>
