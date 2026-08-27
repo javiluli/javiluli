@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![You are wonderful!!](https://i.redd.it/pnwq3281uilh1.png)
+![POV You paid for Youtube Premium:](https://i.redd.it/uaq0n7rcwnlh1.png)
 
-<p align="right">Lamp6511<i> - You are wonderful!!</i> - </p>
+<p align="right">happygoluckynny<i> - POV You paid for Youtube Premium:</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 26 de agosto, 02:51 CEST - Día Internacional del Perro 🐾❤️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 27 de agosto, 08:31 CEST </p>
