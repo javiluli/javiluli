@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![POV You paid for Youtube Premium:](https://i.redd.it/uaq0n7rcwnlh1.png)
+![Why is everyone treat the word like this](https://i.redd.it/5h9c08hi18mh1.png)
 
-<p align="right">happygoluckynny<i> - POV You paid for Youtube Premium:</i> - </p>
+<p align="right">Seyran_Bruh228<i> - Why is everyone treat the word like this</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 27 de agosto, 08:31 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 30 de agosto, 04:52 CEST </p>
