@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Why is everyone treat the word like this](https://i.redd.it/5h9c08hi18mh1.png)
+![it's even worse when you already died many times prior](https://i.redd.it/coazzjs7wimh1.png)
 
-<p align="right">Seyran_Bruh228<i> - Why is everyone treat the word like this</i> - </p>
+<p align="right">Ancient-Opposite-123<i> - it's even worse when you already died many times prior</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 30 de agosto, 04:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 31 de agosto, 04:45 CEST </p>
