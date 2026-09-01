@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![it's even worse when you already died many times prior](https://i.redd.it/coazzjs7wimh1.png)
+![Is it over yet ? 🫩](https://i.redd.it/8o0of5mlmsmh1.gif)
 
-<p align="right">Ancient-Opposite-123<i> - it's even worse when you already died many times prior</i> - </p>
+<p align="right">CinemaAndChillLT<i> - Is it over yet ? 🫩</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 31 de agosto, 04:45 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 1 de septiembre, 04:56 CEST </p>
