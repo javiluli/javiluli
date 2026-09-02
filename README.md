@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Is it over yet ? 🫩](https://i.redd.it/8o0of5mlmsmh1.gif)
+![me every month](https://i.redd.it/uufitihntwmh1.png)
 
-<p align="right">CinemaAndChillLT<i> - Is it over yet ? 🫩</i> - </p>
+<p align="right">dorotehee<i> - me every month</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 1 de septiembre, 04:56 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 2 de septiembre, 04:17 CEST </p>
