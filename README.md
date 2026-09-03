@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![me every month](https://i.redd.it/uufitihntwmh1.png)
+![Write! Write! Write!](https://i.redd.it/z8afcr0ieymh1.gif)
 
-<p align="right">dorotehee<i> - me every month</i> - </p>
+<p align="right">DanieleMemoli<i> - Write! Write! Write!</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 2 de septiembre, 04:17 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 3 de septiembre, 04:24 CEST </p>
