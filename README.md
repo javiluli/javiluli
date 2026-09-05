@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![In light of recent events, this one's for you buddy](https://i.redd.it/nk3l66di56nh1.png)
+![Adulting sucks](https://i.redd.it/by6qx1z8qlnh1.gif)
 
-<p align="right">jamiro11<i> - In light of recent events, this one's for you buddy</i> - </p>
+<p align="right">Dramatic221<i> - Adulting sucks</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 4 de septiembre, 04:21 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 5 de septiembre, 04:20 CEST </p>
