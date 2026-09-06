@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Adulting sucks](https://i.redd.it/by6qx1z8qlnh1.gif)
+![They try their best](https://i.redd.it/k4swpfwaojnh1.gif)
 
-<p align="right">Dramatic221<i> - Adulting sucks</i> - </p>
+<p align="right">Dramatic221<i> - They try their best</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 5 de septiembre, 04:20 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de septiembre, 04:15 CEST </p>
