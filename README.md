@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They try their best](https://i.redd.it/k4swpfwaojnh1.gif)
+![Where is the color at?](https://i.redd.it/i522mp55xpnh1.png)
 
-<p align="right">Dramatic221<i> - They try their best</i> - </p>
+<p align="right">Jealous-Spread-1178<i> - Where is the color at?</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 6 de septiembre, 04:15 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 7 de septiembre, 04:13 CEST </p>
