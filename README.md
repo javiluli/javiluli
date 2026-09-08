@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Where is the color at?](https://i.redd.it/i522mp55xpnh1.png)
+![Do fish smokes?](https://i.redd.it/c77bj97t1wnh1.png)
 
-<p align="right">Jealous-Spread-1178<i> - Where is the color at?</i> - </p>
+<p align="right">Eissa_E<i> - Do fish smokes?</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 7 de septiembre, 04:13 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 8 de septiembre, 04:25 CEST - Día Internacional de la Alfabetización 📚🌐 </p>
