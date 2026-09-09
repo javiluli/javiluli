@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Do fish smokes?](https://i.redd.it/c77bj97t1wnh1.png)
+![Phthalates and solvents incoming](https://i.redd.it/wvpzwnox7boh1.png)
 
-<p align="right">Eissa_E<i> - Do fish smokes?</i> - </p>
+<p align="right">Franki3GS<i> - Phthalates and solvents incoming</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 8 de septiembre, 04:25 CEST - Día Internacional de la Alfabetización 📚🌐 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 9 de septiembre, 04:27 CEST </p>
