@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Some of them are insufferable](https://i.redd.it/895ooo9zcioh1.gif)
+![The 3 Stages of Taking a Shower](https://i.redd.it/9ehlnxabhloh1.png)
 
-<p align="right">Laylow_chips<i> - Some of them are insufferable</i> - </p>
+<p align="right">flawed_plan<i> - The 3 Stages of Taking a Shower</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 10 de septiembre, 04:28 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 11 de septiembre, 04:22 CEST </p>
