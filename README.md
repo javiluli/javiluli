@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The 3 Stages of Taking a Shower](https://i.redd.it/9ehlnxabhloh1.png)
+![Sony is into some weird things nowadays](https://i.redd.it/8tao3atxnzoh1.png)
 
-<p align="right">flawed_plan<i> - The 3 Stages of Taking a Shower</i> - </p>
+<p align="right">RemoveAnnual2689<i> - Sony is into some weird things nowadays</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 11 de septiembre, 04:22 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 12 de septiembre, 04:30 CEST </p>
