@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Sony is into some weird things nowadays](https://i.redd.it/8tao3atxnzoh1.png)
+![So this is actually a problem (i posted it in anti meme and some people told me it's a meme)](https://i.redd.it/64cz06relvoh1.png)
 
-<p align="right">RemoveAnnual2689<i> - Sony is into some weird things nowadays</i> - </p>
+<p align="right">Don_Antofa<i> - So this is actually a problem (i posted it in anti meme and some people told me it's a meme)</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 12 de septiembre, 04:30 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de septiembre, 04:28 CEST </p>
