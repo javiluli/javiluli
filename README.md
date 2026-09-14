@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![So this is actually a problem (i posted it in anti meme and some people told me it's a meme)](https://i.redd.it/64cz06relvoh1.png)
+![I wouldn't be surprised if I see ts happening I am serious](https://i.redd.it/vr34z5x3waph1.gif)
 
-<p align="right">Don_Antofa<i> - So this is actually a problem (i posted it in anti meme and some people told me it's a meme)</i> - </p>
+<p align="right">OnionAffectionate737<i> - I wouldn't be surprised if I see ts happening I am serious</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 13 de septiembre, 04:28 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 14 de septiembre, 04:45 CEST </p>
