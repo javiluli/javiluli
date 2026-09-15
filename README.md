@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I wouldn't be surprised if I see ts happening I am serious](https://i.redd.it/vr34z5x3waph1.gif)
+![​I used to own three white shirts](https://i.redd.it/1bo6ww4p0jph1.png)
 
-<p align="right">OnionAffectionate737<i> - I wouldn't be surprised if I see ts happening I am serious</i> - </p>
+<p align="right">feeling_motivated<i> - ​I used to own three white shirts</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 14 de septiembre, 04:45 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 15 de septiembre, 04:48 CEST - Día Internacional de la Democracia 🌍🗳️ </p>
