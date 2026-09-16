@@ -1,4 +1,4 @@
-// Fallar explícitamente evita sobrescribir el README con datos incompletos si una API no responde.
+// Una respuesta fallida debe detener la generación para no publicar datos incompletos.
 const fetchJson = async (url) => {
   const response = await fetch(url, { signal: AbortSignal.timeout(15000) })
   if (!response.ok) throw new Error(`HTTP ${response.status} fetching ${url}`)
@@ -11,14 +11,6 @@ export const getRepositoriesData = async () => {
 
   return data.map(({ name, html_url, archived }) => ({ name, html_url, archived }))
 }
-
-export const getShieldsSkills = (shields) =>
-  shields.map(({ message, iconName, labelColor, logoColor }) => ({
-    message,
-    iconName,
-    labelColor,
-    logoColor,
-  }))
 
 export const getMemeResource = async () => {
   const data = await fetchJson('https://meme-api.com/gimme/memes')

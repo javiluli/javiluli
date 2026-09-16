@@ -2,7 +2,7 @@
   "name": "javiluli",
   "version": "1.0.0",
   "description": "README personalizado para la pagina del perfil de GitHub",
-  "main": "index.js",
+  "private": true,
   "type": "module",
   "scripts": {
     "update-readme": "node src/index.js",

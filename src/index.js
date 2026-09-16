@@ -1,26 +1,20 @@
-'use strict'
-
-import { promises as fs } from 'fs'
-import { PLACEHOLDERS } from './constants/index.js'
+import { readFile, writeFile } from 'node:fs/promises'
 import { MAIN_SKILLS, COMPETENCES_TRAIN } from './data/badges.js'
 import { HOLIDAYS } from './data/holidays.js'
-import { getRepositoriesData, getShieldsSkills, getMemeResource } from './services/index.js'
-import { time } from './utils/index.js'
+import { getRepositoriesData, getMemeResource } from './services.js'
+import { formatDate } from './date.js'
 
 const generateBadgeByGithubRepos = ({ name, html_url, archived }) => {
-  const title = name
-  const normalizeTitle = title.replaceAll('-', '_')
-  const url = html_url
-  const labelColor = !archived ? '28A745' : 'FFA500'
+  const labelColor = archived ? 'FFA500' : '28A745'
 
   return `
-[![${title}](https://img.shields.io/badge/${normalizeTitle}-${labelColor}.svg?style=flat-square&logo=github&logoColor=000000)](${url})`
+[![${name}](https://img.shields.io/badge/${name.replaceAll('-', '_')}-${labelColor}.svg?style=flat-square&logo=github&logoColor=000000)](${html_url})`
 }
 
 const generateBadgeBySkills = ({ message, iconName, labelColor, logoColor }) => `
 [![${message}](https://img.shields.io/badge/${message}-${labelColor}.svg?style=flat-square&logo=${iconName}&logoColor=${logoColor})](#)`
 
-const generateRedditMemeSections = ({ title, url, author }) => `
+const generateRedditMemeSection = ({ title, url, author }) => `
 <h2>
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
@@ -30,15 +24,9 @@ const generateRedditMemeSections = ({ title, url, author }) => `
 <p align="right">${author}<i> - ${title}</i> - </p>
 `
 
-const generateDateHolidays = () => {
-  return time(HOLIDAYS)
-}
-
 const generateSectionContent = async () => {
-  const [template, mainSkills, competencesTrain, meme, repos] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', 'utf-8'),
-    getShieldsSkills(MAIN_SKILLS),
-    getShieldsSkills(COMPETENCES_TRAIN),
+  const [template, meme, repos] = await Promise.all([
+    readFile('./src/README.md.tpl', 'utf-8'),
     getMemeResource(),
     getRepositoriesData(),
   ])
@@ -46,11 +34,11 @@ const generateSectionContent = async () => {
   return {
     template,
     sections: {
-      [PLACEHOLDERS.LATEST_REPOS]: repos.map(generateBadgeByGithubRepos).join(''),
-      [PLACEHOLDERS.MAIN_SKILLS_BADGE]: mainSkills.map(generateBadgeBySkills).join(''),
-      [PLACEHOLDERS.COMPETENCES_TRAIN_BADGE]: competencesTrain.map(generateBadgeBySkills).join(''),
-      [PLACEHOLDERS.REDDIT_MEME]: generateRedditMemeSections(meme),
-      [PLACEHOLDERS.DATE]: generateDateHolidays(),
+      '%{{latest_repos}}%': repos.map(generateBadgeByGithubRepos).join(''),
+      '%{{main_skills_badge}}%': MAIN_SKILLS.map(generateBadgeBySkills).join(''),
+      '%{{competences_train_badge}}%': COMPETENCES_TRAIN.map(generateBadgeBySkills).join(''),
+      '%{{reddit_meme}}%': generateRedditMemeSection(meme),
+      '%{{date}}%': formatDate(HOLIDAYS),
     },
   }
 }
@@ -58,13 +46,12 @@ const generateSectionContent = async () => {
 const applyPlaceholders = ({ template, sections }) =>
   Object.entries(sections).reduce((content, [placeholder, value]) => content.replace(placeholder, value), template)
 
-;(async () => {
-  try {
-    const { template, sections } = await generateSectionContent()
-    const newMarkdown = applyPlaceholders({ template, sections })
-    await fs.writeFile('README.md', newMarkdown)
-  } catch (error) {
-    console.error('Error generating README:', error)
-    process.exitCode = 1 // GitHub Actions debe detectar el fallo y conservar el README anterior.
-  }
-})()
+const main = async () => {
+  const { template, sections } = await generateSectionContent()
+  await writeFile('README.md', applyPlaceholders({ template, sections }))
+}
+
+main().catch((error) => {
+  console.error('Error generating README:', error)
+  process.exitCode = 1 // Conservar el README anterior si falla alguna API.
+})

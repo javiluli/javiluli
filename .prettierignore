@@ -1,4 +1,3 @@
 README.md
-main.yml
-snake.yml
-wakatime.yml
+.github/workflows/main.yml
+.github/workflows/wakatime.yml
