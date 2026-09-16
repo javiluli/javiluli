@@ -3,7 +3,14 @@ name: Update Wakatime Charts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *" # Daily at 01:00 UTC
+    - cron: '0 1 * * *' # Antes del README, en UTC.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-writes
+  cancel-in-progress: false
 
 jobs:
   update-readme:
@@ -13,5 +20,5 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BRANCH: "master"
-          COMMIT_MESSAGE: ":bar_chart: Updated the Graph with new Metrics"
+          BRANCH: 'master'
+          COMMIT_MESSAGE: ':bar_chart: Updated the Graph with new Metrics'
