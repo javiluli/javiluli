@@ -1,60 +1,83 @@
+<div align="center">
 
-<h1 align="center">
-¡Buenas<img src="./images/emojis/waving_hand.png" alt="👋" width="25" height="25" />! Soy Javier <img src="./images/emojis/beaming_face_with_smiling_eyes.png" alt="👋" width="25" height="25" />
-</h1>
+# ¡Buenas! Soy Javier 👋
 
-## <img src="./images/emojis/star.png" alt="🌟" width="25" height="25" /> Mis principales habilidades y aptitudes
-%{{main_skills_badge}}%
+Desarrollo proyectos para aprender, resolver problemas y compartir herramientas útiles. Me interesan el desarrollo web, Java y crear utilidades para videojuegos.
 
-## <img src="./images/emojis/man_lifting_weights_light_skin_tone.png" alt="🏋️‍♂️" width="25" height="25" /> Competencias que entreno
-%{{competences_train_badge}}%
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/javiluli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-delgado-rodriguez-165910331)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:javiluli.dev@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+### [Create: Pipe Connector](https://github.com/javiluli/Create-Pipe-connector)
+
+Complemento para Minecraft Create que permite planificar, previsualizar y colocar rutas de tuberías, con anclajes y opciones de construcción. Disponible para Forge y NeoForge.
+
+**Tecnologías:** Java · Minecraft · Forge / NeoForge  
+[Repositorio](https://github.com/javiluli/Create-Pipe-connector) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-pipe-connector) · [Modrinth](https://modrinth.com/mod/create-pipe-connector)
+
+### [StarRupture Planner](https://github.com/javiluli/starrupture-planner)
+
+Planificador de producción para calcular máquinas, recursos y líneas de suministro, con un mapa visual de los flujos y métricas de energía y calor.
+
+**Tecnologías:** React · TypeScript · Vite · React Flow  
+[Repositorio](https://github.com/javiluli/starrupture-planner)
+
+<img src="https://raw.githubusercontent.com/javiluli/starrupture-planner/master/public/assets/examples/example_HeatResistantSheet_with_supply.jpg" alt="Vista del planificador de producción de StarRupture con suministro externo" width="680" />
 
 <details>
-  <summary> <img src="./images/emojis/bullseye.png" alt="🎯" width="25" height="25" /> Mis proyectos personales </summary>
+<summary>📚 Más repositorios actualizados recientemente</summary>
 
-- [ ] Completar todos los retos de [frontendmentor.io](https://www.frontendmentor.io/challenges)
-- [ ] Rehacer el proyecto [una-galeria-mas](https://github.com/javiluli/una-galeria-mas)
-- [ ] Rehacer el programa de [java-array-sort-visualizer](https://github.com/javiluli/java-array-sort-visualizer)
-- [ ] Customizar el CSS de mi perfil de [CodePen](https://codepen.io/javiluli_dev)
-- [ ] Rehacer mi [CV web](https://javiluli.github.io/my-online-cv/) como porfolio con `Astro`.
-- [ ] Crear un Bot con `Discord.js`.
-- [ ] Crear una aplicación que utilice [Socket.IO](https://socket.io/)
+%{{latest_repos}}%
+
+[Ver todos mis repositorios](https://github.com/javiluli?tab=repositories)
 
 </details>
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
-<h2> <img src="./images/emojis/bar_chart.png" alt="📊" width="25" height="25" /> Mis estadísticas en GitHub </h2>
+## 🛠️ Tecnologías y herramientas
+
+%{{main_skills_badge}}%
+
+<details>
+<summary>Otras herramientas que estoy explorando</summary>
+
+%{{competences_train_badge}}%
+
+</details>
+
+## 📊 Actividad de desarrollo
+
+Estadísticas semanales de lenguajes registradas por WakaTime (reflejan tiempo registrado, no dominio de cada tecnología).
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats.svg">
-<img src="https://github.com/javiluli/javiluli/blob/master/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/wakatime_weekly_language_stats_black.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/wakatime_weekly_language_stats.svg" />
+  <img src="./images/wakatime_weekly_language_stats_black.svg" alt="Estadísticas semanales de lenguajes de WakaTime" width="540" />
 </picture>
 
-<h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
-%{{latest_repos}}%
+## 🎮 Un rincón más personal
 
-</td>
-<td valign="top" width="50%">
+<details>
+<summary>👾 Mi juego de contribuciones de GitHub</summary>
+
+<img src="./game.gif" alt="Animación de un juego espacial basado en las contribuciones de GitHub" width="680" />
+
+</details>
+
+<details>
+<summary>😄 Un meme diario de Reddit</summary>
+
 %{{reddit_meme}}%
-</td>
-</tr> 
-</table>
 
-![My GitHub Game](game.gif)
-
-<h2>
-<img src="./images/emojis/globe_with_meridians.png" alt="🌐" width="25" height="25" /> Donde encontrarme
-</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/javier-delgado-rodriguez-165910331" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:javiluli.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/></a>
-<a href="https://discord.gg/YCfxzd6krh" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"/></a>
-<a href="https://codepen.io/javiluli_dev" target="_blank"><img src="https://img.shields.io/badge/codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="CodePen"/></a>
-</p>
+</details>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: %{{date}}% </p>
+
+**📬 También puedes encontrarme en** [CodePen](https://codepen.io/javiluli_dev) · [LinkedIn](https://www.linkedin.com/in/javier-delgado-rodriguez-165910331) · [Discord](https://discord.gg/YCfxzd6krh).
+
+<p align="center"><sub>README generado automáticamente · Última actualización: %{{date}}%</sub></p>
