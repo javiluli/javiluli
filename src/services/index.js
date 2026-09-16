@@ -1,14 +1,15 @@
-import fetch from 'node-fetch'
+// Fallar explícitamente evita sobrescribir el README con datos incompletos si una API no responde.
+const fetchJson = async (url) => {
+  const response = await fetch(url, { signal: AbortSignal.timeout(15000) })
+  if (!response.ok) throw new Error(`HTTP ${response.status} fetching ${url}`)
+  return response.json()
+}
 
 export const getRepositoriesData = async () => {
-  try {
-    const response = await fetch('https://api.github.com/users/javiluli/repos?sort=created')
-    const data = await response.json()
+  const data = await fetchJson('https://api.github.com/users/javiluli/repos?sort=created')
+  if (!Array.isArray(data)) throw new Error('Invalid GitHub repositories response')
 
-    return data.map(({ name, html_url, archived }) => ({ name, html_url, archived }))
-  } catch (error) {
-    console.error('Error fetching github repositories:', error)
-  }
+  return data.map(({ name, html_url, archived }) => ({ name, html_url, archived }))
 }
 
 export const getShieldsSkills = (shields) =>
@@ -20,12 +21,10 @@ export const getShieldsSkills = (shields) =>
   }))
 
 export const getMemeResource = async () => {
-  try {
-    const response = await fetch('https://meme-api.com/gimme/memes')
-    const data = await response.json()
-
-    return { title: data.title, url: data.url, author: data.author }
-  } catch (error) {
-    console.error('Error fetching meme:', error)
+  const data = await fetchJson('https://meme-api.com/gimme/memes')
+  if (!data || typeof data.title !== 'string' || typeof data.url !== 'string' || typeof data.author !== 'string' || !/^https?:\/\//.test(data.url)) {
+    throw new Error('Invalid Reddit meme response')
   }
+
+  return { title: data.title, url: data.url, author: data.author }
 }
