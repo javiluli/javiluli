@@ -33,14 +33,14 @@ Planificador de producción para calcular máquinas, recursos y líneas de sumin
 <details>
 <summary>📚 Más repositorios actualizados recientemente</summary>
 
-- [Create-Pipe-connector](https://github.com/javiluli/Create-Pipe-connector)
 - [starrupture-planner](https://github.com/javiluli/starrupture-planner)
 - [InstantXP](https://github.com/javiluli/InstantXP)
-- [reddit-rplace-clone](https://github.com/javiluli/reddit-rplace-clone)
-- [Beacon-Material-Scaling](https://github.com/javiluli/Beacon-Material-Scaling)
-- [Copper-Beacon](https://github.com/javiluli/Copper-Beacon)
+- [Create-Pipe-connector](https://github.com/javiluli/Create-Pipe-connector)
 - [Extended-Beacon-Range](https://github.com/javiluli/Extended-Beacon-Range)
-- [Smart-hopper](https://github.com/javiluli/Smart-hopper)
+- [react-component-display](https://github.com/javiluli/react-component-display)
+- [reddit-rplace-clone](https://github.com/javiluli/reddit-rplace-clone)
+- [resolved-frontendmentor-challenges](https://github.com/javiluli/resolved-frontendmentor-challenges)
+- [array-sort-visualizer-V2](https://github.com/javiluli/array-sort-visualizer-V2)
 
 [Ver todos mis repositorios](https://github.com/javiluli?tab=repositories)
 
@@ -79,9 +79,9 @@ Estadísticas semanales de lenguajes registradas por WakaTime (reflejan tiempo r
 <details>
 <summary>😄 Un meme diario de Reddit</summary>
 
-<p><img src="https://i.redd.it/s2irxbjsnoph1.png" alt="It do be like that" width="600" /></p>
+<p><img src="https://i.redd.it/ivmyic1jbmph1.gif" alt="Respectfully, shut up" width="600" /></p>
 
-<sub>Compartido por Dimitsos en Reddit · It do be like that</sub>
+<sub>Compartido por Until_I_Collapse en Reddit · Respectfully, shut up</sub>
 
 </details>
 
@@ -89,4 +89,4 @@ Estadísticas semanales de lenguajes registradas por WakaTime (reflejan tiempo r
 
 **📬 También puedes encontrarme en** [CodePen](https://codepen.io/javiluli_dev) · [LinkedIn](https://www.linkedin.com/in/javier-delgado-rodriguez-165910331) · [Discord](https://discord.gg/YCfxzd6krh).
 
-<p align="center"><sub>README generado automáticamente · Última actualización: Miércoles, 16 de septiembre, 12:00 CEST</sub></p>
+<p align="center"><sub>README generado automáticamente · Última actualización: Miércoles, 16 de septiembre, 12:18 CEST - Día de la Independencia de México 🇲🇽🎉</sub></p>
