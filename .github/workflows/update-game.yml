@@ -2,21 +2,18 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Después de la actualización del README, en UTC.
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
-
-concurrency:
-  group: profile-writes
-  cancel-in-progress: false
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

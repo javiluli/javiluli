@@ -1,19 +1,29 @@
 {
   "name": "javiluli",
   "version": "1.0.0",
-  "private": true,
-  "description": "README personalizado para el perfil de GitHub",
+  "description": "README personalizado para la pagina del perfil de GitHub",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "update-readme": "node src/index.js",
-    "test": "node --test"
-  },
-  "engines": {
-    "node": ">=24"
+    "update-readme": "node src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/javiluli/javiluli.git"
   },
-  "license": "ISC"
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme",
+    "github actions"
+  ],
+  "author": "Javier Delgado Rodriguez <javiluli.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiluli/javiluli/issues"
+  },
+  "homepage": "https://github.com/javiluli/javiluli#readme",
+  "dependencies": {
+    "node-fetch": "3.3.2"
+  }
 }
