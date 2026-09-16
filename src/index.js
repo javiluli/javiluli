@@ -11,16 +11,16 @@ const generateBadgeByGithubRepos = ({ name, html_url, archived }) => {
   const title = name
   const normalizeTitle = title.replaceAll('-', '_')
   const url = html_url
-  const laberlColor = !archived ? '28A745' : 'FFA500'
+  const labelColor = !archived ? '28A745' : 'FFA500'
 
   return `
-[![${title}](https://img.shields.io/badge/${normalizeTitle}-${laberlColor}.svg?style=flat-square&logo=github&logoColor=000000)](${url})`
+[![${title}](https://img.shields.io/badge/${normalizeTitle}-${labelColor}.svg?style=flat-square&logo=github&logoColor=000000)](${url})`
 }
 
 const generateBadgeBySkills = ({ message, iconName, labelColor, logoColor }) => `
 [![${message}](https://img.shields.io/badge/${message}-${labelColor}.svg?style=flat-square&logo=${iconName}&logoColor=${logoColor})](#)`
 
-const generateRedditMemeSecctions = ({ title, url, author }) => `
+const generateRedditMemeSections = ({ title, url, author }) => `
 <h2>
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
@@ -49,7 +49,7 @@ const generateSectionContent = async () => {
       [PLACEHOLDERS.LATEST_REPOS]: repos.map(generateBadgeByGithubRepos).join(''),
       [PLACEHOLDERS.MAIN_SKILLS_BADGE]: mainSkills.map(generateBadgeBySkills).join(''),
       [PLACEHOLDERS.COMPETENCES_TRAIN_BADGE]: competencesTrain.map(generateBadgeBySkills).join(''),
-      [PLACEHOLDERS.REDDIT_MEME]: generateRedditMemeSecctions(meme),
+      [PLACEHOLDERS.REDDIT_MEME]: generateRedditMemeSections(meme),
       [PLACEHOLDERS.DATE]: generateDateHolidays(),
     },
   }
@@ -65,5 +65,6 @@ const applyPlaceholders = ({ template, sections }) =>
     await fs.writeFile('README.md', newMarkdown)
   } catch (error) {
     console.error('Error generating README:', error)
+    process.exitCode = 1 // GitHub Actions debe detectar el fallo y conservar el README anterior.
   }
 })()
