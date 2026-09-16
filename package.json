@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "update-readme": "node src/index.js"
+    "update-readme": "node src/index.js",
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -22,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/javiluli/javiluli/issues"
   },
-  "homepage": "https://github.com/javiluli/javiluli#readme",
-  "dependencies": {
-    "node-fetch": "3.3.2"
-  }
+  "homepage": "https://github.com/javiluli/javiluli#readme"
 }
