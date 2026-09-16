@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: '0 0 * * *' # Daily at 00:00 UTC
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,14 +19,19 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '16.x'
+          node-version: '24'
 
-      - run: npm install
+      - run: npm ci
+      - run: npm test
       - run: npm run update-readme
 
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m ":robot: Update README with latest info"
-          git push origin master
+          if git diff --cached --quiet; then
+            echo "README unchanged"
+          else
+            git commit -m ":robot: Update README with latest info"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
