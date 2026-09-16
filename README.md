@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![​I used to own three white shirts](https://i.redd.it/1bo6ww4p0jph1.png)
+![It do be like that](https://i.redd.it/s2irxbjsnoph1.png)
 
-<p align="right">feeling_motivated<i> - ​I used to own three white shirts</i> - </p>
+<p align="right">Dimitsos<i> - It do be like that</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 15 de septiembre, 04:48 CEST - Día Internacional de la Democracia 🌍🗳️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de septiembre, 04:43 CEST - Día de la Independencia de México 🇲🇽🎉 </p>
