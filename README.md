@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It do be like that](https://i.redd.it/s2irxbjsnoph1.png)
+![Delusional](https://i.redd.it/wxzejs8d1qph1.png)
 
-<p align="right">Dimitsos<i> - It do be like that</i> - </p>
+<p align="right">Temporal_Bloom<i> - Delusional</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de septiembre, 04:43 CEST - Día de la Independencia de México 🇲🇽🎉 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de septiembre, 12:19 CEST - Día de la Independencia de México 🇲🇽🎉 </p>
