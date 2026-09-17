@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Delusional](https://i.redd.it/wxzejs8d1qph1.png)
+![Every company I've worked for](https://i.redd.it/b1hwyx6mizph1.png)
 
-<p align="right">Temporal_Bloom<i> - Delusional</i> - </p>
+<p align="right">PressureCalm7971<i> - Every company I've worked for</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 16 de septiembre, 12:19 CEST - Día de la Independencia de México 🇲🇽🎉 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 17 de septiembre, 05:44 CEST </p>
