@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every company I've worked for](https://i.redd.it/b1hwyx6mizph1.png)
+![I mean, a wise one doesn't mind her being older.](https://i.redd.it/ep5705najvph1.png)
 
-<p align="right">PressureCalm7971<i> - Every company I've worked for</i> - </p>
+<p align="right">saysomethingplesz<i> - I mean, a wise one doesn't mind her being older.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 17 de septiembre, 05:44 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 18 de septiembre, 05:30 CEST </p>
