@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I mean, a wise one doesn't mind her being older.](https://i.redd.it/ep5705najvph1.png)
+![The Ice Stinky Pete meme, but with Dark Ice Bowser instead.](https://i.redd.it/zntzlp6cndqh1.png)
 
-<p align="right">saysomethingplesz<i> - I mean, a wise one doesn't mind her being older.</i> - </p>
+<p align="right">Turbulent-Thing3104<i> - The Ice Stinky Pete meme, but with Dark Ice Bowser instead.</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 18 de septiembre, 05:30 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 19 de septiembre, 05:27 CEST </p>
