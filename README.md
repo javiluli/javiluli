@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The Ice Stinky Pete meme, but with Dark Ice Bowser instead.](https://i.redd.it/zntzlp6cndqh1.png)
+![Im tired boss](https://i.redd.it/spl7qrwidfqh1.png)
 
-<p align="right">Turbulent-Thing3104<i> - The Ice Stinky Pete meme, but with Dark Ice Bowser instead.</i> - </p>
+<p align="right">Special-Progress-916<i> - Im tired boss</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 19 de septiembre, 05:27 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 20 de septiembre, 05:43 CEST </p>
