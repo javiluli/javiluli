@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Im tired boss](https://i.redd.it/spl7qrwidfqh1.png)
+![POV microwave](https://i.redd.it/km0l7bxtcpqh1.png)
 
-<p align="right">Special-Progress-916<i> - Im tired boss</i> - </p>
+<p align="right">rr770<i> - POV microwave</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 20 de septiembre, 05:43 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 21 de septiembre, 05:39 CEST - Día Internacional de la Paz 🕊️🌎 </p>
