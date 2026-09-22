@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![POV microwave](https://i.redd.it/km0l7bxtcpqh1.png)
+![Every company right now](https://i.redd.it/z0jw13s6joqh1.png)
 
-<p align="right">rr770<i> - POV microwave</i> - </p>
+<p align="right">Mediocre_Nail5526<i> - Every company right now</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 21 de septiembre, 05:39 CEST - Día Internacional de la Paz 🕊️🌎 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 22 de septiembre, 05:38 CEST </p>
