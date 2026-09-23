@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Every company right now](https://i.redd.it/z0jw13s6joqh1.png)
+![It be like that sometimes](https://i.redd.it/khlpjaxy1xqh1.gif)
 
-<p align="right">Mediocre_Nail5526<i> - Every company right now</i> - </p>
+<p align="right">Parker1055<i> - It be like that sometimes</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 22 de septiembre, 05:38 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 23 de septiembre, 05:37 CEST </p>
