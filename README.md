@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It be like that sometimes](https://i.redd.it/khlpjaxy1xqh1.gif)
+![Passing the torch 😊](https://i.redd.it/nsisosukzarh1.png)
 
-<p align="right">Parker1055<i> - It be like that sometimes</i> - </p>
+<p align="right">andtitov<i> - Passing the torch 😊</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 23 de septiembre, 05:37 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 24 de septiembre, 05:27 CEST </p>
