@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Passing the torch 😊](https://i.redd.it/nsisosukzarh1.png)
+![Instant energy boost](https://i.redd.it/l7xy6d1imdrh1.gif)
 
-<p align="right">andtitov<i> - Passing the torch 😊</i> - </p>
+<p align="right">Dramatic221<i> - Instant energy boost</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 24 de septiembre, 05:27 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 25 de septiembre, 05:45 CEST </p>
