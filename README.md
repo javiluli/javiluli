@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Instant energy boost](https://i.redd.it/l7xy6d1imdrh1.gif)
+![Corporate greed everywhere….](https://i.redd.it/2yn0fcqtjorh1.gif)
 
-<p align="right">Dramatic221<i> - Instant energy boost</i> - </p>
+<p align="right">Javelin-Turd<i> - Corporate greed everywhere….</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 25 de septiembre, 05:45 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 26 de septiembre, 05:51 CEST </p>
