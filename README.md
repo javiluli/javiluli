@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-!["Good one mom"](https://i.redd.it/v28v4ygx82sh1.png)
+![And it was delicious](https://i.redd.it/j26w6xtm39sh1.png)
 
-<p align="right">CommissionWhich984<i> - "Good one mom"</i> - </p>
+<p align="right">handgunboi47<i> - And it was delicious</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 28 de septiembre, 06:01 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 29 de septiembre, 06:34 CEST </p>
