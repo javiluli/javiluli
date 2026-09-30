@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And it was delicious](https://i.redd.it/j26w6xtm39sh1.png)
+![Like if you are a sigma chad 🗿🍷](https://i.redd.it/sbov8s3nmgsh1.gif)
 
-<p align="right">handgunboi47<i> - And it was delicious</i> - </p>
+<p align="right">ClancyBurner<i> - Like if you are a sigma chad 🗿🍷</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 29 de septiembre, 06:34 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 30 de septiembre, 06:18 CEST </p>
