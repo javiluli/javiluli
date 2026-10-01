@@ -97,9 +97,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Like if you are a sigma chad 🗿🍷](https://i.redd.it/sbov8s3nmgsh1.gif)
+![Peak tranquility unlocked](https://i.redd.it/iu896420lpsh1.png)
 
-<p align="right">ClancyBurner<i> - Like if you are a sigma chad 🗿🍷</i> - </p>
+<p align="right">Emotional-Painter885<i> - Peak tranquility unlocked</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +119,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 30 de septiembre, 06:18 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 1 de octubre, 06:30 CEST </p>
