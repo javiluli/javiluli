@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![mainsequence-planner](https://img.shields.io/badge/mainsequence_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/mainsequence-planner)
 [![Create-Pipe-connector](https://img.shields.io/badge/Create_Pipe_connector-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Create-Pipe-connector)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
 [![InstantXP](https://img.shields.io/badge/InstantXP-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/InstantXP)
@@ -97,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Peak tranquility unlocked](https://i.redd.it/iu896420lpsh1.png)
+![oh no no no](https://i.redd.it/o02a429uexsh1.png)
 
-<p align="right">Emotional-Painter885<i> - Peak tranquility unlocked</i> - </p>
+<p align="right">ohnag_eryeah<i> - oh no no no</i> - </p>
 
 </td>
 </tr> 
@@ -119,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 1 de octubre, 06:30 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 2 de octubre, 06:22 CEST </p>
