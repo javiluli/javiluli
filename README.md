@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![oh no no no](https://i.redd.it/o02a429uexsh1.png)
+![Safety first, toxic later. 🐍 या He’s a 10 but... 🚩](https://i.redd.it/d37bptbmvwsh1.png)
 
-<p align="right">ohnag_eryeah<i> - oh no no no</i> - </p>
+<p align="right">No_Goat364<i> - Safety first, toxic later. 🐍 या He’s a 10 but... 🚩</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 2 de octubre, 06:22 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 3 de octubre, 06:05 CEST </p>
