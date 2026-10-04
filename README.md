@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Safety first, toxic later. 🐍 या He’s a 10 but... 🚩](https://i.redd.it/d37bptbmvwsh1.png)
+![Didn’t think that through](https://i.redd.it/bqwjtfl4q6th1.gif)
 
-<p align="right">No_Goat364<i> - Safety first, toxic later. 🐍 या He’s a 10 but... 🚩</i> - </p>
+<p align="right">TheNuciestNoo<i> - Didn’t think that through</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 3 de octubre, 06:05 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 4 de octubre, 06:37 CEST - Día Mundial de los Animales 🦁🌲 </p>
