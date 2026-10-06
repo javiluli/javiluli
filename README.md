@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We have all experienced this at least once](https://i.redd.it/1foog58q6hth1.png)
+![lockdowns are so stupid](https://i.redd.it/nrs1q73qpqth1.png)
 
-<p align="right">Azure-Nightshades<i> - We have all experienced this at least once</i> - </p>
+<p align="right">composermybeloved<i> - lockdowns are so stupid</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 5 de octubre, 06:24 CEST - Día Mundial de los Docentes 👩‍🏫📚 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 6 de octubre, 07:11 CEST </p>
