@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![lockdowns are so stupid](https://i.redd.it/nrs1q73qpqth1.png)
+![They treat getting the ball more seriously than the tennis players take their game.](https://i.redd.it/a0coz0z7hwth1.gif)
 
-<p align="right">composermybeloved<i> - lockdowns are so stupid</i> - </p>
+<p align="right">Character-Q<i> - They treat getting the ball more seriously than the tennis players take their game.</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 6 de octubre, 07:11 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 7 de octubre, 06:39 CEST </p>
