@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![AI CEO: iT sAiD it woUlD nEveR LiE to mE](https://i.redd.it/2xtxqzl1yzth1.png)
+![Not today, Bub!](https://i.redd.it/zjdf627feauh1.png)
 
-<p align="right">keltanToo<i> - AI CEO: iT sAiD it woUlD nEveR LiE to mE</i> - </p>
+<p align="right">Syarafuddyn<i> - Not today, Bub!</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 8 de octubre, 06:49 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 9 de octubre, 06:52 CEST </p>
