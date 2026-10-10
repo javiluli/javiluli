@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Not today, Bub!](https://i.redd.it/zjdf627feauh1.png)
+![I used to not believe in demons](https://i.redd.it/87p24z1paiuh1.png)
 
-<p align="right">Syarafuddyn<i> - Not today, Bub!</i> - </p>
+<p align="right">Ultimate-Flexionator<i> - I used to not believe in demons</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 9 de octubre, 06:52 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 10 de octubre, 06:38 CEST - Día Mundial de la Salud Mental 🧠❤️ </p>
