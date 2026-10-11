@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I used to not believe in demons](https://i.redd.it/87p24z1paiuh1.png)
+![Same world, different breed](https://i.redd.it/bl7i07754huh1.png)
 
-<p align="right">Ultimate-Flexionator<i> - I used to not believe in demons</i> - </p>
+<p align="right">thought_cream84<i> - Same world, different breed</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 10 de octubre, 06:38 CEST - Día Mundial de la Salud Mental 🧠❤️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 11 de octubre, 06:23 CEST - Día Internacional de la Niña 👧🌏 </p>
