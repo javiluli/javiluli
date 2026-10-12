@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Same world, different breed](https://i.redd.it/bl7i07754huh1.png)
+![Classic orange cat behaviour](https://i.redd.it/bz3jxvl78quh1.png)
 
-<p align="right">thought_cream84<i> - Same world, different breed</i> - </p>
+<p align="right">JohnSkaoBoy<i> - Classic orange cat behaviour</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 11 de octubre, 06:23 CEST - Día Internacional de la Niña 👧🌏 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 12 de octubre, 06:39 CEST </p>
