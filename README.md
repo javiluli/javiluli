@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Classic orange cat behaviour](https://i.redd.it/bz3jxvl78quh1.png)
+![And it always happens when you want to check something real quick](https://i.redd.it/su5txndss2vh1.gif)
 
-<p align="right">JohnSkaoBoy<i> - Classic orange cat behaviour</i> - </p>
+<p align="right">insured_morron<i> - And it always happens when you want to check something real quick</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 12 de octubre, 06:39 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 13 de octubre, 07:44 CEST </p>
