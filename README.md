@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And it always happens when you want to check something real quick](https://i.redd.it/su5txndss2vh1.gif)
+![Pokemon's been out for a long time](https://i.redd.it/g8fndb2r36vh1.png)
 
-<p align="right">insured_morron<i> - And it always happens when you want to check something real quick</i> - </p>
+<p align="right">Enerjack<i> - Pokemon's been out for a long time</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 13 de octubre, 07:44 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 14 de octubre, 05:48 CEST </p>
