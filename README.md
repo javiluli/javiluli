@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Pokemon's been out for a long time](https://i.redd.it/g8fndb2r36vh1.png)
+![Good coffee *should* be cheap and simple](https://i.redd.it/80xh4gy53evh1.png)
 
-<p align="right">Enerjack<i> - Pokemon's been out for a long time</i> - </p>
+<p align="right">Ill-Stage4131<i> - Good coffee *should* be cheap and simple</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 14 de octubre, 05:48 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 15 de octubre, 05:29 CEST </p>
