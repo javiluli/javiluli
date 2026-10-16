@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Good coffee *should* be cheap and simple](https://i.redd.it/80xh4gy53evh1.png)
+![We all had our dreams...](https://i.redd.it/mpei4ds9smvh1.gif)
 
-<p align="right">Ill-Stage4131<i> - Good coffee *should* be cheap and simple</i> - </p>
+<p align="right">No_Republic_1781<i> - We all had our dreams...</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 15 de octubre, 05:29 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 16 de octubre, 05:25 CEST - Día Mundial de la Alimentación 🌾🥖 </p>
