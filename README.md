@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![We all had our dreams...](https://i.redd.it/mpei4ds9smvh1.gif)
+![It was a slow day at the egg farm](https://i.redd.it/1louk65pdxvh1.png)
 
-<p align="right">No_Republic_1781<i> - We all had our dreams...</i> - </p>
+<p align="right">simagus<i> - It was a slow day at the egg farm</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 16 de octubre, 05:25 CEST - Día Mundial de la Alimentación 🌾🥖 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 17 de octubre, 05:15 CEST </p>
