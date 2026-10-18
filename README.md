@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It was a slow day at the egg farm](https://i.redd.it/1louk65pdxvh1.png)
+![Harry Potter Discourse in 2026](https://i.redd.it/gz0yxrr3kqvh1.png)
 
-<p align="right">simagus<i> - It was a slow day at the egg farm</i> - </p>
+<p align="right">sexyimmigrant1998<i> - Harry Potter Discourse in 2026</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 17 de octubre, 05:15 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 18 de octubre, 05:19 CEST </p>
