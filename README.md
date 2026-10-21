@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![A microscopic edit](https://i.redd.it/lm4evhgwtgwh1.png)
+![It's really so overdone](https://i.redd.it/ee9tirpklbwh1.png)
 
-<p align="right">lilathinks<i> - A microscopic edit</i> - </p>
+<p align="right">Grassman78<i> - It's really so overdone</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 20 de octubre, 05:42 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 21 de octubre, 05:34 CEST </p>
