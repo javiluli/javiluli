@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![It's really so overdone](https://i.redd.it/ee9tirpklbwh1.png)
+![Can't sleep with my windows shut...](https://i.redd.it/gw8tsia0yvwh1.gif)
 
-<p align="right">Grassman78<i> - It's really so overdone</i> - </p>
+<p align="right">Mind_if_I-<i> - Can't sleep with my windows shut...</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 21 de octubre, 05:34 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 22 de octubre, 05:33 CEST </p>
