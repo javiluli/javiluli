@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Can't sleep with my windows shut...](https://i.redd.it/gw8tsia0yvwh1.gif)
+![I didn’t realize this show had such talent](https://i.redd.it/89b2s98stowh1.gif)
 
-<p align="right">Mind_if_I-<i> - Can't sleep with my windows shut...</i> - </p>
+<p align="right">RegularNoodles<i> - I didn’t realize this show had such talent</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 22 de octubre, 05:33 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 23 de octubre, 05:38 CEST </p>
