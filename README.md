@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I didn’t realize this show had such talent](https://i.redd.it/89b2s98stowh1.gif)
+![Expectations vs Reality](https://i.redd.it/o58gz68nmaxh1.png)
 
-<p align="right">RegularNoodles<i> - I didn’t realize this show had such talent</i> - </p>
+<p align="right">NikuCobalt<i> - Expectations vs Reality</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 23 de octubre, 05:38 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 24 de octubre, 05:32 CEST </p>
