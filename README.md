@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Expectations vs Reality](https://i.redd.it/o58gz68nmaxh1.png)
+![I don't think Thanos is making it out of this one guys](https://i.redd.it/ofq1w0ellfxh1.png)
 
-<p align="right">NikuCobalt<i> - Expectations vs Reality</i> - </p>
+<p align="right">No_Umpire_3371<i> - I don't think Thanos is making it out of this one guys</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 24 de octubre, 05:32 CEST </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 25 de octubre, 04:29 CET </p>
