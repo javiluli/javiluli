@@ -98,9 +98,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I don't think Thanos is making it out of this one guys](https://i.redd.it/ofq1w0ellfxh1.png)
+![Why does it kinda feel like it?](https://i.redd.it/cj41cgzzknxh1.png)
 
-<p align="right">No_Umpire_3371<i> - I don't think Thanos is making it out of this one guys</i> - </p>
+<p align="right">gt7900<i> - Why does it kinda feel like it?</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +120,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 25 de octubre, 04:29 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 26 de octubre, 04:31 CET </p>
