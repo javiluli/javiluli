@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![definitely-not-beacon](https://img.shields.io/badge/definitely_not_beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/definitely-not-beacon)
 [![mainsequence-planner](https://img.shields.io/badge/mainsequence_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/mainsequence-planner)
 [![Create-Pipe-connector](https://img.shields.io/badge/Create_Pipe_connector-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Create-Pipe-connector)
 [![starrupture-planner](https://img.shields.io/badge/starrupture_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/starrupture-planner)
@@ -98,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Why does it kinda feel like it?](https://i.redd.it/cj41cgzzknxh1.png)
+![Tim Cooked](https://i.redd.it/4pdpitgcsvxh1.png)
 
-<p align="right">gt7900<i> - Why does it kinda feel like it?</i> - </p>
+<p align="right">indianemployee<i> - Tim Cooked</i> - </p>
 
 </td>
 </tr> 
@@ -120,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 26 de octubre, 04:31 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 27 de octubre, 04:57 CET </p>
