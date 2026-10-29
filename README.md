@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I fat so I sat](https://i.redd.it/mwxlrn1farxh1.png)
+![steve jobs died for our sins](https://i.redd.it/vy5rh8eu19yh1.png)
 
-<p align="right">simagus<i> - I fat so I sat</i> - </p>
+<p align="right">HersheyStains<i> - steve jobs died for our sins</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 28 de octubre, 05:20 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 29 de octubre, 05:40 CET </p>
