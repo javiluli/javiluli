@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![steve jobs died for our sins](https://i.redd.it/vy5rh8eu19yh1.png)
+![Goodbye Captain, Professor, And So Much More...](https://i.redd.it/3ba7j0rdehyh1.png)
 
-<p align="right">HersheyStains<i> - steve jobs died for our sins</i> - </p>
+<p align="right">TheDarkKnight343<i> - Goodbye Captain, Professor, And So Much More...</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 30 de octubre, 05:40 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 31 de octubre, 05:24 CET - Halloween 🎃👻 </p>
