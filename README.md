@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Goodbye Captain, Professor, And So Much More...](https://i.redd.it/3ba7j0rdehyh1.png)
+![The American Dream](https://i.redd.it/wsogqjmqttyh1.png)
 
-<p align="right">TheDarkKnight343<i> - Goodbye Captain, Professor, And So Much More...</i> - </p>
+<p align="right">wsheldon2<i> - The American Dream</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 31 de octubre, 05:24 CET - Halloween 🎃👻 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de noviembre, 05:43 CET - Día de Todos los Santos 🕊️🌹 </p>
