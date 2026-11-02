@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The American Dream](https://i.redd.it/wsogqjmqttyh1.png)
+![when will it be the last straw for anyone to do something?](https://i.redd.it/znmav9ijj0zh1.png)
 
-<p align="right">wsheldon2<i> - The American Dream</i> - </p>
+<p align="right">Pleasant_Location_95<i> - when will it be the last straw for anyone to do something?</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 1 de noviembre, 05:43 CET - Día de Todos los Santos 🕊️🌹 </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de noviembre, 05:44 CET - Día de los Muertos 💀🕯️ </p>
