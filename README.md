@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![when will it be the last straw for anyone to do something?](https://i.redd.it/znmav9ijj0zh1.png)
+![They can take our lives - but they can never take our RAM](https://i.redd.it/nw4nwvc3y6zh1.gif)
 
-<p align="right">Pleasant_Location_95<i> - when will it be the last straw for anyone to do something?</i> - </p>
+<p align="right">HonneurOblige<i> - They can take our lives - but they can never take our RAM</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 2 de noviembre, 05:44 CET - Día de los Muertos 💀🕯️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de noviembre, 06:36 CET - Día Internacional de la Libertad de Prensa 📰🖊️ </p>
