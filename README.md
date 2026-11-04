@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![They can take our lives - but they can never take our RAM](https://i.redd.it/nw4nwvc3y6zh1.gif)
+![Only in Texas](https://i.redd.it/zj9d5wbv1hzh1.png)
 
-<p align="right">HonneurOblige<i> - They can take our lives - but they can never take our RAM</i> - </p>
+<p align="right">warinpocket<i> - Only in Texas</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 3 de noviembre, 06:36 CET - Día Internacional de la Libertad de Prensa 📰🖊️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de noviembre, 06:04 CET </p>
