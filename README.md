@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Only in Texas](https://i.redd.it/zj9d5wbv1hzh1.png)
+![Ain't America great?](https://i.redd.it/yqg22nkxajzh1.png)
 
-<p align="right">warinpocket<i> - Only in Texas</i> - </p>
+<p align="right">atsuko_24<i> - Ain't America great?</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 4 de noviembre, 06:04 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de noviembre, 06:26 CET </p>
