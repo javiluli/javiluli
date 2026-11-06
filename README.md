@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Ain't America great?](https://i.redd.it/yqg22nkxajzh1.png)
+![Ed won't know what hit him](https://i.redd.it/9d4olozfgtzh1.png)
 
-<p align="right">atsuko_24<i> - Ain't America great?</i> - </p>
+<p align="right">catfishman<i> - Ed won't know what hit him</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 5 de noviembre, 06:26 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 6 de noviembre, 06:26 CET </p>
