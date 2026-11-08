@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![The 2nd Amendment of IT](https://i.redd.it/vgbrp0iznvzh1.png)
+![Door Symphony](https://i.redd.it/x7ut4017w60i1.png)
 
-<p align="right">DampusOnCampus<i> - The 2nd Amendment of IT</i> - </p>
+<p align="right">NoIndustry3300<i> - Door Symphony</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 7 de noviembre, 05:54 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de noviembre, 05:46 CET </p>
