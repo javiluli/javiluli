@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Door Symphony](https://i.redd.it/x7ut4017w60i1.png)
+![Outsmarted you this time](https://i.redd.it/tukaf24al80i1.gif)
 
-<p align="right">NoIndustry3300<i> - Door Symphony</i> - </p>
+<p align="right">Barf-LoneStarr<i> - Outsmarted you this time</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 8 de noviembre, 05:46 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de noviembre, 05:55 CET </p>
