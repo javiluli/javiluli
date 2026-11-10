@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Outsmarted you this time](https://i.redd.it/tukaf24al80i1.gif)
+![Interesting AI](https://i.redd.it/3t6xcq2y9i0i1.png)
 
-<p align="right">Barf-LoneStarr<i> - Outsmarted you this time</i> - </p>
+<p align="right">DumbMonkeyBrain<i> - Interesting AI</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 9 de noviembre, 05:55 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de noviembre, 07:12 CET </p>
