@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Interesting AI](https://i.redd.it/3t6xcq2y9i0i1.png)
+![one in a billionaire opportunity](https://i.redd.it/ech35ify2t0i1.png)
 
-<p align="right">DumbMonkeyBrain<i> - Interesting AI</i> - </p>
+<p align="right">Cypeq<i> - one in a billionaire opportunity</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 10 de noviembre, 07:12 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 11 de noviembre, 05:57 CET </p>
