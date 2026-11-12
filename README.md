@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![one in a billionaire opportunity](https://i.redd.it/ech35ify2t0i1.png)
+![This damn pop-up](https://i.redd.it/ywzy7idwjy0i1.png)
 
-<p align="right">Cypeq<i> - one in a billionaire opportunity</i> - </p>
+<p align="right">Phenix_Flare<i> - This damn pop-up</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 11 de noviembre, 05:57 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de noviembre, 06:59 CET </p>
