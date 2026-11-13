@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![This damn pop-up](https://i.redd.it/ywzy7idwjy0i1.png)
+![Everyone knows schrodinger's cat, but do you know schrodinger's charging cable](https://i.redd.it/ys3te4flk81i1.png)
 
-<p align="right">Phenix_Flare<i> - This damn pop-up</i> - </p>
+<p align="right">LukeTheDuke_55<i> - Everyone knows schrodinger's cat, but do you know schrodinger's charging cable</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 12 de noviembre, 06:59 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de noviembre, 06:24 CET </p>
