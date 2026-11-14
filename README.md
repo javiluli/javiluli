@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Everyone knows schrodinger's cat, but do you know schrodinger's charging cable](https://i.redd.it/ys3te4flk81i1.png)
+![And me in the aisle seat too](https://i.redd.it/r30natv9ug1i1.png)
 
-<p align="right">LukeTheDuke_55<i> - Everyone knows schrodinger's cat, but do you know schrodinger's charging cable</i> - </p>
+<p align="right">ilkikuinthadik<i> - And me in the aisle seat too</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 13 de noviembre, 06:24 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de noviembre, 06:13 CET </p>
