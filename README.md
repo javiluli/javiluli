@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![And me in the aisle seat too](https://i.redd.it/r30natv9ug1i1.png)
+![What on earth is happening over there](https://i.redd.it/bcdt71i8em1i1.gif)
 
-<p align="right">ilkikuinthadik<i> - And me in the aisle seat too</i> - </p>
+<p align="right">Charming-Station7157<i> - What on earth is happening over there</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 14 de noviembre, 06:13 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 15 de noviembre, 06:06 CET </p>
