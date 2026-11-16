@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![What on earth is happening over there](https://i.redd.it/bcdt71i8em1i1.gif)
+![How did bro type a "q" in place of a "b"](https://i.redd.it/yyq651hljk1i1.gif)
 
-<p align="right">Charming-Station7157<i> - What on earth is happening over there</i> - </p>
+<p align="right">Pyro_von_Creep<i> - How did bro type a "q" in place of a "b"</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 15 de noviembre, 06:06 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de noviembre, 06:03 CET </p>
