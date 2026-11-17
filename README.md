@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How did bro type a "q" in place of a "b"](https://i.redd.it/yyq651hljk1i1.gif)
+![AO3's return](https://i.redd.it/vvx3dydq002i1.png)
 
-<p align="right">Pyro_von_Creep<i> - How did bro type a "q" in place of a "b"</i> - </p>
+<p align="right">Diamond-Solstice<i> - AO3's return</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 16 de noviembre, 06:03 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de noviembre, 07:51 CET </p>
