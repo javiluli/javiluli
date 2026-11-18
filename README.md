@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![AO3's return](https://i.redd.it/vvx3dydq002i1.png)
+![Comparisons Are Odorous](https://i.redd.it/1hz35ztyq82i1.png)
 
-<p align="right">Diamond-Solstice<i> - AO3's return</i> - </p>
+<p align="right">cdlvcdlv<i> - Comparisons Are Odorous</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Martes, 17 de noviembre, 07:51 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de noviembre, 07:10 CET </p>
