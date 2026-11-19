@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Comparisons Are Odorous](https://i.redd.it/1hz35ztyq82i1.png)
+![How I be looking like on the toilet for real](https://i.redd.it/wvlszxcf6f2i1.png)
 
-<p align="right">cdlvcdlv<i> - Comparisons Are Odorous</i> - </p>
+<p align="right">cinnamontoastcrnch89<i> - How I be looking like on the toilet for real</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 18 de noviembre, 07:10 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de noviembre, 07:12 CET - Día Internacional del Hombre 👨‍🦱⚖️ </p>
