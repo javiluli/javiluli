@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![How I be looking like on the toilet for real](https://i.redd.it/wvlszxcf6f2i1.png)
+![Its now or never](https://i.redd.it/4ezuee570o2i1.png)
 
-<p align="right">cinnamontoastcrnch89<i> - How I be looking like on the toilet for real</i> - </p>
+<p align="right">ParfaitDeli<i> - Its now or never</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 19 de noviembre, 07:12 CET - Día Internacional del Hombre 👨‍🦱⚖️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de noviembre, 06:58 CET </p>
