@@ -99,9 +99,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Its now or never](https://i.redd.it/4ezuee570o2i1.png)
+![Always wondered what happened to him](https://i.redd.it/7j1crf8x0u2i1.png)
 
-<p align="right">ParfaitDeli<i> - Its now or never</i> - </p>
+<p align="right">Guess-Deep<i> - Always wondered what happened to him</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +121,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 20 de noviembre, 06:58 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de noviembre, 06:52 CET </p>
