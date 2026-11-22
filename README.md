@@ -65,6 +65,7 @@
 
 <h2> <img src="./images/emojis/books.png" alt="📘" width="25" height="25" /> Mis ultimos repositorios </h2>
 
+[![heroui-theme-studio](https://img.shields.io/badge/heroui_theme_studio-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/heroui-theme-studio)
 [![definitely-not-beacon](https://img.shields.io/badge/definitely_not_beacon-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/definitely-not-beacon)
 [![mainsequence-planner](https://img.shields.io/badge/mainsequence_planner-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/mainsequence-planner)
 [![Create-Pipe-connector](https://img.shields.io/badge/Create_Pipe_connector-28A745.svg?style=flat-square&logo=github&logoColor=000000)](https://github.com/javiluli/Create-Pipe-connector)
@@ -99,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Always wondered what happened to him](https://i.redd.it/7j1crf8x0u2i1.png)
+![Video games cause violence? Nope. They taught me economics](https://i.redd.it/rquz3pti923i1.png)
 
-<p align="right">Guess-Deep<i> - Always wondered what happened to him</i> - </p>
+<p align="right">KnowledgeOk7634<i> - Video games cause violence? Nope. They taught me economics</i> - </p>
 
 </td>
 </tr> 
@@ -121,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 21 de noviembre, 06:52 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de noviembre, 06:25 CET </p>
