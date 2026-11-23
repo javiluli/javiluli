@@ -100,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Video games cause violence? Nope. They taught me economics](https://i.redd.it/rquz3pti923i1.png)
+![Supporting the hype from a distance](https://i.redd.it/r9mpal3lxx2i1.gif)
 
-<p align="right">KnowledgeOk7634<i> - Video games cause violence? Nope. They taught me economics</i> - </p>
+<p align="right">Memesance<i> - Supporting the hype from a distance</i> - </p>
 
 </td>
 </tr> 
@@ -122,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Domingo, 22 de noviembre, 06:25 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de noviembre, 07:02 CET </p>
