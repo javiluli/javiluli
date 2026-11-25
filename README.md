@@ -100,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Supporting the hype from a distance](https://i.redd.it/r9mpal3lxx2i1.gif)
+![Yes, thats your grandfather the one who didn’t buy the dip in Nvidia back in 2026](https://i.redd.it/vt1nyao6he3i1.png)
 
-<p align="right">Memesance<i> - Supporting the hype from a distance</i> - </p>
+<p align="right">usefsaeed<i> - Yes, thats your grandfather the one who didn’t buy the dip in Nvidia back in 2026</i> - </p>
 
 </td>
 </tr> 
@@ -122,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Lunes, 23 de noviembre, 07:02 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de noviembre, 08:16 CET - Día Internacional contra la Violencia hacia la Mujer 🌌🕯️ </p>
