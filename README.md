@@ -100,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![Yes, thats your grandfather the one who didn’t buy the dip in Nvidia back in 2026](https://i.redd.it/vt1nyao6he3i1.png)
+![There isn't one but imagine...](https://i.redd.it/20n2db3vrp3i1.gif)
 
-<p align="right">usefsaeed<i> - Yes, thats your grandfather the one who didn’t buy the dip in Nvidia back in 2026</i> - </p>
+<p align="right">AirPossible3797<i> - There isn't one but imagine...</i> - </p>
 
 </td>
 </tr> 
@@ -122,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Miércoles, 25 de noviembre, 08:16 CET - Día Internacional contra la Violencia hacia la Mujer 🌌🕯️ </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de noviembre, 08:05 CET </p>
