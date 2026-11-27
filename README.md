@@ -100,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![There isn't one but imagine...](https://i.redd.it/20n2db3vrp3i1.gif)
+![I fear I've made peak...](https://i.redd.it/if146z0w834i1.png)
 
-<p align="right">AirPossible3797<i> - There isn't one but imagine...</i> - </p>
+<p align="right">W3TF00T<i> - I fear I've made peak...</i> - </p>
 
 </td>
 </tr> 
@@ -122,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Jueves, 26 de noviembre, 08:05 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 27 de noviembre, 08:00 CET </p>
