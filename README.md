@@ -100,9 +100,9 @@
   <img src="./images/emojis/clown_face.png" alt="🤡" width="25" height="25" /> Un meme al día de Reddit
 </h2>
 
-![I fear I've made peak...](https://i.redd.it/if146z0w834i1.png)
+![They can time travel](https://i.redd.it/rqxwdde3i04i1.png)
 
-<p align="right">W3TF00T<i> - I fear I've made peak...</i> - </p>
+<p align="right">DisplayName_isIndigo<i> - They can time travel</i> - </p>
 
 </td>
 </tr> 
@@ -122,4 +122,4 @@
 </p>
 
 ---
-<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Viernes, 27 de noviembre, 08:00 CET </p>
+<p align="center"> ¡Este archivo <i>README</i> se genera <b>cada día!</b> <br /> Última actualización: Sábado, 28 de noviembre, 07:35 CET </p>
